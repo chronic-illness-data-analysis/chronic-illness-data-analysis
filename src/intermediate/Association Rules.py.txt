@@ -1,0 +1,108 @@
+from nltk.corpus import wordnet 
+import numpy as np # linear algebra
+import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+import matplotlib
+import matplotlib.pyplot as plt # for plotting
+import pickle
+import plotly.offline as py
+import seaborn as sns # for making plots with seaborn
+from mlxtend.preprocessing import TransactionEncoder
+from mlxtend.frequent_patterns import apriori, association_rules, fpgrowth
+color = sns.color_palette()
+import plotly.graph_objs as go
+import plotly.offline as offline
+offline.init_notebook_mode()
+import plotly.tools as tls
+#import squarify
+#from mpl_toolkits.basemap import Basemap
+from numpy import array
+from matplotlib import cm
+
+pd.set_option('display.max_columns', None)
+pd.set_option('display.max_rows', None)
+
+import os
+df = pd.read_csv("fd-export.csv")
+df['user_id'] = pd.Categorical(df['user_id'])
+df["age"] = df.age.replace(0.0,np.nan)
+df = df.assign(age = lambda x: x.age.where(x.age.ge(0)))    # ALl negative ages replaced by NaN for consistency
+df = df.assign(age = lambda x: x.age.where(x.age.le(118)))  # All ages greater than 117 are replaced by NaN
+df.loc[:,'trackable_name'] = df['trackable_name'].str.lower()
+
+
+symptoms = df[df.trackable_type=="Symptom"].trackable_name.unique()
+
+list_syns = []
+checked = np.array([])
+for i in range(len(symptoms)):
+    if len(symptoms[i].split()) > 1 or np.isin(i, checked):
+        continue
+    syns = wordnet.synsets(symptoms[i]) 
+    synonyms = []
+    for s in syns:
+        for l in s.lemmas():
+            synonyms.append(l.name())
+    synonyms = np.unique(synonyms)
+    intersect, ind1, ind2 = np.intersect1d(synonyms, symptoms[i:], return_indices=True)
+    flag = 0
+    if len(intersect)>0:
+        for j in list_syns:
+            #print(intersect, j)
+            temp_intersect = np.intersect1d(j, intersect)
+            if len(temp_intersect)>0:
+                j = np.append(j, symptoms[i])
+                flag = 1
+                break
+    if flag==1:
+        continue
+    checked = np.concatenate((checked, ind2+i))
+    if len(intersect)>1:
+        list_syns.append(intersect)
+
+replacement_dic = {'trackable_name':{}, 'trackable_id':{}}
+for syns in list_syns:
+    temp_name = df[df.trackable_name==syns[0]]['trackable_name'].iloc[0]
+    temp_id = df[df.trackable_name==syns[0]]['trackable_id'].iloc[0]
+    #temp_id = df.loc[idx, 'trackable_id'].iloc[0]
+    #temp_name = df.loc[idx, 'trackable_name'].iloc[0]
+    for i in range(1,len(syns)):
+        old_id = df[df.trackable_name==syns[i]]['trackable_id'].iloc[0]
+        replacement_dic['trackable_id'][old_id] = temp_id
+        replacement_dic['trackable_name'][syns[i]] = temp_name
+
+df.replace(replacement_dic, inplace=True)
+
+rep_list = [['fatigue', 'fatigue and tiredness', 'exhaustion'], ['abdominal pain', 'stomach pain'],
+           ['focus', 'difficulty concentrating']]
+replacement_dic = {'trackable_name':{}, 'trackable_id':{}}
+for syns in rep_list:
+    temp_name = df[df.trackable_name==syns[0]]['trackable_name'].iloc[0]
+    temp_id = df[df.trackable_name==syns[0]]['trackable_id'].iloc[0]
+    #temp_id = df.loc[idx, 'trackable_id'].iloc[0]
+    #temp_name = df.loc[idx, 'trackable_name'].iloc[0]
+    for i in range(1,len(syns)):
+        old_id = df[df.trackable_name==syns[i]]['trackable_id'].iloc[0]
+        replacement_dic['trackable_id'][old_id] = temp_id
+        replacement_dic['trackable_name'][syns[i]] = temp_name
+df.replace(replacement_dic, inplace=True)
+
+
+treatments = df[df.trackable_type=="Treatment"].trackable_name.unique()
+treatments = np.delete(treatments, np.where(treatments=='anxiety'))
+symptoms = df[df.trackable_type=="Symptom"].trackable_name.unique()
+
+te = TransactionEncoder()
+te_ary = te.fit(baskets).transform(baskets)
+baskets_df = pd.DataFrame(te_ary, columns=te.columns_)
+
+frequent_itemsets = fpgrowth(baskets_df, min_support=0.001, use_colnames=True)
+frequent_itemsets['length'] = frequent_itemsets['itemsets'].apply(lambda x: len(x))
+
+rules = association_rules(frequent_itemsets, metric="confidence", min_threshold=0.5)
+#rules.loc[:,'meds1'] = rules.loc[:,'antecedents'].apply(lambda x: len(x.intersection(set(treatments)))>0)
+rules.loc[:,'meds2'] = rules.loc[:,'antecedents'].apply(lambda x: x.issubset(set(treatments)))
+rules.loc[:,'len'] = rules.loc[:,'antecedents'].apply(lambda x: len(x)>1)
+
+temp = rules[(rules['meds2'] & rules['len'])]
+temp[['antecedents', 'consequents', 'confidence']]
+
