@@ -1,0 +1,3661 @@
+Condition,Treatment,Effectiveness
+Knee pain,Albuterol,-0.28117711982742927
+Cold hands,Ankle brace,0.26077106983840903
+Cold hands,Dulcoease ,0.4443244929019
+Menstrual cramps,Salbutamol,-0.020315711331414188
+pre-syncope ,Ankle brace,0.0788747116515737
+pre-syncope ,Dulcoease ,0.21529818460246056
+right ankle pain,Ankle brace,0.7676017916463774
+right ankle pain,Dulcoease ,0.7279189090922432
+Air hunger,BeachBody OnDemand,0.3479355452244999
+Air hunger,Cold Pack,0.06744344794824418
+Air hunger,Cyclizine,0.34310666011704694
+Air hunger,Feverfew,0.1609820848731697
+Air hunger,Passionflower,0.27739432389065505
+Air hunger,Piyo,0.19072887388162035
+Air hunger,Probiotic,0.3387425007903736
+Air hunger,Ritalin,0.4756712119890334
+Air hunger,Solifenacin,0.2011059455761366
+Air hunger,TigerBalm,0.3271254037501138
+Air hunger,Vitamin b12,0.3756075019342149
+Brain fog,BeachBody OnDemand,0.01208401253702791
+Brain fog,Cold Pack,-0.12678992358130256
+Brain fog,Cyclizine,-0.04350871995503518
+Brain fog,Feverfew,-0.13728763726754553
+Brain fog,Passionflower,-0.0833590001282259
+Brain fog,Piyo,-0.13827367611915758
+Brain fog,Probiotic,-0.3435647646630091
+Brain fog,Ritalin,0.025922256053856618
+Brain fog,Solifenacin,-0.015317781642760542
+Brain fog,TigerBalm,-0.014859993230611181
+Brain fog,Vitamin b12,0.13728916916378608
+Fatigue and tiredness,BeachBody OnDemand,-0.025521468862092105
+Fatigue and tiredness,Cold Pack,-0.13443489187797464
+Fatigue and tiredness,Cyclizine,-0.11389155606688875
+Fatigue and tiredness,Feverfew,-0.0951094648352904
+Fatigue and tiredness,Passionflower,-0.1539283966781439
+Fatigue and tiredness,Piyo,-0.20334008305534979
+Fatigue and tiredness,Probiotic,-0.09385480537326937
+Fatigue and tiredness,Ritalin,-0.049532950585466085
+Fatigue and tiredness,Solifenacin,-0.1430501767785438
+Fatigue and tiredness,TigerBalm,0.015666211503322543
+Fatigue and tiredness,Vitamin b12,0.12952045911689705
+Feeling Full,BeachBody OnDemand,0.41220741686223583
+Feeling Full,Cold Pack,0.2762918409837987
+Feeling Full,Cyclizine,0.2104356864376521
+Feeling Full,Feverfew,0.2933960059631966
+Feeling Full,Passionflower,0.3782748575014875
+Feeling Full,Piyo,0.33483000645037764
+Feeling Full,Probiotic,0.28733569921805613
+Feeling Full,Ritalin,0.4680228748635392
+Feeling Full,Solifenacin,0.3407594538460368
+Feeling Full,TigerBalm,0.41747954658046227
+Feeling Full,Vitamin b12,0.3332465945480412
+Feeling nauseas,BeachBody OnDemand,0.5503476409796304
+Feeling nauseas,Cold Pack,0.27849658240101927
+Feeling nauseas,Cyclizine,0.35147843440771454
+Feeling nauseas,Feverfew,0.3464792782209622
+Feeling nauseas,Passionflower,0.44828232428155185
+Feeling nauseas,Piyo,0.41500530493547844
+Feeling nauseas,Probiotic,0.5251226069510577
+Feeling nauseas,Ritalin,0.6538735308399616
+Feeling nauseas,Solifenacin,0.2848216956436255
+Feeling nauseas,TigerBalm,0.40201046487911296
+Feeling nauseas,Vitamin b12,0.41934906005752254
+Hashimoto's disease,BeachBody OnDemand,0.09805602151758902
+Hashimoto's disease,Cold Pack,-0.10735968771226544
+Hashimoto's disease,Cyclizine,0.038335974917602905
+Hashimoto's disease,Feverfew,-0.038806796039334256
+Hashimoto's disease,Ingefära,0.7597016147346729
+Hashimoto's disease,Passionflower,0.024469657313668194
+Hashimoto's disease,Piyo,0.031290461600219026
+Hashimoto's disease,Probiotic,0.19191838347019213
+Hashimoto's disease,Ritalin,0.2186588087306549
+Hashimoto's disease,Solifenacin,0.029981662389345454
+Hashimoto's disease,TigerBalm,0.175917384601458
+Hashimoto's disease,Vitamin b12,0.08673609977671504
+Inner trembling,BeachBody OnDemand,-0.24415606073030244
+Inner trembling,Cold Pack,-0.4464705843819085
+Inner trembling,Cyclizine,-0.2878699206670963
+Inner trembling,Feverfew,-0.32322214667649735
+Inner trembling,Passionflower,-0.2524625540874236
+Inner trembling,Piyo,-0.3083460040033699
+Inner trembling,Probiotic,-0.1161838330467841
+Inner trembling,Ritalin,0.008784173396225364
+Inner trembling,Solifenacin,-0.2843023436582781
+Inner trembling,TigerBalm,-0.1983076397305877
+Inner trembling,Vitamin b12,-0.32797380206083193
+Peripheral neuropathy,BeachBody OnDemand,-0.05784640379188774
+Peripheral neuropathy,Cold Pack,-0.18211923278103698
+Peripheral neuropathy,Cyclizine,-0.2578147953317067
+Peripheral neuropathy,Feverfew,-0.19788687816538492
+Peripheral neuropathy,Passionflower,-0.04842912695890087
+Peripheral neuropathy,Piyo,-0.10662827423347654
+Peripheral neuropathy,Probiotic,-0.09863999769881754
+Peripheral neuropathy,Ritalin,0.0625566445992691
+Peripheral neuropathy,Solifenacin,-0.12130565846675923
+Peripheral neuropathy,TigerBalm,0.02351492483239393
+Peripheral neuropathy,Vitamin b12,-0.13510758392382044
+Postural hypotension,BeachBody OnDemand,0.3446140624845044
+Postural hypotension,Cold Pack,0.07315095519508978
+Postural hypotension,Cyclizine,0.10396425387862335
+Postural hypotension,Feverfew,0.1475335544833002
+Postural hypotension,Passionflower,0.24979864426462955
+Postural hypotension,Piyo,0.16358967644721678
+Postural hypotension,Probiotic,0.3455990234530189
+Postural hypotension,Ritalin,0.3894311126696742
+Postural hypotension,Solifenacin,0.13390252745362785
+Postural hypotension,TigerBalm,0.2646754949387198
+Postural hypotension,Vitamin b12,0.24006197944946053
+Seeing flashes,BeachBody OnDemand,-0.024818142530718422
+Seeing flashes,Cold Pack,-0.1156429820293089
+Seeing flashes,Cyclizine,-0.2900736840878242
+Seeing flashes,Feverfew,-0.15699241802388514
+Seeing flashes,Passionflower,-0.1561810552847635
+Seeing flashes,Piyo,-0.11197790943613918
+Seeing flashes,Probiotic,-0.005642120811811299
+Seeing flashes,Ritalin,-0.048194730471356695
+Seeing flashes,Solifenacin,-0.20384525914779833
+Seeing flashes,TigerBalm,0.03930141184013169
+Seeing flashes,Vitamin b12,-0.07488111484953111
+Vulvodynia,BeachBody OnDemand,-0.03570359625572254
+Vulvodynia,Cold Pack,-0.1616005282137994
+Vulvodynia,Cyclizine,-0.2987253869555945
+Vulvodynia,Feverfew,-0.208605981096397
+Vulvodynia,Ingefära,0.5731927813594163
+Vulvodynia,Passionflower,-0.1315170804083067
+Vulvodynia,Piyo,-0.16631255411486612
+Vulvodynia,Probiotic,-0.07331929331597714
+Vulvodynia,Ritalin,-0.05805162929952369
+Vulvodynia,Solifenacin,-0.2441002934995116
+Vulvodynia,TigerBalm,-0.08617390657788115
+Vulvodynia,Vitamin b12,-0.16332585978852895
+adrenal fatigue,BeachBody OnDemand,0.27661987121899045
+adrenal fatigue,Cold Pack,0.05578728402162668
+adrenal fatigue,Cyclizine,-0.02367695996586143
+adrenal fatigue,Feverfew,0.04143885533531129
+adrenal fatigue,Ingefära,0.8193691506274774
+adrenal fatigue,Passionflower,0.22620332412416438
+adrenal fatigue,Piyo,0.15472353348808104
+adrenal fatigue,Probiotic,0.11652468899968119
+adrenal fatigue,Ritalin,0.3183313126965006
+adrenal fatigue,Solifenacin,0.09606824560713073
+adrenal fatigue,TigerBalm,0.1058633164912016
+adrenal fatigue,Vitamin b12,0.07308663379097993
+bleeding in nail beds,BeachBody OnDemand,0.6259504618446747
+bleeding in nail beds,Cold Pack,0.3595736343103617
+bleeding in nail beds,Cyclizine,0.43013591185820993
+bleeding in nail beds,Feverfew,0.34658715167660137
+bleeding in nail beds,Passionflower,0.5456749759519101
+bleeding in nail beds,Piyo,0.467265053172511
+bleeding in nail beds,Probiotic,0.6282984870570292
+bleeding in nail beds,Ritalin,0.6641302354958842
+bleeding in nail beds,Solifenacin,0.39516282441119355
+bleeding in nail beds,TigerBalm,0.5562680867665287
+bleeding in nail beds,Vitamin b12,0.6523624999672362
+burning feet,BeachBody OnDemand,0.2581617959754137
+burning feet,Cold Pack,0.07452807441766823
+burning feet,Cyclizine,0.035738940409417295
+burning feet,Feverfew,0.008191037086918943
+burning feet,Passionflower,0.2719369176847235
+burning feet,Piyo,0.15976367239167064
+burning feet,Probiotic,0.2627904482464797
+burning feet,Ritalin,0.3738938448545653
+burning feet,Solifenacin,0.06751340004678752
+burning feet,TigerBalm,0.2384415750931625
+burning feet,Vitamin b12,0.16914290452232805
+burning hands,BeachBody OnDemand,0.20543790797811246
+burning hands,Cold Pack,-0.024150043214902318
+burning hands,Cyclizine,0.006178948966979146
+burning hands,Feverfew,0.0267216198066466
+burning hands,Passionflower,0.18251090592302233
+burning hands,Piyo,0.05904294586479599
+burning hands,Probiotic,0.16234720727631777
+burning hands,Ritalin,0.19717537717767852
+burning hands,Solifenacin,0.009092468159713925
+burning hands,TigerBalm,0.12903385354841485
+burning hands,Vitamin b12,0.11881265795332445
+erythromelalgia,BeachBody OnDemand,0.4653670586850932
+erythromelalgia,Cold Pack,0.16176632168513475
+erythromelalgia,Cyclizine,0.26244836221854007
+erythromelalgia,Feverfew,0.20840545399072496
+erythromelalgia,Ingefära,1.0148414642698773
+erythromelalgia,Passionflower,0.27466336014482357
+erythromelalgia,Piyo,0.3690106267530538
+erythromelalgia,Probiotic,0.5054849986346173
+erythromelalgia,Ritalin,0.4265006141650808
+erythromelalgia,Solifenacin,0.19590017017784228
+erythromelalgia,TigerBalm,0.4027772348334802
+erythromelalgia,Vitamin b12,0.39266834375955834
+hypotension,BeachBody OnDemand,0.4938358743789109
+hypotension,Cold Pack,0.27476182261581383
+hypotension,Cyclizine,0.32842174406893015
+hypotension,Feverfew,0.2704633175781781
+hypotension,Passionflower,0.32515291235015964
+hypotension,Piyo,0.32205546519186096
+hypotension,Probiotic,0.46602574089487325
+hypotension,Ritalin,0.5009566879194534
+hypotension,Solifenacin,0.2093858759037664
+hypotension,TigerBalm,0.38992314011330015
+hypotension,Vitamin b12,0.4534181464193912
+vulvodyna,BeachBody OnDemand,0.33394581824263764
+vulvodyna,Cold Pack,0.17773350078747044
+vulvodyna,Cyclizine,0.016411207135184347
+vulvodyna,Feverfew,0.08885281201054379
+vulvodyna,Passionflower,0.2689034385522123
+vulvodyna,Piyo,0.2206703299393439
+vulvodyna,Probiotic,0.3030669221352296
+vulvodyna,Ritalin,0.32227145578811806
+vulvodyna,Solifenacin,0.04951967679420176
+vulvodyna,TigerBalm,0.2871203857427199
+vulvodyna,Vitamin b12,0.164098363243666
+waking up at 4-5 am,BeachBody OnDemand,0.42594759296473245
+waking up at 4-5 am,Cold Pack,0.20217935503239953
+waking up at 4-5 am,Cyclizine,0.3011185928423383
+waking up at 4-5 am,Feverfew,0.24661561890750755
+waking up at 4-5 am,Passionflower,0.29208331226844514
+waking up at 4-5 am,Piyo,0.27697130148533594
+waking up at 4-5 am,Probiotic,0.3469173357723905
+waking up at 4-5 am,Ritalin,0.461496685419192
+waking up at 4-5 am,Solifenacin,0.25466460429111243
+waking up at 4-5 am,TigerBalm,0.3386563794897097
+waking up at 4-5 am,Vitamin b12,0.3956859101661292
+lightheadedness,CBD cream,0.12308361676074787
+Anxiety,pain patch,-0.023592487112531438
+Autism spectrum disorder,hydrocodone-acetaminophen,0.15952666110566532
+Autism spectrum disorder,pain patch,0.021417063028048168
+Chest pain,pain patch,0.09155842634092806
+Decreased appetite,Naproxen,-0.038685617619140966
+Depression,pain patch,-0.031867433819693945
+Fatigue,Naproxen,-0.31011708648979674
+Hand pain,Naproxen,0.0036925861431313656
+Hand pain,pain patch,0.06277616871437794
+Headache,pain patch,0.08235971511382734
+Insomnia,pain patch,0.4378148292185919
+Irritability,pain patch,0.148395297260689
+Nausea,pain patch,0.08340407152095555
+Tingling face,pain patch,0.24218933395399536
+nerve pain,Naproxen,-0.1573125164826641
+nerve pain,pain patch,0.14932148893544733
+shakiness,Naproxen,0.17325108554953683
+unknown,pain patch,0.060466640522082116
+Allergies,Daily walk,0.1114202310048703
+Allergies,Turmeric,-0.3363711624330807
+Anemia,Daily walk,0.37299962183966584
+Anemia,Turmeric,-0.07659980978042176
+Anxiety,Church,0.705693723139455
+Anxiety,Daily walk,0.09132620675008733
+Anxiety,Turmeric,0.20442788014918667
+Blood clotting disorder,Daily walk,0.7316472205655166
+Blood clotting disorder,Turmeric,0.3692968963844916
+Chronic Migraines,Daily walk,-0.031226287754345036
+Chronic Migraines,Turmeric,-0.22998740268802553
+Chronic anxiety,Daily walk,0.2513016371363545
+Chronic anxiety,Turmeric,-0.08382545776029236
+Chronic fatigue syndrome,Daily walk,-0.049408530627640376
+Chronic fatigue syndrome,Turmeric,-0.369658549623206
+Cold intolerance,Daily walk,0.9313631423813593
+Cold intolerance,Turmeric,0.5784791941557887
+Common variable immunodeficiency,Daily walk,-0.10082285427173321
+Common variable immunodeficiency,Turmeric,-0.4490272423678042
+Deep vein thrombosis,Daily walk,0.4762080100897753
+Deep vein thrombosis,Turmeric,0.0507603056678811
+Depression,Church,0.5834469648284687
+Depression,Daily walk,-0.11150224167534428
+Depression,Turmeric,-0.1928315377892894
+Dysthymia,Daily walk,-0.008022664035764163
+Dysthymia,Turmeric,-0.27724547126946775
+Eating problems,Daily walk,0.5968746185233104
+Eating problems,Turmeric,0.3334325800299667
+Ehlers-Danlos syndrome,Daily walk,0.142292071974005
+Ehlers-Danlos syndrome,Turmeric,-0.11161895856756301
+Endocrine disorder,Daily walk,0.8133920806882745
+Endocrine disorder,Turmeric,0.4846841283467646
+Epistaxis,Daily walk,0.5977370745295233
+Epistaxis,Turmeric,0.3728216069991805
+Fatigue,Church,0.7208061981851515
+Fatigue,Daily walk,0.03335014643545803
+Fatigue,Turmeric,-0.2776035484225179
+Fibromyalgia,Daily walk,-0.1459875575147912
+Fibromyalgia,Turmeric,-0.29535979289890296
+Heat intolerance,Daily walk,-0.06443360237600064
+Heat intolerance,Turmeric,-0.752945093842911
+Hypersomnolence,Daily walk,0.3333128870004924
+Hypersomnolence,Turmeric,0.12525018634329266
+INR,Daily walk,0.5397578543860194
+INR,Turmeric,0.2218133809268269
+Irritability,Daily walk,0.2229984096260926
+Irritability,Turmeric,0.09740869506410438
+Lack of energy,Daily walk,0.16422692636436287
+Lack of energy,Turmeric,-0.21134119621221453
+Migraine,Church,0.7335365572379131
+Migraine,Daily walk,-0.03584339919565767
+Migraine,Turmeric,-0.05855739589085665
+Mitral valve prolapse,Daily walk,0.6906048803515648
+Mitral valve prolapse,Turmeric,0.36895137777781767
+Nausea,Church,0.7037941203235724
+Nausea,Daily walk,0.25704028898670805
+Nausea,Turmeric,-0.3259245375655624
+Obsessive-compulsive disorder,Daily walk,0.32736365780241866
+Obsessive-compulsive disorder,Turmeric,0.12947152498558617
+PTSD,Daily walk,0.22642830971919112
+PTSD,Turmeric,-0.27574696074775407
+Panic Attack,Daily walk,0.23108193275505476
+Panic Attack,Turmeric,-0.16559912152219
+Panic attacks,Daily walk,0.2699606020610434
+Panic attacks,Turmeric,0.07170436827763928
+Poor immune response,Daily walk,0.045597261041124465
+Poor immune response,Turmeric,-0.21158932684438006
+Raynaud's disease,Daily walk,0.06765234561222967
+Raynaud's disease,Turmeric,-0.23046704709414584
+Self Harm,Daily walk,0.3322248521165701
+Self Harm,Turmeric,-0.05501222117984546
+Sensory Processing Disorder,Daily walk,0.48852537588906675
+Sensory Processing Disorder,Turmeric,0.1816188358436307
+Sensory overload,Daily walk,0.4574919170800076
+Sensory overload,Turmeric,-0.01593894558784162
+Social anxiety,Daily walk,0.4470445501776129
+Social anxiety,Turmeric,0.14390905026417167
+Stomach cramps,Daily walk,0.2507670698736101
+Stomach cramps,Turmeric,-0.3385552493878481
+Suicidal Thoughts,Daily walk,0.2528043795916862
+Suicidal Thoughts,Turmeric,0.20351417810847838
+eating problems,Daily walk,0.29793293421973527
+eating problems,Turmeric,-0.004664485267637228
+heart palpitations,Daily walk,0.21323508231739652
+heart palpitations,Turmeric,-0.26895708721738
+irritability,Daily walk,0.21981897235670256
+irritability,Turmeric,0.016521472383713015
+psychopathy,Daily walk,0.7581907191607204
+psychopathy,Turmeric,0.5120270893194504
+social anxiety,Daily walk,0.2009492609900733
+social anxiety,Turmeric,-0.11051530475039152
+Cluster headache,hot shower,-0.4492367168030484
+Hip pain,hot shower,-0.40437493607414937
+Polycystic ovary syndrome (PCOS),hot shower,-0.3307973234160502
+ovarian pain,hot shower,0.1768312682634801
+Hip Pain,Cbd oil,-0.0442839570487944
+Lower back pain,Cbd oil,-0.07945129394945444
+RSD/CRPS,Cbd oil,0.3161576621777951
+TMJ disorders,Cbd oil,0.10174119077600563
+left leg pain,Cbd oil,0.20229501030121316
+Abdominal pain,Stretching,-0.19549925095940995
+Acid Reflux,Stretching,-0.12645150120462118
+Adrenaline effects,Stretching,-0.3363280516304723
+Back pain,Stretching,-0.3208844199877469
+Bladder pain,Stretching,-0.26281798435022824
+Brain fog,Stretching,-0.3950357182546166
+Brief acute abdominal pain,Stretching,-0.18369967713154484
+Dizziness,Stretching,-0.17668466954424694
+Fatigue,Stretching,-0.49651036551641714
+Headache,Stretching,-0.48169479815708865
+Heat intolerance,Stretching,-0.7127107388381134
+Joint pain,Stretching,-0.7035439567823396
+Nausea,Stretching,-0.15969020880234422
+Orthostatic Intolerance,Stretching,-0.2577962363279999
+Random isolated pain,Stretching,0.11886580362166621
+Skin Pain,Stretching,-0.15489963024842243
+Stress,Stretching,-0.37763049135277565
+Vertigo,Stretching,0.09122722002489471
+bowel movements,Stretching,-0.27777904967267963
+low blood pressure,Stretching,0.13517869908025051
+scalp itching,Stretching,0.1002883065925673
+Schizoaffective disorder,Klonopin,0.06407891696411508
+Sweet breath,Toprol,-0.018684657018521462
+Back pain,Gabapentin,-0.37903053456083524
+Nausea,Gabapentin,-0.1939232483363988
+Stomach Pain,Gabapentin,-0.20799540829518826
+Anhedonia,Mt. Si ACDC 2x Coco Caps,-0.5230794107139006
+Anhedonia,Tetralabs Gold Caps,-0.14449081457255147
+Anhedonia,Tetralabs Gold Caps CBN,-0.19013649913547637
+Back pain,Mt. Si ACDC 2x Coco Caps,-0.4694639779901039
+Back pain,Tetralabs Gold Caps,0.00684024423105975
+Back pain,Tetralabs Gold Caps CBN,-0.12375007616013582
+Body aching,Mt. Si ACDC 2x Coco Caps,-0.31253117960161875
+Body aching,Tetralabs Gold Caps,0.16788618290497875
+Body aching,Tetralabs Gold Caps CBN,0.05264989296048536
+Chronic fatigue syndrome,Mt. Si ACDC 2x Coco Caps,-0.41500918040598545
+Chronic fatigue syndrome,Tetralabs Gold Caps,-0.04118675700063326
+Chronic fatigue syndrome,Tetralabs Gold Caps CBN,-0.19573767239712966
+Chronic mid back pain,Mt. Si ACDC 2x Coco Caps,-0.41775150841983166
+Chronic mid back pain,Tetralabs Gold Caps,-0.1020891700324824
+Chronic mid back pain,Tetralabs Gold Caps CBN,-0.11218703991767984
+Dizziness,Mt. Si ACDC 2x Coco Caps,-0.3294648992144458
+Dizziness,Tetralabs Gold Caps,0.17290273566209913
+Dizziness,Tetralabs Gold Caps CBN,-0.2045699305127314
+Dull,Mt. Si ACDC 2x Coco Caps,-0.3171980510682301
+Dull,Tetralabs Gold Caps,0.020745715225403673
+Dull,Tetralabs Gold Caps CBN,-0.10261422350118701
+Fever,Mt. Si ACDC 2x Coco Caps,-0.013585738139253917
+Foot Pain,Mt. Si ACDC 2x Coco Caps,-0.13557879684694815
+Foot Pain,Tetralabs Gold Caps,0.2651140802173705
+Foot Pain,Tetralabs Gold Caps CBN,0.11641294281782129
+GERD,Mt. Si ACDC 2x Coco Caps,-0.5355060055236344
+GERD,Tetralabs Gold Caps,0.016106474753852844
+GERD,Tetralabs Gold Caps CBN,-0.047564744507757495
+Joint pain,Mt. Si ACDC 2x Coco Caps,-0.38501993378722293
+Joint pain,Tetralabs Gold Caps,-0.1177712786245386
+Joint pain,Tetralabs Gold Caps CBN,0.033930624663726205
+Muscle cramps,Mt. Si ACDC 2x Coco Caps,-0.3366911276282398
+Muscle cramps,Tetralabs Gold Caps,-0.1723171351027196
+Muscle cramps,Tetralabs Gold Caps CBN,-0.0018144696433234075
+Muscle pain,Mt. Si ACDC 2x Coco Caps,-0.4551696244073342
+Muscle pain,Tetralabs Gold Caps,-0.07153847884094089
+Muscle pain,Tetralabs Gold Caps CBN,-0.13732646228885823
+Seborrheic dermatitis,Mt. Si ACDC 2x Coco Caps,0.27140052790135083
+Seborrheic dermatitis,Tetralabs Gold Caps,0.70302502616973
+Seborrheic dermatitis,Tetralabs Gold Caps CBN,0.6061935773366893
+Stomach Pain,Mt. Si ACDC 2x Coco Caps,-0.6259381523772742
+Stomach Pain,Tetralabs Gold Caps,0.0700545582303351
+Stomach Pain,Tetralabs Gold Caps CBN,0.08766521294098353
+Stomach hardness ,Mt. Si ACDC 2x Coco Caps,-0.45796411548438
+Stomach hardness ,Tetralabs Gold Caps,-0.004901259916046376
+Stomach hardness ,Tetralabs Gold Caps CBN,-0.09193297900912063
+Sweating,Mt. Si ACDC 2x Coco Caps,-0.31623150557447605
+Sweating,Tetralabs Gold Caps,0.06745268469997487
+Sweating,Tetralabs Gold Caps CBN,-0.0465552466490832
+burning feet,Mt. Si ACDC 2x Coco Caps,-0.11998159980281141
+burning feet,Tetralabs Gold Caps,0.4034587875049074
+burning feet,Tetralabs Gold Caps CBN,0.12069071075365435
+complusion,Mt. Si ACDC 2x Coco Caps,-0.2534300260890727
+complusion,Tetralabs Gold Caps,0.09306249961189401
+complusion,Tetralabs Gold Caps CBN,-5.112556037851698e-05
+neuropathic pain,Mt. Si ACDC 2x Coco Caps,-0.45966132260812337
+neuropathic pain,Tetralabs Gold Caps,-0.06839665223855967
+neuropathic pain,Tetralabs Gold Caps CBN,-0.2009851667092933
+sneezing,Tetralabs Gold Caps,0.31303284740575177
+Anterior prolapse (cystocele),Hyoscyamine,0.17040831538958318
+Anterior prolapse (cystocele),Melatonin,0.1972840881991541
+Anterior prolapse (cystocele),Pepto-bismol,0.07956039202867653
+Anterior prolapse (cystocele),Ranitidine,0.38455656884666484
+Nausea,Hyoscyamine,0.09694860047324429
+Nausea,Melatonin,-0.0034462166970893188
+Nausea,Pepto-bismol,0.12945540782881265
+Nausea,Ranitidine,-0.09816893789170948
+Anxiety,Desert Harvest,-0.4245660717828235
+Anxiety,Ibuprofen,-0.039535223368294035
+Burning urination,Ibuprofen,0.23940884590482425
+Constipation,Desert Harvest,-0.4341658538602972
+Constipation,Lupron,-0.3479245039245813
+Constipation,Oxybutynin,-0.03618598516657387
+Constipation,Propanalol,-0.3652617081221984
+Depression,Desert Harvest,-0.246206961186225
+Depression,Ibuprofen,-0.14172701383487635
+Depression,Lupron,-0.3529902957195137
+Diarrhea,Desert Harvest,-0.1537090126393116
+Diarrhea,Oxybutynin,0.014391075067978445
+Endometriosis,Desert Harvest,-0.4236111082596249
+Faintness,Desert Harvest,-0.4935182423949124
+Faintness,Lupron,-0.6147977305667174
+Headache,Desert Harvest,-0.20935983448239165
+Interstitial cystitis,Desert Harvest,-0.2437392198723204
+Menstrual cramps,Lupron,-0.23506096054627956
+Nausea,Desert Harvest,-0.3105425999412925
+Nausea,Lupron,-0.5082703311341426
+Nausea,Myrbetriq,0.022803865319623202
+Nausea,Oxybutynin,0.1502007178624259
+Nausea,Propanalol,-0.30082107097595
+Night sweats,Ibuprofen,-0.2855571326982341
+Pain during sex,Myrbetriq,0.05876442996220105
+Panic Attack,Desert Harvest,-0.2191017847618288
+Panic Attack,Ibuprofen,-0.0976761912700814
+Panic Attack,Lupron,-0.2770529894398016
+Shaking,Desert Harvest,0.12441513203151021
+Spotting,Desert Harvest,-0.011886240252295482
+Spotting,Ibuprofen,0.20510268130049084
+Spotting,Lupron,0.057251957850995704
+Spotting,Oxybutynin,0.33301844276439824
+acne,Ibuprofen,-0.12552543875797947
+Vertigo,Exercise--walking,0.5718340205892161
+Vertigo,Mersyndol Forte,0.410808546723809
+Back pain,Paracetamol,-0.32376598269701135
+Elbow pain,Paracetamol,-0.06693199487083329
+Fatigue,Paracetamol,-0.20280731332248758
+Foot pain,Paracetamol,-0.1516755341489816
+Headache,Paracetamol,-0.020440089834963343
+Neck pain,Paracetamol,-0.0018494614433934575
+Depression,Co-Codamol,0.02682907064878922
+Hot flashes,Co-Codamol,0.006245398429435282
+Insomnia,Co-Codamol,0.2463975918566691
+Mouth ulcers,Co-Codamol,-0.025439129507599887
+Ankle pain,Fluvoxamine,-0.21442819027695714
+Ankle pain,Low Dose Naltrexone,-0.23610792202632727
+Ankle pain,Magnesium,-0.09282862651593723
+Ankle pain,Methylphenidate,-0.13795280981889807
+Ankle pain,Midodrine,-0.3317890990214033
+Ankle pain,Plaquenil,-0.44151967333936937
+Ankle pain,Ropinirole,-0.1359705999207513
+Ankle pain,Topiramate,-0.5654943380482765
+Ankle pain,Tyrosine,-0.11922962885002221
+Ankle pain,Voltaren,-0.4134284934799161
+Ankle pain,gluten free diet,-0.07645658813641709
+Body tenderness,Fluvoxamine,0.5559000295325849
+Body tenderness,Low Dose Naltrexone,0.48653813272595814
+Body tenderness,Magnesium,0.4867683162085519
+Body tenderness,Methylphenidate,0.5212428893287443
+Body tenderness,Midodrine,0.470696254625687
+Body tenderness,Plaquenil,0.5418444545264912
+Body tenderness,Ropinirole,0.5641700992673523
+Body tenderness,Topiramate,0.47588787804191696
+Body tenderness,Tyrosine,0.5899038472435636
+Body tenderness,Voltaren,0.3962615190004437
+Body tenderness,gluten free diet,0.5125233379925136
+Dizziness,Fluvoxamine,-0.004506789439393503
+Dizziness,Low Dose Naltrexone,-0.1353537420590255
+Dizziness,Magnesium,0.1909291573753536
+Dizziness,Methylphenidate,-0.09719739628794027
+Dizziness,Midodrine,0.28846341041182355
+Dizziness,Plaquenil,-0.4843175392687253
+Dizziness,Ropinirole,0.2943538241069804
+Dizziness,Topiramate,0.009637990070674327
+Dizziness,Tyrosine,0.09346256402683745
+Dizziness,Voltaren,-0.1806851845052532
+Dizziness,gluten free diet,-0.1278799313259855
+Flu like,Fluvoxamine,0.3207363037387038
+Flu like,Low Dose Naltrexone,0.12662205252624115
+Flu like,Magnesium,0.24658903753502323
+Flu like,Methylphenidate,0.2218377716910938
+Flu like,Midodrine,0.3814974959026438
+Flu like,Plaquenil,0.24892718299153016
+Flu like,Ropinirole,0.3155643357875835
+Flu like,Topiramate,0.3192351454719374
+Flu like,Tyrosine,0.2710855240090343
+Flu like,Voltaren,0.12376564631680866
+Flu like,gluten free diet,0.21374466917955773
+Headache,Fluvoxamine,0.07978110000180172
+Headache,Low Dose Naltrexone,0.08160488513018162
+Headache,Magnesium,-0.01929523326820653
+Headache,Methylphenidate,0.012521429738811235
+Headache,Midodrine,-0.18280248136291183
+Headache,Plaquenil,-0.13311458533595982
+Headache,Ropinirole,0.04646726378718548
+Headache,Topiramate,-0.26658646618306453
+Headache,Tyrosine,0.05446896435341822
+Headache,Voltaren,-0.10541768935228046
+Headache,gluten free diet,0.28714712556676103
+Knee pain,Fluvoxamine,0.05380126182281219
+Knee pain,Low Dose Naltrexone,0.037757239820805824
+Knee pain,Magnesium,0.10329360657602683
+Knee pain,Methylphenidate,0.22778133790860441
+Knee pain,Midodrine,-0.16217595294927714
+Knee pain,Plaquenil,-0.14378340213959107
+Knee pain,Ropinirole,0.12426236175276262
+Knee pain,Topiramate,-0.04404963843322782
+Knee pain,Tyrosine,0.08661221910047834
+Knee pain,Voltaren,0.10253100239088953
+Knee pain,gluten free diet,-0.07952790731078946
+Lower Back Pain,Fluvoxamine,0.038147250737504114
+Lower Back Pain,Low Dose Naltrexone,-0.016519439649381525
+Lower Back Pain,Magnesium,-0.010252458870775888
+Lower Back Pain,Methylphenidate,0.046589913284793144
+Lower Back Pain,Midodrine,0.2148959184272026
+Lower Back Pain,Plaquenil,-0.2365915319040282
+Lower Back Pain,Ropinirole,0.08349478085903457
+Lower Back Pain,Topiramate,0.04680695751398613
+Lower Back Pain,Tyrosine,0.1383936818579015
+Lower Back Pain,Voltaren,-0.07559229791490471
+Lower Back Pain,gluten free diet,0.015504648138209828
+Lyme disease,Fluvoxamine,0.0409585240463174
+Lyme disease,Low Dose Naltrexone,-0.05606456395357543
+Lyme disease,Magnesium,0.06484628365739831
+Lyme disease,Methylphenidate,0.09575815144252167
+Lyme disease,Midodrine,0.046067344962658116
+Lyme disease,Plaquenil,0.204262598825995
+Lyme disease,Ropinirole,0.12753969919998243
+Lyme disease,Topiramate,-0.007638143327963844
+Lyme disease,Tyrosine,0.07981399505736417
+Lyme disease,Voltaren,-0.13311326529059786
+Lyme disease,gluten free diet,0.02612812742230905
+Stiff neck,Fluvoxamine,0.15500710856031816
+Stiff neck,Low Dose Naltrexone,-0.0616632230162138
+Stiff neck,Magnesium,0.16709939067735627
+Stiff neck,Methylphenidate,0.03672318020701293
+Stiff neck,Midodrine,-0.043702896454457886
+Stiff neck,Plaquenil,0.05461203913359082
+Stiff neck,Ropinirole,0.11393125914686399
+Stiff neck,Topiramate,0.07051490204276506
+Stiff neck,Tyrosine,0.23862411144702328
+Stiff neck,Voltaren,-0.14370414795138597
+Stiff neck,gluten free diet,0.0637307002548688
+aches,Fluvoxamine,0.757041205474364
+aches,Low Dose Naltrexone,0.6685682214415127
+aches,Magnesium,0.8642630391355685
+aches,Methylphenidate,0.8555347299588338
+aches,Midodrine,0.8382486068240982
+aches,Plaquenil,0.6403861043264286
+aches,Ropinirole,0.91020430724628
+aches,Topiramate,0.8282555183187024
+aches,Tyrosine,0.8963747361661845
+aches,Voltaren,0.6703400575123076
+aches,gluten free diet,0.7334231296839986
+Chronic constipation,Ibuprofen,0.1066974281372785
+Chronic constipation,Lavender oil,0.4081511526094078
+Chronic constipation,Magnesium,0.2724079567893558
+Chronic constipation,Naproxen,0.05274146468043346
+Chronic constipation,Peppermint oil,0.2194594525705629
+Chronic constipation,Xanax,0.3932550782970724
+Chronic constipation,eucalyptus globulus oil,0.07563746799186982
+Chronic constipation,lemongrass oil ,0.1672860868950858
+Confusion,Ibuprofen,-0.1310827709855047
+Confusion,Xanax,0.07534418357546852
+Headaches,Ibuprofen,-0.16122685783788704
+Headaches,Lavender oil,0.22843896951640327
+Headaches,Magnesium,0.0024502600696293363
+Headaches,Naproxen,-0.4943718426257533
+Headaches,Peppermint oil,0.17330707192594225
+Headaches,Tea tree oil,-0.6374520474918818
+Headaches,Valium,-0.05546818923271771
+Headaches,Xanax,0.22020674704604587
+Headaches,eucalyptus globulus oil,0.017441172385080597
+Headaches,lemongrass oil ,-0.12728979386738082
+Swollen eyes,Ibuprofen,-0.30251638779177115
+Swollen eyes,Xanax,-0.13554699311431057
+ear drainage,Ibuprofen,-1.692803679740862
+ear drainage,Xanax,-1.4482724398732227
+Allodynia,Ondansetron,0.18015727570780246
+Depression,Ondansetron,-0.16094203249729197
+Dizziness,Ondansetron,-0.020946105180229213
+Generalized anxiety disorder,Ondansetron,-0.15377808761473785
+Hypersomnia,Ondansetron,-0.022810594826443112
+Joint pain,Ondansetron,-0.26815604424502054
+Muscle pain,Ondansetron,-0.29569356099589467
+Nausea,Ondansetron,-0.15361005798468352
+Social anxiety disorder,Ondansetron,-0.31214153213366713
+Undiagnosed,Ondansetron,-0.09133737794431544
+Vomiting,Ondansetron,0.22772748226759415
+muscle weakness,Ondansetron,-0.23222462151063122
+Rheumatoid arthritis,Venlafaxine,0.6523648816735429
+HSV1,Bactrim,-0.21181397270900015
+Migraine,Bactrim,-0.11377863963472767
+Outbreak,Bactrim,-0.12770043533493086
+Polycystic Ovaries,Bactrim,-0.1500054356953921
+Tendinitis,Bactrim,-0.34751012906526174
+Vulvar Vestibulitis,Bactrim,-0.35457520893655076
+Vulvodynia,Bactrim,-0.25338691437990335
+Wrist pain,Bactrim,-0.21606890944955776
+Chronic daily headaches,Amitriptyline,0.2665148325264824
+Hallucinations,Atrovent,-0.050623646898046666
+Self Harm,Atrovent,0.08242057413199544
+Constipation,Licorice extract,0.2816940688618844
+Constipation,Molybdenum,-0.5582903115039834
+Constipation,oregano extract,-0.6253485313969833
+Depression,Magnesium,-0.005305453213732811
+Depression,MegaFlora Plus,-0.08356033612295813
+Depression,Molybdenum,-0.6625359152872217
+Depression,Vitamin c (ascorbic acid),-0.14012643541966968
+Depression,oregano extract,-0.7284004018232229
+Diarrhea,Butterbur extract,-0.25766471734026286
+Diarrhea,Dandelion,0.23859735461722786
+Diarrhea,Lemon juice,0.41787311530266724
+Diarrhea,Magnesium,-0.09178925081297101
+Diarrhea,Milk thistle,0.3102370045424995
+Diarrhea,Naproxen,0.049849301738006266
+Diarrhea,Olive leaf extract,-0.07348378457799137
+Diarrhea,Vitamin c (ascorbic acid),-0.12501166411112966
+Headache,Dandelion,0.29373749822746714
+Headache,Lemon juice,0.3766130433588907
+Headache,Licorice extract,0.09604869931761856
+Headache,Milk thistle,0.08718176748876838
+Insomnia,Butterbur extract,-0.4950029544953826
+Insomnia,Dandelion,0.3875189872606463
+Insomnia,Lemon juice,0.49754376754666446
+Insomnia,Licorice extract,0.21658662943968782
+Insomnia,Magnesium,-0.0707686130561227
+Insomnia,MegaFlora Plus,-0.12507499427206012
+Insomnia,Milk thistle,0.41971870638011766
+Insomnia,Molybdenum,-0.48626781181791773
+Insomnia,Naproxen,-0.26999161234087604
+Insomnia,Nattokinase,-0.7980140633078217
+Insomnia,Olive leaf extract,-0.06579414214302332
+Insomnia,Vitamin c (ascorbic acid),-0.43664890464631745
+Insomnia,oregano extract,-0.3951063832953522
+Menstrual cramps,Dandelion,0.4601958013807602
+Menstrual cramps,Lemon juice,0.647737395965926
+Menstrual cramps,Licorice extract,0.3487068314550402
+Menstrual cramps,Magnesium,0.3943680707605577
+Menstrual cramps,MegaFlora Plus,0.1734511148765593
+Menstrual cramps,Milk thistle,0.488243451235739
+Menstrual cramps,Olive leaf extract,0.1629100568256996
+Menstrual cramps,Vitamin c (ascorbic acid),-0.09769904835150892
+Moodiness,Dandelion,0.539700562122251
+Moodiness,Lemon juice,0.6265574414924207
+Moodiness,Magnesium,0.3396557171635522
+Moodiness,Milk thistle,0.5474245371294698
+Moodiness,Naproxen,0.12885709092469225
+Moodiness,Vitamin c (ascorbic acid),0.05221715525333667
+Short term memory loss,Dandelion,0.42182282758052986
+Short term memory loss,Lemon juice,0.5201873226588059
+Short term memory loss,Milk thistle,0.5384510739149888
+Smell sensitivity,Butterbur extract,-0.7396941803472024
+Smell sensitivity,Dandelion,-0.04246645837479125
+Smell sensitivity,Lemon juice,-0.06107142588531313
+Smell sensitivity,Licorice extract,-0.07850562109223883
+Smell sensitivity,Milk thistle,-0.06354086273722813
+Smell sensitivity,Naproxen,-0.33974035328844926
+Toothache,Butterbur extract,-0.12532317548804997
+Toothache,Dandelion,0.4425066858755506
+Toothache,Lemon juice,0.36386723833119805
+Toothache,Licorice extract,0.3825803701219001
+Toothache,MegaFlora Plus,0.21558617443303324
+Toothache,Milk thistle,0.41938488026257914
+Toothache,Naproxen,0.05780738168390161
+toe cramps,ergocalciferol 50000IU,-0.1863847957922151
+Multiple sclerosis,massage,-0.041561296348358125
+Migraine,Advil,-0.24180368743082936
+Chest pain,Baclofen,-0.01827725734873764
+Vomiting,Magnesium,0.384132770894586
+Upper back pain,nsaid,-0.45990705041920205
+Back pain,Sertraline,0.07614337879576433
+Back pain,Wellbutrin,0.04050175506755238
+Brain fog,Sertraline,0.10350949447584515
+Brain fog,Wellbutrin,-0.30156321861232716
+Cold Extremities ,Sertraline,0.15073553434607295
+Cold Extremities ,Wellbutrin,-0.06663065211555189
+Dry mouth,Sertraline,-0.19489542431615092
+Dry mouth,Wellbutrin,-0.34372676090401205
+Fibromyalgia,Sertraline,-0.0913345379621861
+Fibromyalgia,Wellbutrin,-0.020594908322410066
+Finger pain,Sertraline,-0.2795185366993643
+Finger pain,Wellbutrin,-0.31838240987865285
+Headache,Sertraline,0.409812292133438
+Headache,Wellbutrin,0.05031306344897629
+Impaired Concentration,Sertraline,-0.49646147860543577
+Impaired Concentration,Wellbutrin,-0.6654746951289122
+Insomnia,Sertraline,0.03256130704718174
+Insomnia,Wellbutrin,-0.15829357776818093
+Jaw pain,Sertraline,0.25870197328986877
+Jaw pain,Wellbutrin,-0.0446891236771695
+Joint pain,Sertraline,-0.25296326188205864
+Joint pain,Wellbutrin,-0.12672896379263746
+Light sensitivity,Sertraline,-0.20819089335991997
+Light sensitivity,Wellbutrin,-0.5868497259904427
+Migraine,Sertraline,-0.13673262549644474
+Migraine,Wellbutrin,-0.29746167692811026
+Muscle cramps,Sertraline,-0.18601615455958423
+Muscle cramps,Wellbutrin,-0.30280229465061914
+Muscle spasms,Sertraline,0.21426110429610054
+Muscle spasms,Wellbutrin,-0.23456573333645536
+Myalgic encephalomyelitis,Sertraline,0.006391799209302149
+Myalgic encephalomyelitis,Wellbutrin,-0.361179186276163
+Noise Sensitivity,Sertraline,0.1927919312758916
+Noise Sensitivity,Wellbutrin,0.0716263539632348
+Post-Exertional Malaise,Sertraline,0.3136739957343951
+Post-Exertional Malaise,Wellbutrin,0.18922019081695007
+Unrefreshing Sleep,Sertraline,0.21416893273374163
+Unrefreshing Sleep,Wellbutrin,-0.12550698947376338
+Agoraphobia,Dr J study,-0.397840311422115
+Change in appetite,Dr J study,0.10597853757846408
+Depression,Dr J study,-0.5130733350465492
+Diarrhea,Dr J study,-0.3489080588661151
+Emotional lability,Dr J study,-0.11007825958253482
+Fibromyalgia,Dr J study,-0.5011497361094579
+Grandiose thinking,Dr J study,-0.34709707360392567
+Joint pain,Dr J study,-0.4423040813651652
+Joint stiffness,Dr J study,-0.4291970965530726
+Migraine,Dr J study,-0.5888321412279078
+Obsessive-compulsive disorder,Dr J study,-0.14707043461044403
+Panic attacks,Dr J study,-0.2377633535107853
+Tension headache,Dr J study,-0.266134069687104
+Anxiety,Clarithromycin,0.0031848352923558084
+Anxiety,Dexedrine,-0.9965997744948204
+Anxiety,Strattera,-0.05241810784157558
+Body aching,Clarithromycin,-0.04857477307280866
+Body aching,Dexedrine,-0.7280417134812207
+Body aching,Strattera,-0.25422595601199643
+Brain fog,Clarithromycin,-0.062330932390716055
+Brain fog,Dexedrine,-0.9260022315928406
+Brain fog,Strattera,-0.1391254836582987
+Depression,Clarithromycin,-0.05556481740899811
+Depression,Dexedrine,-0.769878183007688
+Depression,Strattera,-0.24843507357466207
+Diarrhea,Clarithromycin,0.07273215147224096
+Diarrhea,Dexedrine,-0.7795392452989764
+Diarrhea,Strattera,-0.03234179242430113
+Dissociative disorders,Clarithromycin,-0.5230938597054506
+Dissociative disorders,Dexedrine,-1.1743183692224655
+Dissociative disorders,Strattera,-0.7271273528193545
+Fatigue,Clarithromycin,-0.014029903787836761
+Fatigue,Dexedrine,-0.84426145925298
+Fatigue,Strattera,-0.2001479404646193
+Fibromyalgia,Clarithromycin,-0.1445295915820423
+Fibromyalgia,Dexedrine,-0.9429331671267244
+Fibromyalgia,Strattera,-0.33597944311089756
+Gas,Clarithromycin,0.008832567606999736
+Gas,Dexedrine,-0.652033162222637
+Gas,Strattera,-0.1858234783161993
+Headache,Clarithromycin,-0.03975036328512558
+Headache,Dexedrine,-1.287580868787137
+Headache,Strattera,-0.04296289804617118
+Jaw Clenching,Clarithromycin,0.17836054839429724
+Jaw Clenching,Dexedrine,-0.5508391532226169
+Jaw Clenching,Strattera,-0.057868285449998905
+Joint pain,Clarithromycin,-0.14308134169433864
+Joint pain,Dexedrine,-0.9668598329621858
+Joint pain,Strattera,-0.3569090938170772
+Lack of Motivation,Clarithromycin,-0.0798741469236828
+Lack of Motivation,Dexedrine,-0.8445073838354813
+Lack of Motivation,Strattera,-0.2027337894270895
+Mood swings,Clarithromycin,0.2573115831381889
+Mood swings,Dexedrine,-0.40634727608145915
+Mood swings,Strattera,0.045023542373451415
+Skin Picking,Clarithromycin,0.013171903299809336
+Skin Picking,Dexedrine,-0.757107874951191
+Skin Picking,Strattera,-0.15546678486270238
+Dizzyness,Zofran,0.23055148955862753
+Depressed Mood,Oxycodone,-0.17987182978963712
+Depressed Mood,oxcycodone,-0.08445491781469783
+Low energy,Oxycodone,0.05296007071317511
+Low energy,oxcycodone,0.023731152509832078
+Lower back pain,Oxycodone,-0.10833933133051414
+Lower back pain,oxcycodone,-0.1456577499851729
+Right Leg Pain,Oxycodone,-0.004308166477889147
+Right Leg Pain,oxcycodone,0.013171903299809336
+burning pain in left foot,Oxycodone,-0.004308166477889147
+burning pain in left foot,oxcycodone,0.013171903299809336
+chills,Oxycodone,-0.004308166477889147
+chills,oxcycodone,0.013171903299809336
+electrical shock in feet,Oxycodone,-0.004308166477889147
+electrical shock in feet,oxcycodone,0.013171903299809336
+left foot pain,Oxycodone,0.17256530489202052
+left foot pain,oxcycodone,0.12379118522912405
+left leg pain,Oxycodone,-0.026806269565156495
+left leg pain,oxcycodone,0.026488683877560256
+numbness in right foot,Oxycodone,-0.004308166477889147
+numbness in right foot,oxcycodone,0.013171903299809336
+numbness left foot,Oxycodone,-0.004308166477889147
+numbness left foot,oxcycodone,0.013171903299809336
+right foot pain,Oxycodone,-0.004308166477889147
+right foot pain,oxcycodone,0.013171903299809336
+Skin rash,Vitamin d,0.0376747526384274
+systemic lupus erythematosus,Vitamin d,-0.1013279936435674
+Achiness,Excedrin,0.00966744062209439
+Finger pain,Excedrin,-0.034389962068466465
+Knee pain left,Excedrin,0.011974667293859029
+Knee pain right,Excedrin,-0.09439411003971208
+Nausea,Excedrin,-0.41770053205375013
+Stomach Pain,Excedrin,-0.10326373695093878
+Stomach cramps,Excedrin,-0.36241257749101
+Vomiting,Excedrin,0.33457693144594414
+Arthritis in Left Knee,Exercise,0.060114388752499255
+Dizziness,Exercise,0.11050232271766947
+Light headed / Have to sit down,Exercise,0.060114388752499255
+Nausea,Exercise,-0.09534593520594686
+Tendinitis,Exercise,-0.11006675887524214
+digestion,Exercise,0.060114388752499255
+Chronic pain,Duloxetine,-0.27910117396314743
+Chronic pain,Gabapentin,0.12224955314205449
+Chronic pain,Guanfacine,-0.13032887247986596
+Chronic pain,Spironolactone,-0.22922903642014872
+Chronic pain,Trazodone,-0.4460157582931476
+Diarrhea,Gabapentin,0.3848287370198419
+Diarrhea,Walking,0.009913004744180151
+Stomach acid,Walking,-0.607238416320625
+Brain fog,Zoloft,-0.24799931416311163
+Dysautonomia,Zoloft,-0.11404445364251392
+Fatigue,Zoloft,-0.42933843230005797
+Gastrointestinal symptoms,Zoloft,-0.3944379828265033
+Headache,Zoloft,-0.15954933172728283
+Need to lay down,Zoloft,-0.30058203266865197
+Overheating,Zoloft,-0.2275705233149873
+Postural Orthostatic Tachycardia Syndrome,Zoloft,-0.3798273594628678
+Brain fog,Candex,-0.3217441294087519
+Brain fog,Fluconazole,-0.4648331604400562
+Brain fog,MC-Bar,-0.27864755720707163
+Brain fog,apo-hepat,-0.07107338971859989
+Brain fog,candicid forte,-0.33448601505850983
+Brain fog,fungal defense,-0.5521274117735971
+Brain fog,gym,-0.27164371002683413
+Brain fog,mundipur,-0.08200022836354272
+Chest pain,Candex,-0.22023496929291797
+Chest pain,Fluconazole,-0.3735846571760764
+Chest pain,LDN,-0.2491853189288178
+Chest pain,MC-Bar,-0.49175809901995
+Chest pain,apo-hepat,0.0127018696173372
+Chest pain,biomat,-0.4945360233220924
+Chest pain,candicid forte,-0.35476922263626537
+Chest pain,fungal defense,-0.3595553044606459
+Chest pain,gym,-0.3676349767629318
+Chest pain,mundipur,0.14632436644347946
+Chronic constipation,Candex,-0.1789185146783725
+Chronic constipation,Fluconazole,-0.32736166217334234
+Chronic constipation,apo-hepat,0.13411844980510618
+Chronic constipation,biomat,-0.5223661767080482
+Chronic constipation,fungal defense,-0.5194587563303203
+Chronic constipation,gym,-0.17113698392382906
+Chronic constipation,mundipur,-0.013842375812671823
+Emotional,biomat,-1.0166152520671112
+Fatigue and tiredness,Candex,-0.29611269615355423
+Fatigue and tiredness,Fluconazole,-0.4104047207680585
+Fatigue and tiredness,fungal defense,-0.4864227058760643
+Lack of Motivation,Candex,-0.31530878724723976
+Lack of Motivation,Fluconazole,-0.49677765570204974
+Lack of Motivation,apo-hepat,-0.1791375646082588
+Lack of Motivation,mundipur,-0.11851377541078087
+Pelvic Floor tightness,Candex,-0.4133515527009606
+Pelvic Floor tightness,Fluconazole,-0.5630671835645662
+Pelvic Floor tightness,MC Bar 2,-0.07367172547385353
+Pelvic Floor tightness,MC-Bar,-0.40128406317722665
+Pelvic Floor tightness,apo-hepat,0.03343564447023675
+Pelvic Floor tightness,biomat,-0.693988736627992
+Pelvic Floor tightness,candicid forte,-0.34340510746198266
+Pelvic Floor tightness,fungal defense,-0.6727346263083368
+Pelvic Floor tightness,gym,-0.19598402021100483
+Pelvic Floor tightness,mundipur,-0.05556527311016313
+Pelvic pain,Candex,-0.11973129020510093
+Pelvic pain,Fluconazole,-0.4596409112127201
+Pelvic pain,apo-hepat,0.24896453236077096
+Pelvic pain,biomat,-0.4817146540840601
+Pelvic pain,mundipur,0.0937771262156447
+abdominal distention,biomat,-0.6205642838510627
+bloating,biomat,-0.9461500130354461
+heavy legs in morning,apo-hepat,-0.08906488106952341
+heavy legs in morning,gym,-0.266841894106006
+heavy legs in morning,mundipur,-0.10606498539765542
+loss of balance,Candex,-0.1871189836219942
+loss of balance,Fluconazole,-0.39066239134899516
+loss of balance,apo-hepat,0.11987327752879828
+loss of balance,biomat,-0.4185195134720967
+loss of balance,fungal defense,-0.44000476886566725
+loss of balance,mundipur,0.04035600744902916
+really hard to get out of bed,Candex,-0.753744358421625
+really hard to get out of bed,Fluconazole,-0.8899852890155294
+really hard to get out of bed,apo-hepat,-0.3070820450554325
+really hard to get out of bed,mundipur,-0.4245197254082782
+swollen face during day,Candex,-0.22298479889835093
+swollen face during day,Fluconazole,-0.42918701932148345
+swollen face during day,fungal defense,-0.5139020467678896
+swollen face end of day,Candex,-1.5103545636876823
+swollen face end of day,Fluconazole,-1.793221731159453
+swollen face end of day,biomat,-1.795412223319545
+swollen face end of day,fungal defense,-1.843041634283884
+swollen face morning,Candex,-0.8147564111049644
+swollen face morning,Fluconazole,-0.8029473547010597
+swollen face morning,apo-hepat,-0.36527116070196525
+swollen face morning,fungal defense,-0.9102823495848988
+swollen face morning,mundipur,-0.40073574059707445
+swollen inside of mouth,Candex,-0.12462222313566615
+swollen inside of mouth,Fluconazole,-0.3312708033020825
+swollen inside of mouth,apo-hepat,0.17250778288845697
+swollen inside of mouth,fungal defense,-0.34822015444288895
+swollen inside of mouth,mundipur,0.21559338590336385
+weight change / retention,biomat,-0.7103657601352398
+Muscle twitching,CBD bb Signature,-0.04141209341810877
+sinus pain,Cymbalta,0.3509016040409887
+sinus pain,Gabapentin,0.2907904160244009
+Fatigue,Lamictal,0.4797580638561415
+Fatigue,Risperidone,0.6858835021475689
+Fatigue,Ritalin,0.31842603485313126
+Nausea,Lamictal,0.24319388856038074
+Nausea,Risperidone,0.18325139878087054
+Nausea,Ritalin,0.029821567980152036
+Obsessive-compulsive disorder,Lamictal,0.3936796223342771
+Obsessive-compulsive disorder,Risperidone,0.5463470935477034
+Obsessive-compulsive disorder,Ritalin,0.31715096898053546
+Sadness,Lamictal,0.44818165436632995
+Sadness,Risperidone,0.44445794443396125
+Sadness,Ritalin,0.16020972083376542
+Stress,Lamictal,0.5442370706521584
+Stress,Risperidone,0.8844850835941913
+Stress,Ritalin,0.5621337874368402
+Tinnitus,Lamictal,0.1370848536720977
+Tinnitus,Risperidone,0.3952034336792842
+Tinnitus,Ritalin,0.06292279564866424
+Unwanted Thoughts,Lamictal,-0.319245374179263
+Unwanted Thoughts,Risperidone,0.0028318005515539646
+Unwanted Thoughts,Ritalin,-0.3389076051575982
+complusion,Lamictal,0.2697523393127228
+complusion,Risperidone,0.433768716996295
+complusion,Ritalin,0.09917490716184285
+Cough,Fluticasone,0.3758177435400183
+Wheezing,Fluticasone,-0.16873671517342353
+Constipation,Clonazepam,0.15808805680097346
+Diarrhea,Clonazepam,-0.13494199707593263
+Insomnia,Clonazepam,0.6777287857351211
+Knee pain,Clonazepam,-0.19911349607445714
+Lower Back Pain,Clonazepam,-0.2229827912046068
+Restlessness,Clonazepam,-0.18799595400085925
+dissociation,Clonazepam,-0.11464762717479747
+isolation,Clonazepam,0.07080537191605882
+Body aching,Probiotic,-0.009793090908909511
+Endometriosis,Probiotic,0.33963860228135856
+Fatigue,Probiotic,-0.053882857780983145
+Fibromyalgia,Probiotic,-0.005881889859966863
+Hashimoto's disease,Probiotic,0.19191838347019213
+Headache,Probiotic,0.07212929281302072
+Joint pain,Probiotic,0.0660598961972398
+Migraine,Probiotic,-0.13049179523961235
+Anxiety,Dinner,-0.40712740618069254
+Anxiety,Sleep,-0.07771015535543936
+Anxiety,Water,0.0720961962387939
+hypersomnia,Halls,0.013171903299809336
+hypersomnia,Meditation,0.1273039733819395
+Night sweats,Caffeine,0.38534988380602275
+Night sweats,Vitamin D3,0.28790737675511846
+Asthma,KT Tape,-0.31236001620457404
+Ehlers-Danlos syndrome,KT Tape,-0.2957694635769749
+Hypothyroidism,KT Tape,-0.30040430137311275
+Polycystic ovary syndrome (PCOS),KT Tape,-0.052804355569413486
+Postural Orthostatic Tachycardia Syndrome,KT Tape,-0.17826762646881095
+Bladder frequency,5-htp,0.23655642221740825
+Bladder frequency,Astelin,0.04197929709294966
+Bladder frequency,Claritin,0.17545391324351495
+Bladder frequency,Famotidine,0.17821851401582917
+Bladder frequency,Fish oil,0.4686710421463403
+Bladder frequency,Magnesium glycinate,0.13794268880838984
+Bladder frequency,Melatonin,0.3205878433259222
+Bladder frequency,Nasonex,0.23772645142696106
+Bladder frequency,Singulair,0.28515083931676527
+Bladder frequency,Sunlight,0.23436700538599678
+Bladder frequency,THC,0.18200133641404087
+Bladder frequency,Vitamin C,0.24490250154661353
+Bladder frequency,Vitamin b complex,0.03748968151320475
+Bladder frequency,Vitamin b12,0.22917506392747095
+Bladder frequency,Vitamin d,0.4543960400371312
+Bladder frequency,Zinc,0.17176694670470297
+Bladder frequency,strapping of shoulder,0.3625176224884054
+Diarrhea,5-htp,-0.15402147075875824
+Diarrhea,Astelin,-0.17225073153505505
+Diarrhea,Claritin,0.24815180178638502
+Diarrhea,Famotidine,-0.13339982509217752
+Diarrhea,Fish oil,0.061962951736103694
+Diarrhea,Magnesium glycinate,-0.22238496538742353
+Diarrhea,Melatonin,0.06532637039087685
+Diarrhea,Nasonex,-0.121550826777836
+Diarrhea,Singulair,-0.024572405913385956
+Diarrhea,Sunlight,0.04802803526380631
+Diarrhea,THC,0.13865415377640886
+Diarrhea,Vitamin C,0.08490983810178929
+Diarrhea,Vitamin b complex,-0.23803693852567648
+Diarrhea,Vitamin b12,0.06252867781806745
+Diarrhea,Vitamin d,-0.1618898277821948
+Diarrhea,Zinc,0.10354449849970601
+Diarrhea,strapping of shoulder,0.07736384412522981
+Headaches,5-htp,-0.03837235107747379
+Headaches,Astelin,-0.2997759099029304
+Headaches,Claritin,-0.08425448920024271
+Headaches,Famotidine,-0.22012629439497367
+Headaches,Fish oil,0.18215595559279696
+Headaches,Magnesium glycinate,-0.25207678860475613
+Headaches,Melatonin,-0.04696153245456962
+Headaches,Nasonex,0.24220239896943746
+Headaches,Singulair,0.04558399657803802
+Headaches,Sunlight,0.007940930476919558
+Headaches,THC,0.027169861486392055
+Headaches,Vitamin C,0.008139574224837881
+Headaches,Vitamin b complex,-0.18333828112653058
+Headaches,Vitamin b12,0.0824177001043867
+Headaches,Vitamin d,0.1612373389350731
+Headaches,Zinc,-0.04871928879694912
+Headaches,strapping of shoulder,0.11513182303353024
+Interstitial cystitis,5-htp,0.012930680499374847
+Interstitial cystitis,Astelin,-0.18769575803923166
+Interstitial cystitis,Claritin,-0.11626755430773064
+Interstitial cystitis,Famotidine,-0.14323264591263551
+Interstitial cystitis,Fish oil,0.22656099795166268
+Interstitial cystitis,Magnesium glycinate,-0.15087994315240144
+Interstitial cystitis,Melatonin,0.0895285076254507
+Interstitial cystitis,Nasonex,0.02390719819759987
+Interstitial cystitis,Singulair,-0.011816735689211218
+Interstitial cystitis,Sunlight,0.001915516501362638
+Interstitial cystitis,THC,-0.04970745624685951
+Interstitial cystitis,Vitamin C,-0.031122087402068524
+Interstitial cystitis,Vitamin b complex,-0.2504999105753143
+Interstitial cystitis,Vitamin b12,0.019236688238470162
+Interstitial cystitis,Vitamin d,0.12521280782302008
+Interstitial cystitis,Zinc,-0.07740607728029603
+Interstitial cystitis,strapping of shoulder,0.10184467451821824
+Neck pain,5-htp,0.013622692550207913
+Neck pain,Astelin,-0.17416648619636743
+Neck pain,Claritin,0.22822879198147522
+Neck pain,Famotidine,-0.24321344007522705
+Neck pain,Fish oil,0.262093740324169
+Neck pain,Magnesium glycinate,-0.1542976269650921
+Neck pain,Melatonin,0.3127415736279253
+Neck pain,Nasonex,0.061257032909592196
+Neck pain,Singulair,0.2503830978309711
+Neck pain,Sunlight,0.1317258478010699
+Neck pain,THC,0.0656873359874377
+Neck pain,Vitamin C,0.0006383263887017841
+Neck pain,Vitamin b complex,-0.12952134704040458
+Neck pain,Vitamin b12,0.15755476685792474
+Neck pain,Vitamin d,0.04087048338010971
+Neck pain,Zinc,0.22197906722570512
+Neck pain,strapping of shoulder,0.17277987752233903
+Pain,5-htp,-0.18811979467194892
+Pain,Astelin,-0.27129379240093027
+Pain,Claritin,-0.01393844142894915
+Pain,Famotidine,-0.1786881385917992
+Pain,Fish oil,0.04181265644976486
+Pain,Magnesium glycinate,-0.2397902279155712
+Pain,Melatonin,-0.1219647346527831
+Pain,Nasonex,-0.05056358077567133
+Pain,Singulair,-0.06558178221041772
+Pain,Sunlight,-0.13553244811045276
+Pain,THC,-0.06854314867598121
+Pain,Vitamin C,-0.1353029752395405
+Pain,Vitamin b complex,-0.3012602513202293
+Pain,Vitamin b12,-0.005247707084983649
+Pain,Vitamin d,-0.03839381270178217
+Pain,Zinc,-0.13547778327415838
+Pain,strapping of shoulder,-0.09300403505515802
+Pelvic pain,5-htp,0.10698836740198699
+Pelvic pain,Astelin,0.009069556782043603
+Pelvic pain,Claritin,0.251846894464426
+Pelvic pain,Famotidine,0.16792913490187725
+Pelvic pain,Fish oil,0.3272146263622626
+Pelvic pain,Magnesium glycinate,0.09114329451876688
+Pelvic pain,Melatonin,0.3825413103479194
+Pelvic pain,Nasonex,0.017487474523412802
+Pelvic pain,Singulair,0.3493471094626224
+Pelvic pain,Sunlight,0.15561260505443117
+Pelvic pain,THC,0.1352679905057423
+Pelvic pain,Vitamin C,0.046490857204083746
+Pelvic pain,Vitamin b complex,0.04598486261416149
+Pelvic pain,Vitamin b12,0.19903152104468091
+Pelvic pain,Vitamin d,0.31661968140906527
+Pelvic pain,Zinc,0.2509203081048715
+Pelvic pain,strapping of shoulder,0.24747178290570718
+Urinary urgency,5-htp,0.022827939676365046
+Urinary urgency,Astelin,-0.14646899566161553
+Urinary urgency,Claritin,0.06785178755764823
+Urinary urgency,Famotidine,-0.03862257181531667
+Urinary urgency,Fish oil,0.21290172673190025
+Urinary urgency,Magnesium glycinate,-0.08840852379683672
+Urinary urgency,Melatonin,0.11214524865216888
+Urinary urgency,Nasonex,-0.050847822012411496
+Urinary urgency,Singulair,0.10556265994072911
+Urinary urgency,Sunlight,0.06758221698779718
+Urinary urgency,THC,-0.01590864373171482
+Urinary urgency,Vitamin C,0.0406958785799069
+Urinary urgency,Vitamin b complex,-0.1478014270364138
+Urinary urgency,Vitamin b12,0.06884397015805405
+Urinary urgency,Vitamin d,0.18943772801710596
+Urinary urgency,Zinc,0.045933144570057316
+Urinary urgency,strapping of shoulder,0.11304989137585478
+appetite,5-htp,-0.12149529635393061
+appetite,Astelin,-0.2713412686636125
+appetite,Claritin,-0.1799663291292684
+appetite,Famotidine,-0.1938127516672572
+appetite,Fish oil,0.03145293006092037
+appetite,Magnesium glycinate,-0.24584514298929877
+appetite,Melatonin,-0.036278173513599486
+appetite,Nasonex,0.1809302431809921
+appetite,Singulair,-0.04258832825495268
+appetite,Sunlight,-0.06748918241996579
+appetite,THC,-0.1558580122149367
+appetite,Vitamin C,-0.04404669870298936
+appetite,Vitamin b complex,-0.2537539384503366
+appetite,Vitamin b12,-0.0495022433162961
+appetite,Vitamin d,0.08012712441972464
+appetite,Zinc,-0.1510950971210447
+appetite,strapping of shoulder,0.06315734555383022
+joint pain,5-htp,-0.22016034198232498
+joint pain,Astelin,-0.388119070182921
+joint pain,Claritin,-0.35944846442689016
+joint pain,Famotidine,-0.20940425348930194
+joint pain,Fish oil,0.00449072041236568
+joint pain,Magnesium glycinate,-0.38943601658357707
+joint pain,Melatonin,-0.19888694065482784
+joint pain,Nasonex,-0.1542669506525789
+joint pain,Singulair,-0.15330984978791207
+joint pain,Sunlight,-0.1640649707453039
+joint pain,THC,-0.11090411349749205
+joint pain,Vitamin C,-0.13668625826344266
+joint pain,Vitamin b complex,-0.4444421461887556
+joint pain,Vitamin b12,-0.058026464744955604
+joint pain,Vitamin d,0.050817813056465225
+joint pain,Zinc,-0.24635045536519956
+joint pain,strapping of shoulder,-0.07178324234894357
+painful urination,5-htp,0.3959914863697864
+painful urination,Astelin,0.28914974358816686
+painful urination,Claritin,0.48115466913482524
+painful urination,Famotidine,0.36443641136288035
+painful urination,Fish oil,0.5460151594659585
+painful urination,Magnesium glycinate,0.35577862471417054
+painful urination,Melatonin,0.5593754239172972
+painful urination,Nasonex,0.44969036637801785
+painful urination,Singulair,0.5505900909631302
+painful urination,Sunlight,0.35300576393839167
+painful urination,THC,0.4384122994619129
+painful urination,Vitamin C,0.5186914398441337
+painful urination,Vitamin b complex,0.3650451801969965
+painful urination,Vitamin b12,0.46669322559701865
+painful urination,Vitamin d,0.6841308277514329
+painful urination,Zinc,0.4937344207670384
+painful urination,strapping of shoulder,0.5723146734993744
+Crash Day,Ex bike,-1.0647552426647202
+Depression,cough syrup,0.07559319661887627
+Fibromyalgia,cough syrup,-0.0696253176169952
+Irritable bowel syndrome,cough syrup,0.15163093423464852
+Nonallergic rhinitis,cough syrup,0.35874160715068165
+Abdominal pain,Vitamin b12,-0.03415709862122135
+Crohn's disease,Vitamin b12,-0.028143703426178487
+Diarrhea,Vitamin b12,0.06252867781806745
+Fatigue,Vitamin b12,0.04243756122337467
+Hot flushes,Vitamin b12,0.512786700423177
+Joint pain,Vitamin b12,0.09073635757959367
+Joint weakness,Vitamin b12,0.3313798012042824
+Multiple sclerosis,Vitamin b12,-0.11826999516689303
+infection,Vitamin b12,-0.5116017056177209
+slurred speech,Vitamin b12,0.12386244111174559
+virus,Vitamin b12,0.3172016877947216
+Chronic constipation,Swimming,0.5810284529015013
+Canker sore,Calcium Magnesium,0.0942117701670799
+Canker sore,EFA from flaxseed,-0.27998086179281134
+Chronic fatigue syndrome,Berocca,-0.1041526989649155
+Chronic fatigue syndrome,D-Ribose,-0.12138637389116008
+Chronic fatigue syndrome,Turmeric,-0.369658549623206
+Chronic fatigue syndrome,bicarb soda,-0.2313935624577613
+Body aches,Vitamins,0.48743708748026454
+Bipolar type II,yes,0.8059557557388844
+Borderline personality disorder,yes,0.499610950014654
+clumsiness,yes,0.33014747448257586
+digestive issues,yes,0.032206509021624044
+Chronic Pain,AM meds,0.14204562768167336
+Chronic Pain,Florinef,-0.1006409976836094
+Chronic Pain,Hydrocortisone,0.33688618238070556
+Exercise Intolerance,AM meds,-0.07280305449435787
+Exercise Intolerance,Florinef,-0.46907247065839547
+Exercise Intolerance,Hydrocortisone,-0.04851890393494193
+Fatigue,AM meds,-0.0803085734824138
+Fatigue,Florinef,-0.15788003450301927
+Fatigue,Hydrocortisone,0.2597528570517612
+Headaches,AM meds,-0.024951008165281893
+Headaches,Florinef,-0.29956839811181907
+Headaches,Hydrocortisone,-0.018819835794068453
+Leg pain,AM meds,0.07221586923166254
+Leg pain,Florinef,-0.4279325471764681
+Leg pain,Hydrocortisone,0.06984665230320129
+Pain,AM meds,-0.04302311088977853
+Pain,Florinef,-0.41207113168004267
+Pain,Hydrocortisone,0.03712314260576991
+Fatigue,Lamictal,0.4797580638561415
+Tinnitus,Lamictal,0.1370848536720977
+ear pain,Lamictal,-0.02762362018300725
+Capacity to Work at Night,DHEA 50 mg,0.3609605808936124
+Capacity to Work during Day,Surgestone,0.6082777717338642
+Stress in Bed No Reason,DHEA 50 mg,0.22138156318556287
+Acid Reflux,Feeding tube formula,-0.11293360641950986
+Acid Reflux,Manual fecal removal,0.10306436389457382
+Bladder spasms,Feeding tube formula,0.08549383920080841
+Bladder spasms,Manual fecal removal,0.35915042524996854
+Bloating,Feeding tube formula,-0.28205132092550883
+Bloating,Manual fecal removal,-0.019678036737465814
+Dizziness,Cetirizine,-0.5345678605818635
+Fatigue,Feeding tube formula,-0.28671921418287616
+Fatigue,Manual fecal removal,-0.014029903787836761
+Headache,Feeding tube formula,-0.3442807244854596
+Headache,Manual fecal removal,-0.03975036328512558
+Nausea,Manual fecal removal,0.03237384103097297
+Neck pain,Cetirizine,-0.29166084596425973
+Neck pain,Feeding tube formula,-0.3590650330100064
+Neck pain,Manual fecal removal,0.004291403250727591
+Palpitations,Feeding tube formula,-0.23633666978171372
+Palpitations,Manual fecal removal,0.03388313851567433
+Stomach Pain,Manual fecal removal,-0.07119494218377959
+belching,Feeding tube formula,-0.17773278057282693
+belching,Manual fecal removal,0.13457432451677914
+lightheadedness/dizziness upon standing,Feeding tube formula,-0.1887029538112015
+lightheadedness/dizziness upon standing,Manual fecal removal,0.061910590906411274
+numbness mouth/ teeth,Feeding tube formula,-0.07252868236727564
+numbness mouth/ teeth,Manual fecal removal,0.22683595269437204
+Abdominal pain,Gabapentin,-0.11086072461832575
+Costochondritis,Gabapentin,0.18232907202793838
+Ehlers-Danlos syndrome,Gabapentin,-0.15385940027344588
+Neck pain,Gabapentin,0.19091861525348558
+Rib pain,Gabapentin,0.0823698371475183
+Right Hip Pain,Gabapentin,0.05248945812686974
+Right knee pain,Gabapentin,-0.004223988181950087
+SI pain,Gabapentin,0.0789538477631902
+left hip pain,Gabapentin,0.33503039628494513
+left shoulder pain,Gabapentin,0.28305337309754414
+left wrist pain,Gabapentin,0.10106259753344309
+right shoulder pain,Gabapentin,0.28039211190826085
+right wrist pain,Gabapentin,0.11804030201269083
+Joint weakness,physical therapy,0.41795744815646424
+Loose joints,physical therapy,-0.19552624811540048
+Insomnia,Claritin,0.06977850045816103
+Insomnia,Ranitidine,0.24293676014926346
+Shortness of breath,Claritin,-0.2099269162776684
+Shortness of breath,Ranitidine,0.182488166678166
+Trouble falling asleep,Claritin,-0.13131732888057632
+Trouble falling asleep,Ranitidine,-0.07335692462533255
+Tingling - Left leg,Probiotic,0.07586853495894558
+Anxiety,Amitriptyline,0.33948772654367065
+Anxiety,Vitamin C,0.07405938438608028
+Binge eating,Amitriptyline,0.49556815749750915
+Binge eating,Vitamin C,0.37939382953618295
+Chronic fatigue syndrome,Amitriptyline,0.09010170547720325
+Chronic fatigue syndrome,Vitamin C,-0.3015167614993665
+Depression,Amitriptyline,0.34723098690212495
+Depression,Vitamin C,-0.1346965346492258
+Difficulty with speech,Amitriptyline,0.09332895651745482
+Difficulty with speech,Vitamin C,-0.16243333948187588
+Dull,Amitriptyline,-0.07867324157603478
+Dull,Vitamin C,-0.23802800659116757
+Flat affect,Amitriptyline,0.14799902866751732
+Flat affect,Vitamin C,0.02060715559567613
+Insomnia,Amitriptyline,0.35166072988687214
+Insomnia,Vitamin C,0.09798586420277366
+Stomach Pain,Amitriptyline,0.38401739399571033
+Stomach Pain,Vitamin C,-0.1118827444222464
+gastroparesis,Amitriptyline,0.14799902866751732
+gastroparesis,Vitamin C,0.02060715559567613
+itchy skin,Amitriptyline,0.6878560182528017
+itchy skin,Vitamin C,0.5244410369149908
+low energy,Amitriptyline,0.1051325220960388
+low energy,Vitamin C,0.1256070778451343
+Depression,Topical pain relief,0.02572224871052698
+Sadness,Topical pain relief,0.12869100495822358
+Social anxiety disorder,Topical pain relief,-0.1914413842630423
+Poor Balance,Wellbutrin,-0.3776621277514757
+Crohn's disease,Meditation,0.07864803207258421
+Crohn's disease,antispasmodic,-0.012643947431954433
+Joint pain,Meditation,-0.16695686404424032
+Joint pain,antispasmodic,-0.06617019956636763
+Pain,Meditation,0.009541045982526624
+Pain,antispasmodic,-0.11643791314436833
+Rash,Meditation,0.04929744215745196
+Rash,antispasmodic,-0.17357858514754496
+Stomach hardness ,Meditation,0.04653923459201714
+Stomach hardness ,antispasmodic,-0.20146551572141627
+Muscle pain,Azathioprine,0.048631509951714516
+Shoulder pain,Vitamin d,0.009676752883045064
+Restless legs,Clonazepam,0.14481934447039166
+Ankylosing spondylitis,Cannabis CBD capsule 10mg,0.1725863899725657
+Ankylosing spondylitis,Cold Mask,-0.03552774941953108
+Ankylosing spondylitis,Nortriptyline,0.03979812465392306
+Ankylosing spondylitis,Pantoprazole,0.2003173960938638
+Ankylosing spondylitis,Thyrax,-0.03552774941953108
+Ankylosing spondylitis,Thyreoidum,0.090636198439664
+Ankylosing spondylitis,Venlafaxine,0.6914632537357795
+Ankylosing spondylitis,Zolpidem,0.20629851377013164
+Anxiety,Cannabis CBD capsule 10mg,0.3722274967958723
+Anxiety,Cold Mask,0.0031848352923558084
+Anxiety,Nortriptyline,-0.34472253010223985
+Anxiety,Pantoprazole,0.1313327478443042
+Anxiety,Thyrax,0.0031848352923558084
+Anxiety,Thyreoidum,0.2208612949685242
+Anxiety,Venlafaxine,0.7599782729794906
+Anxiety,Zolpidem,0.07061939531138059
+Chronic fatigue syndrome,Cannabis CBD capsule 10mg,0.015012394567890143
+Chronic fatigue syndrome,Cold Mask,-0.17920411631482921
+Chronic fatigue syndrome,Nortriptyline,-0.296524866360526
+Chronic fatigue syndrome,Pantoprazole,-0.09824415592356275
+Chronic fatigue syndrome,Thyrax,-0.17920411631482921
+Chronic fatigue syndrome,Thyreoidum,-0.048898318164832213
+Chronic fatigue syndrome,Venlafaxine,0.5623882804049116
+Chronic fatigue syndrome,Zolpidem,-0.02872806189656138
+Crohn's disease,Cannabis CBD capsule 10mg,0.1599744811505473
+Crohn's disease,Cold Mask,-0.032982119402389494
+Crohn's disease,Nortriptyline,0.03904757877252118
+Crohn's disease,Pantoprazole,0.09895286165453548
+Crohn's disease,Thyrax,-0.032982119402389494
+Crohn's disease,Thyreoidum,0.05206693524948979
+Crohn's disease,Venlafaxine,0.5987948760916122
+Crohn's disease,Zolpidem,0.1399742120456837
+Diarrhoea,Cannabis CBD capsule 10mg,0.1428885021628994
+Diarrhoea,Cold Mask,0.012912128652333207
+Diarrhoea,Nortriptyline,0.07211873716480986
+Diarrhoea,Pantoprazole,0.28585390280730816
+Diarrhoea,Thyrax,0.012912128652333207
+Diarrhoea,Thyreoidum,0.1757099816876599
+Diarrhoea,Venlafaxine,0.7207019431860298
+Diarrhoea,Zolpidem,0.2219365849809214
+Dreams,Cannabis CBD capsule 10mg,-0.29321128816397907
+Dreams,Cold Mask,-0.45328808601481824
+Dreams,Nortriptyline,-0.3923727757851984
+Dreams,Pantoprazole,-0.272090246413629
+Dreams,Thyrax,-0.45328808601481824
+Dreams,Thyreoidum,-0.3862051485640138
+Dreams,Venlafaxine,0.1564000188053875
+Dreams,Zolpidem,-0.31742779844816715
+Fatigue,Cannabis CBD capsule 10mg,0.17202896349771102
+Fatigue,Cold Mask,-0.014029903787836761
+Fatigue,Nortriptyline,-0.19015453242728145
+Fatigue,Pantoprazole,0.17590838361865066
+Fatigue,Thyrax,-0.014029903787836761
+Fatigue,Thyreoidum,0.13341939196190206
+Fatigue,Venlafaxine,0.9475643164039587
+Fatigue,Zolpidem,0.22991098186439685
+Night sweats,Cannabis CBD capsule 10mg,0.3486508697670261
+Night sweats,Cold Mask,-0.03033346559587414
+Night sweats,Nortriptyline,-0.13796615242267135
+Night sweats,Pantoprazole,0.1336618614850519
+Night sweats,Thyrax,-0.03033346559587414
+Night sweats,Thyreoidum,0.09007275354480586
+Night sweats,Venlafaxine,0.7930299478678894
+Night sweats,Zolpidem,0.002519981277965627
+Overheating,Cannabis CBD capsule 10mg,0.13211223179337694
+Overheating,Cold Mask,0.05865743616950043
+Overheating,Nortriptyline,0.12049553542202021
+Overheating,Pantoprazole,0.32172373064514603
+Overheating,Thyrax,0.05865743616950043
+Overheating,Thyreoidum,0.2645312241918488
+Overheating,Venlafaxine,0.7662388095401647
+Overheating,Zolpidem,0.26701045998027056
+Psoriasis,Cannabis CBD capsule 10mg,0.2390309925049316
+Psoriasis,Cold Mask,0.03470504898342587
+Psoriasis,Nortriptyline,-0.04946555739779149
+Psoriasis,Pantoprazole,0.25409401938440723
+Psoriasis,Thyrax,0.03470504898342587
+Psoriasis,Thyreoidum,0.20231719864077774
+Psoriasis,Venlafaxine,0.5683691591024549
+Psoriasis,Zolpidem,0.09434037951904543
+adrenal fatigue,Cannabis CBD capsule 10mg,0.33951925873650396
+adrenal fatigue,Cold Mask,0.15334307971198965
+adrenal fatigue,Nortriptyline,0.26450768743035846
+adrenal fatigue,Pantoprazole,0.36112217109164646
+adrenal fatigue,Thyrax,0.15334307971198965
+adrenal fatigue,Thyreoidum,0.1911039552881803
+adrenal fatigue,Venlafaxine,0.7799811909953066
+adrenal fatigue,Zolpidem,0.4058545936132068
+Hot flashes,dog sledding,-0.01846580864064444
+Anxiety,sugar free diet,0.6457853910309982
+Chronic constipation,sugar free diet,0.7592243126109327
+Endometriosis,sugar free diet,0.5368897574252807
+Energy,sugar free diet,0.431288809894883
+Oversleeping,sugar free diet,0.7768416155350687
+Tremor,sugar free diet,0.5947010322265489
+Vertigo,sugar free diet,1.0278917038806878
+Word confusion,sugar free diet,0.9839718423666001
+atonic seizure,sugar free diet,0.5716969810558212
+e - alice in wonderland,sugar free diet,0.6818731480929417
+e - cliffbed,sugar free diet,0.6378483770440088
+e - floating,sugar free diet,1.3935131228761866
+e - silence,sugar free diet,0.5711322836780806
+e - travels,sugar free diet,0.7138154363403193
+migraine other,sugar free diet,0.7049437412454004
+migraine pain,sugar free diet,0.9723544305371034
+mood,sugar free diet,0.1929312305297196
+panic attacks,sugar free diet,0.5921632901470075
+proprioception issues,sugar free diet,1.1718291278807205
+right leg weakness,sugar free diet,1.4962839890161388
+suicidality,sugar free diet,0.4741014277111695
+weeping angels,sugar free diet,0.6001386284715955
+Abdominal pain,Ambien CR,-0.08117662175290356
+Abdominal pain,Hydroxyzine,0.014186644847573874
+Abdominal pain,drawing,0.4428453376098447
+Acid Reflux,Ambien CR,0.13463491468805908
+Acid Reflux,Hydroxyzine,0.07313107437713504
+Acid Reflux,drawing,0.4045546685096564
+Back pain from shoulder Immobilizer,Ambien CR,1.2137619209184511
+Back pain from shoulder Immobilizer,Hydroxyzine,1.1598141847110828
+Back pain from shoulder Immobilizer,drawing,1.6096586266675907
+Celiac disease,Ambien CR,-0.21975450239981564
+Celiac disease,Hydroxyzine,-0.365439477726356
+Celiac disease,drawing,0.1634887336350413
+Collagenous colitis,Ambien CR,0.03397712062104198
+Collagenous colitis,Hydroxyzine,-0.06789802313683951
+Collagenous colitis,drawing,0.3512940395686537
+Complex partial seizures,Ambien CR,0.0032337958992372517
+Complex partial seizures,Hydroxyzine,-0.005504337152357722
+Complex partial seizures,drawing,0.33230111239028387
+Fecal incontinence,Ambien CR,-0.08271510636890458
+Fecal incontinence,Hydroxyzine,-0.052885513619989194
+Fecal incontinence,drawing,0.3242227897920407
+GERD,Ambien CR,-0.21131702214294754
+GERD,Hydroxyzine,-0.35766734160362623
+GERD,drawing,0.25674308583431693
+Joint pain,drawing,0.23641258353759653
+Left eye twitch,Ambien CR,0.48599600792936737
+Left eye twitch,Hydroxyzine,0.4092269252069306
+Left eye twitch,drawing,0.8230012939659387
+Lyme disease,Ambien CR,-0.1136512471997012
+Lyme disease,Hydroxyzine,-0.07717426780121572
+Lyme disease,drawing,0.27898568482315933
+Mouth sores,Ambien CR,0.02808253332406828
+Mouth sores,Hydroxyzine,0.04770511666076226
+Mouth sores,drawing,0.40062352922937905
+Operative-left-shoulder pain,Ambien CR,0.1700339361135034
+Operative-left-shoulder pain,Hydroxyzine,0.1891279882855137
+Operative-left-shoulder pain,drawing,0.587554490487698
+Osteoarthritis,Ambien CR,0.10722227079121525
+Osteoarthritis,Hydroxyzine,-0.07703539452636886
+Osteoarthritis,drawing,0.30196275883853063
+Osteoporosis,Ambien CR,-0.034931112962746036
+Osteoporosis,Hydroxyzine,0.020002714655309756
+Osteoporosis,drawing,0.28879718034722274
+Peripheral neuropathy,Ambien CR,-0.06636518879561251
+Peripheral neuropathy,Hydroxyzine,-0.05595157176738798
+Peripheral neuropathy,drawing,0.21308192416024851
+Post-op shoulder surgery pain,Ambien CR,-0.3351662729432558
+Post-op shoulder surgery pain,Hydroxyzine,-0.3475333162620118
+Post-op shoulder surgery pain,Norco,-0.2692451402319702
+Post-op shoulder surgery pain,Oxynorm,-0.27812788679128075
+Post-op shoulder surgery pain,Zofran,-0.18255001099755594
+Post-op shoulder surgery pain,cocodamol,-0.29193698128967993
+Post-op shoulder surgery pain,drawing,-0.06330034878788152
+Post-op shoulder surgery pain,gluten free,-0.10635451763326487
+Post-op shoulder surgery pain,heating pads,-0.027550745588734
+Raynaud's,Ambien CR,-0.7799684554266189
+Raynaud's,Hydroxyzine,-0.9335986449222441
+Raynaud's,drawing,-0.5468313685073481
+Scleroderma,Ambien CR,-0.5650445599545209
+Scleroderma,Hydroxyzine,-0.5573036239016793
+Scleroderma,drawing,-0.18578906062300055
+Vesicle on right hand,drawing,1.546102963584817
+Weight loss,Ambien CR,-0.0583551800148631
+Weight loss,Hydroxyzine,-0.133048347517075
+Weight loss,drawing,0.21044466109613974
+Anxiety,Aleve,-0.04476058524381098
+Headache,Aleve,0.029325918093306376
+Light sensitivity,Aleve,-0.042607446466316166
+Morning Stiffness,Aleve,-0.14639468878822112
+Right Hip Pain,Aleve,-0.12480978588984515
+Sound sensitivity,Aleve,-0.0686730449063041
+left hip pain,Aleve,0.20119223836569222
+muscle weakness,Aleve,-0.363943576051269
+passing out,Aleve,0.10532613002770404
+Acid Reflux,Famotidine,-0.06405725578198262
+Air hunger,Propranolol,0.4229117341387699
+Air hunger,Zofran,0.5205270866290015
+Bloating,Lorazepam,0.004161919668892705
+Bloating,Propranolol,0.11872833887202314
+Depression,Propranolol,0.2457306918999746
+Double vision,Lorazepam,-0.17943963407748412
+Double vision,Propranolol,0.06297992476452878
+Elbow pain,Lorazepam,-0.06661248625144828
+Elbow pain,Propranolol,-0.06586712385207538
+Elbow pain,Zofran,-0.027764079991078605
+Fibromyalgia,Propranolol,-0.042728480695884294
+Finger pain,Lorazepam,-0.21869985643474316
+Finger pain,Propranolol,0.05139889950556323
+Headache,Lorazepam,-0.22822011782733664
+Headache,Propranolol,-0.08837567702674778
+Hip pain,Lorazepam,-0.06514247998555178
+Hip pain,Propranolol,0.3512781890583081
+Hip pain,Zofran,0.48587383299523945
+Irritability,Lorazepam,0.07206556752285756
+Irritability,Propranolol,0.3441560197195355
+Irritability,Zofran,0.06515404784321838
+Knee pain,Lorazepam,0.039490244348993314
+Knee pain,Propranolol,0.33017107459449013
+Knee pain,Zofran,-0.059433745233805596
+Lack of Motivation,Propranolol,-0.04463536986334702
+Loss of voice,Lorazepam,0.3044884382531239
+Loss of voice,Propranolol,0.4011346504993306
+Muscle pain,Lorazepam,-0.2032856096535433
+Muscle pain,Zofran,0.30636666715393246
+Nausea,Propranolol,0.18396308111286463
+OCD,Lorazepam,-0.24195913390219076
+Right thumb pain,Lorazepam,0.17067512822254743
+Right thumb pain,Propranolol,0.32209073362946417
+Shoulder pain,Lorazepam,-0.11436630877346204
+Shoulder pain,Propranolol,-0.013942089855315483
+Shoulder pain,Zofran,0.08415295124342702
+Suicidal ideation,Propranolol,0.05682258686820214
+Tachycardia,Propranolol,0.5382682760407471
+Temperature Regulation,Lorazepam,-0.21460883483122498
+Temperature Regulation,Propranolol,-0.03378795439206754
+Temperature Regulation,Zofran,0.007188200049766842
+Wrist pain,Lorazepam,-0.16552361789728942
+Wrist pain,Propranolol,0.028416137697995156
+depth perception ,Lorazepam,-0.023988122275168874
+depth perception ,Propranolol,0.2469835553598797
+depth perception ,Zofran,0.19941108718009948
+hand tremors,Propranolol,-0.14252401135478682
+left thumb pain,Lorazepam,-0.15489426759705166
+left thumb pain,Propranolol,0.08090810757583303
+lightheadedness,Lorazepam,-0.1238271746189107
+lightheadedness,Propranolol,-0.2373714865904592
+lightheadedness,Zofran,0.07833529600175601
+postural orthostatic tachycardia syndrome (POTS),Zofran,0.2917699652835515
+stomach pain stabs,Lorazepam,-0.08825589898013189
+stomach pain stabs,Propranolol,0.17649396595267325
+Bronchitis,Amoxicillin,-0.07015432496968121
+Bronchitis,Azithromycin,-0.007648608453516115
+Bronchitis,Doxycycline,0.07761903864440828
+Bronchitis,azythromycin,0.6112678594447312
+Bronchitis,clindemycin,0.29736248878158433
+Congestion,Azithromycin,0.1434459791702958
+Congestion,azythromycin,0.8077839588756441
+Cough,azythromycin,1.0140429123764316
+Diarrhea,Azithromycin,0.18732956814451143
+Diarrhea,Cyproheptadine,0.12449304361530944
+Diarrhea,Omeprazole,0.09136309733836646
+Diarrhea,Tylenol,-0.20614359494003354
+Diarrhea,azythromycin,0.7825300168754392
+Diarrhea,clindemycin,0.4316007358160586
+Dizziness,Advil,-0.39365883153714826
+Dizziness,Cyproheptadine,-0.01899867024827484
+Dizziness,Tylenol,0.30034099599271696
+Dizzyness,Advil,0.03926634171662348
+Dizzyness,Cyproheptadine,0.32829435489795133
+Dizzyness,Omeprazole,-0.03225419309493921
+Dizzyness,Tylenol,0.1056803933660386
+Fever,Cyproheptadine,0.4756023630975726
+Fever,Doxycycline,0.41036731526341264
+Fever,Omeprazole,0.22099795528363514
+Fever,Tylenol,0.2681972986017043
+Headache,Azithromycin,-0.29460070136900096
+Headache,Cyproheptadine,0.1892721087322039
+Headache,Doxycycline,-0.029252261616526054
+Nausea,Advil,0.011883871870898455
+Nausea,Azithromycin,-0.3296900906569441
+Nausea,Cyproheptadine,0.23912394987624824
+Nausea,Omeprazole,-0.3719098211677756
+Nausea,Tylenol,0.4501211000394716
+Nausea,azythromycin,0.7200868191535074
+Nausea,clindemycin,0.4272708946546981
+Pneumonia,Advil,1.242037192482482
+Pneumonia,Azithromycin,1.2347121958122136
+Pneumonia,Cyproheptadine,1.5034237670801471
+Pneumonia,Omeprazole,1.2494030097454007
+Pneumonia,Tylenol,1.2709665353341022
+Pneumonia,azythromycin,2.1512604037563796
+Red Cheeks,Advil,-0.17669665615584654
+Red Cheeks,Cyproheptadine,0.15704573732465865
+Red Cheeks,Omeprazole,-0.15580651954905067
+Red Cheeks,Tylenol,-0.17982586953092333
+Red face,clindemycin,0.30136993998939204
+Right Hip Pain,Advil,-0.3112904769074151
+Right Hip Pain,Cyproheptadine,-0.08838082599259064
+Right Hip Pain,Omeprazole,-0.3114223724991949
+Right Hip Pain,Tylenol,-0.2593363025756542
+Right knee pain,Advil,-0.15666496275238898
+Right knee pain,Azithromycin,-0.0923520059050386
+Right knee pain,Cyproheptadine,0.11356512114239047
+Right knee pain,Omeprazole,-0.01735728162832531
+Right knee pain,Tylenol,-0.060585601068959424
+Right knee pain,azythromycin,0.6420725653139204
+Sore throat,Cyproheptadine,0.30108695107860484
+Sore throat,Doxycycline,0.428748726969684
+Sore throat,Tylenol,0.2702322857320173
+Stomach Pain,Cyproheptadine,0.3048118573415878
+Stomach Pain,Tylenol,0.06335524975654573
+Stuffy nose,Amoxicillin,0.1295157793120986
+Stuffy nose,Azithromycin,-0.11612371008763736
+Stuffy nose,azythromycin,0.8255797553485554
+Stuffy nose,clindemycin,0.40639215132758305
+Vomiting,Azithromycin,0.18977695680934342
+Vomiting,azythromycin,0.9897003587120342
+left knee pain,Advil,-0.06954025812269785
+left knee pain,Cyproheptadine,0.16495725568277148
+left knee pain,Tylenol,0.017603169895585677
+lungs hurt,Advil,-0.6290932262178323
+lungs hurt,Cyproheptadine,-0.29066189985600094
+lungs hurt,Omeprazole,-0.6978053026585932
+lungs hurt,Tylenol,-0.4431907410975996
+scratchy throat,Cyproheptadine,0.018448492154536276
+scratchy throat,Tylenol,-0.12130924486900296
+strep throat,Advil,2.280016122359846
+strep throat,Azithromycin,2.4824212899175837
+strep throat,Cyproheptadine,2.6143233210429018
+strep throat,Doxycycline,2.6172853130969873
+strep throat,Omeprazole,2.2999790771200463
+strep throat,Tylenol,2.3437700080139763
+strep throat,azythromycin,3.292199653861897
+strep throat,clindemycin,2.8186789871365847
+Allergies,Aromatherapy,-0.4960556268400079
+Allergies,Cannabis,-0.14182133897400062
+Allergies,DEHA,-0.8025118146327931
+Allergies,LUSH acne spot-treatment,-0.8819607163114163
+Allergies,Low oxalate,-0.7402842830409966
+Allergies,Methylcobalamine,-0.6851352056756301
+Allergies,Tavegyl,-0.36917479011037235
+Allergies,Trigger Points,-0.16824263655604502
+Allergies,Tylenol 3,-0.5908413949395434
+Allergies,gluten free,0.06142044494606185
+Allergies,massage,0.05592493901898317
+Allergies,rebounding,-0.7213881637618077
+Anger,Aromatherapy,-0.2783843704643715
+Anger,Cannabis,0.10206643811353378
+Anger,DEHA,-0.6904108518267154
+Anger,LUSH acne spot-treatment,-0.7882875385497158
+Anger,Low oxalate,-0.5476105894025086
+Anger,Methylcobalamine,-0.5184299589776931
+Anger,Tavegyl,-0.23385804876591862
+Anger,Trigger Points,0.0770983145663007
+Anger,Tylenol 3,-0.2721354692619532
+Anger,gluten free,0.3969733485029112
+Anger,massage,0.1981933155277799
+Anger,rebounding,-0.4798031050412869
+Asthma,Aromatherapy,-0.4503604715060429
+Asthma,Cannabis,-0.036556942915887417
+Asthma,DEHA,-0.6227889235937704
+Asthma,LUSH acne spot-treatment,-0.891373141675334
+Asthma,Low oxalate,-0.7473656589076354
+Asthma,Methylcobalamine,-0.6027359384242335
+Asthma,Tavegyl,-0.12178227733660946
+Asthma,Trigger Points,-0.031001900012568383
+Asthma,Tylenol 3,-0.35110582495186976
+Asthma,gluten free,0.16324237327440513
+Asthma,massage,-0.19960881981855835
+Asthma,rebounding,-0.6906146906006704
+Aura,Aromatherapy,-0.5553948368156428
+Aura,Cannabis,-0.032156842159854954
+Aura,DEHA,-0.8542727137975813
+Aura,LUSH acne spot-treatment,-0.8598768506277684
+Aura,Low oxalate,-0.7140433182566805
+Aura,Methylcobalamine,-0.6836665374069011
+Aura,Tavegyl,-0.4333959433751084
+Aura,Trigger Points,-0.033237463541138434
+Aura,Tylenol 3,-0.46528726823319155
+Aura,gluten free,0.10160077571119273
+Aura,massage,0.02008030038435825
+Aura,rebounding,-0.7256539057929522
+Chronic fatigue syndrome,Aromatherapy,-0.3960952672221083
+Chronic fatigue syndrome,Cannabis,-0.21089337463437527
+Chronic fatigue syndrome,DEHA,-1.063219910912689
+Chronic fatigue syndrome,LUSH acne spot-treatment,-1.0709853838708498
+Chronic fatigue syndrome,Low oxalate,-0.9265134594882841
+Chronic fatigue syndrome,Methylcobalamine,-0.8231627219310397
+Chronic fatigue syndrome,Tavegyl,-0.543874621264927
+Chronic fatigue syndrome,Trigger Points,-0.22481874897114007
+Chronic fatigue syndrome,Tylenol 3,-0.5876582971182209
+Chronic fatigue syndrome,gluten free,0.10654498701703466
+Chronic fatigue syndrome,massage,-0.031597177921633024
+Chronic fatigue syndrome,rebounding,-0.6288745454877135
+Constipation,Aromatherapy,-0.4580753117567348
+Constipation,Cannabis,-0.04721373676397943
+Constipation,DEHA,-0.6693447562003416
+Constipation,LUSH acne spot-treatment,-0.6687174904371682
+Constipation,Low oxalate,-0.6524541356704029
+Constipation,Methylcobalamine,-0.5512527366402132
+Constipation,Tavegyl,-0.29429755643547395
+Constipation,Trigger Points,0.12651471032022252
+Constipation,Tylenol 3,-0.3266049426702309
+Constipation,gluten free,0.17347928940987098
+Constipation,massage,0.16570001094417255
+Constipation,rebounding,-0.5892321838186327
+Diarrhea,Aromatherapy,-0.30948842848886354
+Diarrhea,Cannabis,0.08838429821557833
+Diarrhea,DEHA,-0.7746780866207917
+Diarrhea,LUSH acne spot-treatment,-0.908629554842596
+Diarrhea,Low oxalate,-0.6847938382642296
+Diarrhea,Methylcobalamine,-0.7719041938206347
+Diarrhea,Tavegyl,-0.35567426253046297
+Diarrhea,Trigger Points,-0.09909495953429892
+Diarrhea,Tylenol 3,-0.44280251773349055
+Diarrhea,gluten free,0.23030375261354163
+Diarrhea,massage,0.09302282055184
+Diarrhea,rebounding,-0.6192181226318121
+Dizziness,Aromatherapy,-0.43350049892479975
+Dizziness,Cannabis,-0.2488603076074638
+Dizziness,DEHA,-0.8356185513071284
+Dizziness,LUSH acne spot-treatment,-1.1432078582235108
+Dizziness,Low oxalate,-0.963844571095262
+Dizziness,Methylcobalamine,-0.716101517441055
+Dizziness,Tavegyl,-0.31096873513053086
+Dizziness,Trigger Points,-0.2985013627266019
+Dizziness,Tylenol 3,-0.6076916105042541
+Dizziness,gluten free,-0.08861795568084346
+Dizziness,massage,-0.261040487773189
+Dizziness,rebounding,-0.6012468639283859
+Fatigue,Aromatherapy,-0.33047360544199467
+Fatigue,Cannabis,-0.03850740098429413
+Fatigue,DEHA,-1.045475693758667
+Fatigue,LUSH acne spot-treatment,-1.055843590801624
+Fatigue,Low oxalate,-0.8244930606044906
+Fatigue,Methylcobalamine,-0.8816210418830958
+Fatigue,Tavegyl,-0.41219064507330005
+Fatigue,Trigger Points,-0.06129570217790691
+Fatigue,Tylenol 3,-0.4798886653640651
+Fatigue,gluten free,0.1519237659392409
+Fatigue,massage,0.07238861095167741
+Fatigue,rebounding,-0.6009080117799287
+Headache,Aromatherapy,-0.1905649415791288
+Headache,Cannabis,0.0030424573912650604
+Headache,DEHA,-0.8775501520337581
+Headache,LUSH acne spot-treatment,-1.0480834197929068
+Headache,Low oxalate,-0.9088165105607505
+Headache,Methylcobalamine,-0.7706012505387205
+Headache,Tavegyl,-0.5277244178518173
+Headache,Trigger Points,-0.19732109097387027
+Headache,Tylenol 3,-0.3507691301628254
+Headache,gluten free,0.43196888690422275
+Headache,massage,-0.008620064934128924
+Headache,rebounding,-0.5773882326765688
+Insomnia,Aromatherapy,-0.6594830676894927
+Insomnia,Cannabis,0.04698953407718446
+Insomnia,DEHA,-1.0123606726512742
+Insomnia,LUSH acne spot-treatment,-0.973273533089663
+Insomnia,Low oxalate,-0.702629717521
+Insomnia,Methylcobalamine,-0.7959265398067776
+Insomnia,Tavegyl,-0.4644838233688088
+Insomnia,Trigger Points,0.07281340767085354
+Insomnia,Tylenol 3,-0.48220996555619233
+Insomnia,gluten free,0.2490352749761741
+Insomnia,massage,0.38064894755773243
+Insomnia,rebounding,-0.5871764752608606
+Migraine,Aromatherapy,-0.31644991222920227
+Migraine,Cannabis,-0.16826818532617682
+Migraine,DEHA,-0.7813485970360685
+Migraine,LUSH acne spot-treatment,-0.7785847441852598
+Migraine,Low oxalate,-0.7863351266121174
+Migraine,Methylcobalamine,-0.6904443880713979
+Migraine,Tavegyl,-0.6500454163427433
+Migraine,Trigger Points,-0.030935007840524498
+Migraine,Tylenol 3,-0.7014756121205348
+Migraine,gluten free,0.062741764175382
+Migraine,massage,0.15243283618897274
+Migraine,rebounding,-0.579745946437984
+Nasal congestion,Aromatherapy,-0.2700583040098054
+Nasal congestion,Cannabis,-0.026581419501350144
+Nasal congestion,DEHA,-0.5895465601129162
+Nasal congestion,LUSH acne spot-treatment,-0.6901784724654036
+Nasal congestion,Low oxalate,-0.552167813816973
+Nasal congestion,Methylcobalamine,-0.48986786371807906
+Nasal congestion,Tavegyl,-0.19526167261830865
+Nasal congestion,Trigger Points,0.12472066515094049
+Nasal congestion,Tylenol 3,-0.37544259952266806
+Nasal congestion,gluten free,0.25786646393108636
+Nasal congestion,massage,0.16430389631936557
+Nasal congestion,rebounding,-0.5143536273552796
+Nausea,Aromatherapy,-0.6464235942481518
+Nausea,Cannabis,-0.11154565731381696
+Nausea,DEHA,-0.8189114629342343
+Nausea,LUSH acne spot-treatment,-0.8710218648095682
+Nausea,Low oxalate,-0.6786497427074253
+Nausea,Methylcobalamine,-0.6527223520463926
+Nausea,Tavegyl,-0.39002719145852416
+Nausea,Trigger Points,-0.003889833819616585
+Nausea,Tylenol 3,-0.6533426625624286
+Nausea,gluten free,-0.13396771788809164
+Nausea,massage,0.2266213860783748
+Nausea,rebounding,-0.6231272744516948
+Noise Sensitivity,Aromatherapy,-0.37044648860827223
+Noise Sensitivity,Cannabis,0.23460850980317877
+Noise Sensitivity,DEHA,-0.7404604700664322
+Noise Sensitivity,LUSH acne spot-treatment,-0.7637161673626717
+Noise Sensitivity,Low oxalate,-0.6237013498352009
+Noise Sensitivity,Methylcobalamine,-0.6098406508688566
+Noise Sensitivity,Tavegyl,-0.2928013356098287
+Noise Sensitivity,Trigger Points,0.1416303941959022
+Noise Sensitivity,Tylenol 3,-0.2985809832537303
+Noise Sensitivity,gluten free,0.38689773399428484
+Noise Sensitivity,massage,0.3835074382276604
+Noise Sensitivity,rebounding,-0.5251649836417559
+Plantar fasciitis,Aromatherapy,-0.5154054581255946
+Plantar fasciitis,Cannabis,-0.09926877468637063
+Plantar fasciitis,DEHA,-1.1820256738099006
+Plantar fasciitis,LUSH acne spot-treatment,-1.1942823837054382
+Plantar fasciitis,Low oxalate,-0.6601658855529665
+Plantar fasciitis,Methylcobalamine,-0.6764020266558777
+Plantar fasciitis,Tavegyl,-0.49020225103101267
+Plantar fasciitis,Trigger Points,-0.008204809680755376
+Plantar fasciitis,Tylenol 3,-0.5821359264300666
+Plantar fasciitis,gluten free,0.18849280425751086
+Plantar fasciitis,massage,0.3898835798499221
+Plantar fasciitis,rebounding,-0.23987721662636352
+Scent Sensitivity,Aromatherapy,-0.5612893330310239
+Scent Sensitivity,Cannabis,-0.22370791369667725
+Scent Sensitivity,DEHA,-1.006835929900433
+Scent Sensitivity,LUSH acne spot-treatment,-1.0294973356486896
+Scent Sensitivity,Low oxalate,-0.8984456491883757
+Scent Sensitivity,Methylcobalamine,-0.8599819526999397
+Scent Sensitivity,Tavegyl,-0.5694305415230433
+Scent Sensitivity,Trigger Points,-0.2444131583513987
+Scent Sensitivity,Tylenol 3,-0.5645735984737884
+Scent Sensitivity,gluten free,-0.03291103740065528
+Scent Sensitivity,massage,-0.1070198935622646
+Scent Sensitivity,rebounding,-0.7940480859788808
+Tingling in hands and feet,Aromatherapy,-0.4803553530167717
+Tingling in hands and feet,Cannabis,-0.19315409064737488
+Tingling in hands and feet,DEHA,-0.8030708808173886
+Tingling in hands and feet,LUSH acne spot-treatment,-0.8157227699368691
+Tingling in hands and feet,Low oxalate,-0.7241271040632824
+Tingling in hands and feet,Methylcobalamine,-0.7460868223424735
+Tingling in hands and feet,Tavegyl,-0.4366847195738633
+Tingling in hands and feet,Trigger Points,-0.013492665247231028
+Tingling in hands and feet,Tylenol 3,-0.5864249946072637
+Tingling in hands and feet,gluten free,0.05540549115647614
+Tingling in hands and feet,massage,-0.08131621430588132
+Tingling in hands and feet,rebounding,-0.7652490346215666
+Trouble finding words,Aromatherapy,-0.9135793481359699
+Trouble finding words,Cannabis,-0.5498882111581437
+Trouble finding words,DEHA,-1.2801009812123199
+Trouble finding words,LUSH acne spot-treatment,-1.339310053927616
+Trouble finding words,Low oxalate,-1.1124665088604897
+Trouble finding words,Methylcobalamine,-1.0977439901730581
+Trouble finding words,Tavegyl,-0.8613065873172372
+Trouble finding words,Trigger Points,-0.5386809695928332
+Trouble finding words,Tylenol 3,-0.9909632432634249
+Trouble finding words,gluten free,-0.49248740732896923
+Trouble finding words,massage,-0.4485561662147353
+Trouble finding words,rebounding,-1.0524526712890157
+Upper back pain,Aromatherapy,-0.6219882424621731
+Upper back pain,Cannabis,-0.16428772358465796
+Upper back pain,DEHA,-0.8861107351020128
+Upper back pain,LUSH acne spot-treatment,-0.9183975217145804
+Upper back pain,Low oxalate,-0.7861976277234414
+Upper back pain,Methylcobalamine,-0.7622956597913554
+Upper back pain,Tavegyl,-0.5584169694331859
+Upper back pain,Trigger Points,-0.1707678424265692
+Upper back pain,Tylenol 3,-0.4556663820001276
+Upper back pain,gluten free,0.04999551552227328
+Upper back pain,massage,-0.16086152338343906
+Upper back pain,rebounding,-0.8595336251661696
+Word swapping,Aromatherapy,-0.40429258268677243
+Word swapping,Cannabis,0.10756777362554482
+Word swapping,DEHA,-0.6398971863549245
+Word swapping,LUSH acne spot-treatment,-0.6630677279550307
+Word swapping,Low oxalate,-0.4480159532504226
+Word swapping,Methylcobalamine,-0.47481467394432036
+Word swapping,Tavegyl,-0.24885553061359408
+Word swapping,Trigger Points,0.21268808203505318
+Word swapping,Tylenol 3,-0.3008273005605873
+Word swapping,gluten free,0.2856872896387525
+Word swapping,massage,0.2831519136322316
+Word swapping,rebounding,-0.5308098139631121
+Words in wrong order when speaking,Aromatherapy,-0.6593218231304107
+Words in wrong order when speaking,Cannabis,-0.28071065331475853
+Words in wrong order when speaking,DEHA,-0.9747604522782473
+Words in wrong order when speaking,LUSH acne spot-treatment,-1.0955634285690052
+Words in wrong order when speaking,Low oxalate,-0.8450909888509496
+Words in wrong order when speaking,Methylcobalamine,-0.8784444877436999
+Words in wrong order when speaking,Tavegyl,-0.654600650602542
+Words in wrong order when speaking,Trigger Points,-0.1995821469281268
+Words in wrong order when speaking,Tylenol 3,-0.7227292169892142
+Words in wrong order when speaking,gluten free,-0.17107592268219896
+Words in wrong order when speaking,massage,-0.25766690987151497
+Words in wrong order when speaking,rebounding,-0.8696826748930715
+hives,Aromatherapy,-0.12705541009267818
+hives,Cannabis,0.05762783849146756
+hives,DEHA,-0.5659546419961727
+hives,LUSH acne spot-treatment,-0.5288839289609737
+hives,Low oxalate,-0.4503055765093888
+hives,Methylcobalamine,-0.3261927663777644
+hives,Tavegyl,-0.12965200787084313
+hives,Trigger Points,0.16858404544453884
+hives,Tylenol 3,-0.16838870174064696
+hives,gluten free,0.39285836952559905
+hives,massage,0.19666924400682353
+hives,rebounding,-0.3782127831032531
+sleepiness,Aromatherapy,-0.3277529819718881
+sleepiness,Cannabis,0.11588419118284249
+sleepiness,DEHA,-0.6880297441931
+sleepiness,LUSH acne spot-treatment,-0.6280167437374446
+sleepiness,Low oxalate,-0.5912831678546184
+sleepiness,Methylcobalamine,-0.6118396135465112
+sleepiness,Tavegyl,-0.17424478617951347
+sleepiness,Trigger Points,0.15221674916802122
+sleepiness,Tylenol 3,-0.20461932929108362
+sleepiness,gluten free,0.3627307841426778
+sleepiness,massage,0.2336521210006804
+sleepiness,rebounding,-0.6681667898642649
+Brain fog,Epsom salt bath,0.03468845376159276
+Abdominal pain,Anakinra,0.03959574316275448
+Abdominal pain,Fexofenadine,0.07303654628357227
+Agitation,Anakinra,-0.08696175955431099
+Agitation,Fexofenadine,-0.11911290315518215
+Body aching,Anakinra,-0.04857477307280866
+Body aching,Fexofenadine,-0.0444829275448639
+Bowel Urgency,Anakinra,-0.24138520184571344
+Bowel Urgency,Fexofenadine,-0.23635890978811724
+Chills,Anakinra,0.17694382435492945
+Chills,Fexofenadine,0.1663082358724644
+Cough,Anakinra,0.23118427449628792
+Cough,Fexofenadine,0.32203622222415257
+Eczema,Anakinra,0.2351899870973401
+Eczema,Fexofenadine,0.2922416895518354
+Fatigue,Anakinra,-0.014029903787836761
+Fatigue,Fexofenadine,-0.08326240497667671
+Fever,Anakinra,0.24523906213418878
+Fever,Fexofenadine,0.25699774647242873
+Headache,Anakinra,-0.03975036328512558
+Headache,Fexofenadine,-0.13886076192530072
+Hyperventilation,Anakinra,0.11429216672060835
+Hyperventilation,Fexofenadine,0.08055519669140415
+Insomnia,Anakinra,0.09988325261215206
+Insomnia,Fexofenadine,0.07014832493678622
+Itching,Anakinra,-0.021096577996698805
+Itching,Fexofenadine,-0.053730291773974675
+Muscle twitching,Anakinra,0.012398283635296015
+Muscle twitching,Fexofenadine,0.049171877925565016
+Nausea,Anakinra,0.03237384103097297
+Nausea,Fexofenadine,0.33559185011227016
+Orthostatic intolerance,Anakinra,0.41745115593062865
+Orthostatic intolerance,Fexofenadine,0.3878119830500956
+Post-Exertional Malaise,Anakinra,0.4296872510701952
+Post-Exertional Malaise,Fexofenadine,0.4386334364717827
+Rash,Anakinra,-0.011260597994546984
+Rash,Fexofenadine,0.09275003917821467
+Sensivity-Skin,Anakinra,-0.28870164264263126
+Sensivity-Skin,Fexofenadine,-0.2784766627485435
+Shortness of breath,Anakinra,0.09954305176083555
+Shortness of breath,Fexofenadine,0.14156492043198968
+Urinary urgency,Anakinra,0.06089746599322334
+Urinary urgency,Fexofenadine,0.03775148821820978
+diaphragm spasm,Anakinra,0.07968972455151588
+diaphragm spasm,Fexofenadine,0.16917407588818223
+misophonia,Anakinra,0.5180107814026063
+misophonia,Fexofenadine,0.5194739316319725
+nerve tension,Anakinra,0.20165541586037564
+nerve tension,Fexofenadine,0.19517381118264604
+pre-syncope ,Anakinra,-0.021283454430110975
+pre-syncope ,Fexofenadine,-0.01637645768109108
+sleepiness,Anakinra,0.13505813567915476
+sleepiness,Fexofenadine,0.09274980082459912
+Rheumatoid arthritis,Turmeric,0.05738977964297588
+Ankylosing spondylitis,Meditation,0.04735722958072435
+Ankylosing spondylitis,Walking,-0.02575975682818001
+Chest pain,Meditation,0.22965863625517174
+Chest pain,Walking,0.150207362544832
+Stomach Pain,Meditation,0.08879121605391296
+Stomach Pain,Walking,0.019477073251764218
+Fibro fog,Meditation,0.14295604232492629
+Asthma,Athlete Vitamin,-0.27386931320543706
+Asthma,Boswelia,-0.32775704478299117
+Asthma,Boswelia Complex,-0.12973497366074543
+Asthma,Buspirone,0.0646517645048334
+Asthma,Codeine,-0.2869575515260225
+Asthma,Codeine-Panadol,-0.36084493502730103
+Asthma,Ibuprofen,0.04908571205903735
+Asthma,Iron,-0.018958234586286662
+Asthma,Magnesium,0.29654690854498733
+Asthma,Probiotics,-0.026031702331333784
+Asthma,Temazepam,-0.24721225395839283
+Asthma,Valdoxan,-0.7036706324413914
+Asthma,Vitamin B,-0.17269815749217854
+Asthma,Vitamin a,-0.06409381743844275
+Asthma,Voltaren,-0.06885429239914119
+Constipation,Athlete Vitamin,-0.15261613135661242
+Constipation,Boswelia,-0.33715813586014354
+Constipation,Boswelia Complex,-0.09388223976312653
+Constipation,Buspirone,0.09249292019081268
+Constipation,Codeine,0.001265103768603254
+Constipation,Codeine-Panadol,-0.4347006223235152
+Constipation,Ibuprofen,-0.19648388953653675
+Constipation,Iron,0.04102077972250916
+Constipation,Magnesium,0.07295815813330522
+Constipation,Probiotics,0.006542043715234674
+Constipation,Temazepam,-0.24593921541385155
+Constipation,Valdoxan,-0.6047227461668127
+Constipation,Vitamin B,-0.2506544597526962
+Constipation,Vitamin a,-0.09613723624455509
+Constipation,Voltaren,-0.06727564019314677
+Fatigue,Athlete Vitamin,-0.22862676465355553
+Fatigue,Boswelia,-0.31707646415532836
+Fatigue,Boswelia Complex,0.016775988188373316
+Fatigue,Buspirone,-0.040277280775129196
+Fatigue,Codeine,-0.44302249939082583
+Fatigue,Codeine-Panadol,-0.26235152494181735
+Fatigue,Ibuprofen,-0.04529362040823863
+Fatigue,Iron,0.034437864848026245
+Fatigue,Magnesium,0.05159205684528477
+Fatigue,Probiotics,0.03789213299494597
+Fatigue,Temazepam,-0.06820251788036072
+Fatigue,Valdoxan,-0.6177169454576091
+Fatigue,Vitamin B,-0.14543268620172028
+Fatigue,Vitamin a,-0.22123836293104407
+Fatigue,Voltaren,-0.0061059633847319605
+Rapid cycling,Athlete Vitamin,-0.11119904991496442
+Rapid cycling,Boswelia,-0.32640044483656966
+Rapid cycling,Boswelia Complex,0.09746852770236761
+Rapid cycling,Buspirone,0.05511713950973835
+Rapid cycling,Codeine,-0.21871405607496136
+Rapid cycling,Codeine-Panadol,-0.33928846965153775
+Rapid cycling,Ibuprofen,-0.020735842244617095
+Rapid cycling,Iron,0.029832263185657834
+Rapid cycling,Magnesium,0.0952997474057254
+Rapid cycling,Probiotics,-0.04762629824352874
+Rapid cycling,Temazepam,-0.030334163035053457
+Rapid cycling,Valdoxan,-0.5033361809885827
+Rapid cycling,Vitamin B,-0.14387925224020304
+Rapid cycling,Vitamin a,-0.04371351369919019
+Rapid cycling,Voltaren,-0.002838746870929009
+Sadness,Athlete Vitamin,-0.17851777370737673
+Sadness,Boswelia,-0.3715725667745695
+Sadness,Boswelia Complex,-0.12738660655551698
+Sadness,Buspirone,-0.11067515118356015
+Sadness,Codeine,-0.16245751991020987
+Sadness,Codeine-Panadol,-0.47527520302782894
+Sadness,Ibuprofen,-0.09367227335145473
+Sadness,Iron,0.04214579753421706
+Sadness,Magnesium,0.17743488924975376
+Sadness,Probiotics,-0.055185165375031264
+Sadness,Temazepam,-0.2402670884367546
+Sadness,Valdoxan,-0.5170766764818636
+Sadness,Vitamin B,-0.23678808381878863
+Sadness,Vitamin a,-0.14983049597173723
+Sadness,Voltaren,0.10147062139867558
+Teary,Athlete Vitamin,-0.6566218419391183
+Teary,Boswelia,-0.7428480864432523
+Teary,Boswelia Complex,-0.4067561000336581
+Teary,Buspirone,-0.40681783239819425
+Teary,Codeine,-0.5875089688703616
+Teary,Codeine-Panadol,-0.8271561134357345
+Teary,Ibuprofen,-0.5089570243084705
+Teary,Iron,-0.31986622448838853
+Teary,Magnesium,-0.21480232400816857
+Teary,Probiotics,-0.531847418010291
+Teary,Temazepam,-0.6481515388550363
+Teary,Valdoxan,-1.0403602562623369
+Teary,Vitamin B,-0.5880693500906481
+Teary,Vitamin a,-0.5482587858891743
+Teary,Voltaren,-0.5152637730314666
+appetite,Boswelia Complex,-0.10198920567741725
+appetite,Buspirone,-0.1552437896968047
+appetite,Codeine,-0.18206345061954526
+appetite,Codeine-Panadol,-0.43291552628984276
+appetite,Iron,-0.0060067122128980854
+appetite,Magnesium,0.17307656698505358
+appetite,Probiotics,-0.26602419389081056
+appetite,Temazepam,-0.17950441309563991
+appetite,Vitamin B,-0.14014558157244297
+appetite,Vitamin a,-0.2286890212090002
+Lower Back Pain,Welbutrin,-0.010359898406832477
+Atlantoaxial Instability,Vitamin D3,0.28544154467339866
+Fibro fog,Zolpidem,0.10268463194297134
+Headache,Zolpidem,0.17671804820307652
+Hip pain,Zolpidem,0.3989418142388019
+low bp,Ceftin,0.18292247512483983
+Cold feet,7-keto-dhea,0.3383447551939175
+Cold feet,Prednisolone,0.46864240932787593
+Cold feet,Vitamin d,0.8332167710136847
+Cold hands,7-keto-dhea,0.04414709003288428
+Cold hands,Prednisolone,0.44724388689296735
+Cold hands,Vitamin d,0.23129509659258826
+Cold intolerance,7-keto-dhea,0.75450443743169
+Cold intolerance,Prednisolone,0.9776457289050831
+Cold intolerance,Vitamin d,0.7521101007879655
+Constipation,7-keto-dhea,-0.08435623585256896
+Constipation,Prednisolone,-0.05715520431409063
+Constipation,Vitamin d,-0.10132919334052529
+Depression,7-keto-dhea,-0.17272341372376798
+Depression,Prednisolone,0.13007119492135077
+Depression,Vitamin d,0.3142581491892704
+Diarrhea,7-keto-dhea,-0.0937560649437493
+Diarrhea,Prednisolone,0.38673417652372477
+Diarrhea,Vitamin d,-0.1618898277821948
+Fatigue,7-keto-dhea,-0.08255801716722921
+Fatigue,Prednisolone,0.17829979913865576
+Fatigue,Vitamin d,0.3436060573988479
+Hashimoto's disease,7-keto-dhea,-0.0011765564082042157
+Hashimoto's disease,Prednisolone,0.2656485469648579
+Hashimoto's disease,Vitamin d,0.25626322797223616
+Light sensitive eyes,7-keto-dhea,-0.05311506143738993
+Light sensitive eyes,Prednisolone,0.1437011141363571
+Light sensitive eyes,Vitamin d,0.1394077617831205
+Ringing in ears,7-keto-dhea,-0.10025796103436636
+Ringing in ears,Prednisolone,0.17389089933897103
+Ringing in ears,Vitamin d,0.09810843577420804
+Sensitive to cold,7-keto-dhea,-0.05311506143738993
+Sensitive to cold,Prednisolone,0.1437011141363571
+Sensitive to cold,Vitamin d,0.1394077617831205
+Swollen throat,7-keto-dhea,0.23030443250514313
+Swollen throat,Prednisolone,0.4070854565234509
+Swollen throat,Vitamin d,0.4496495113039678
+hives,7-keto-dhea,0.06946658339536112
+hives,Prednisolone,0.3075427957792626
+hives,Vitamin d,0.20562568964682396
+water retention,7-keto-dhea,0.02353800409005511
+water retention,Prednisolone,0.15107707076450505
+water retention,Vitamin d,0.29111937252570247
+Constipation,Psyllium husk,0.3713848206232667
+Elevated temperature,Amoxicillin,0.7367561722465878
+Elevated temperature,Delsym,0.42000016969588266
+Elevated temperature,Duoneb,0.2550934998110814
+Elevated temperature,Medrol,0.4555084737605435
+Elevated temperature,Mucinex dm,-0.4168030989196131
+Elevated temperature,Prednisone,0.9394160832117917
+Elevated temperature,Yoga,0.872045057405382
+Elevated temperature,phenergan with codeine,0.057255491629638625
+Fatigue,Psyllium husk,0.2032369708345188
+Muscle pain,Psyllium husk,0.007433686549575984
+muscle weakness,Psyllium husk,0.03709891076417506
+Kidney Pain,dyclomine,-0.34394633304471695
+Anxiety,Ibuprofen,-0.039535223368294035
+Arm weakness,Lorazepam,0.14911999959784059
+Dizziness,Lorazepam,-0.28235036280898856
+Nausea,Benylin,-0.1591430042228757
+Pelvic pain,Lorazepam,0.18620940189679086
+Urinary retention,Ibuprofen,-0.43874147134313374
+Urinary retention,Lorazepam,-0.5069774817838839
+arm numbness,Lorazepam,0.2149379291429587
+Anhedonia,Ginger,-0.19890260675563137
+Anhedonia,anti-nausea pills,-0.32517743662113435
+Back pain,Ginger,0.21765539847768717
+Back pain,anti-nausea pills,-0.0847963835758441
+Back pain at worst,Ginger,0.1965620934063913
+Back pain at worst,anti-nausea pills,0.013171903299809336
+Chronic Uticaria,Ginger,0.1965620934063913
+Chronic Uticaria,anti-nausea pills,0.013171903299809336
+Depression,Ginger,0.24852036681501155
+Depression,anti-nausea pills,-0.05556481740899811
+Dull,Ginger,-0.047927837599824344
+Dull,anti-nausea pills,-0.1398691675724339
+Heaviness in hands,Ginger,0.21778492184891607
+Heaviness in hands,anti-nausea pills,0.06555661333152757
+Insomnia,Ginger,0.3353097175202625
+Insomnia,anti-nausea pills,0.09988325261215206
+Leg pain,Ginger,0.23386410690116158
+Leg pain,anti-nausea pills,-0.04243836842544476
+Neck pain,Ginger,0.1895594934510208
+Neck pain,anti-nausea pills,0.004291403250727591
+Passing Blood,Ginger,0.4641258870663399
+Passing Blood,anti-nausea pills,0.255070060259389
+Stomach Pain,Ginger,-0.10952426378765917
+Stomach Pain,anti-nausea pills,-0.07119494218377959
+Vitamin D deficiency,Ginger,0.13259720705815398
+Vitamin D deficiency,anti-nausea pills,-0.054552573804625464
+Vulvar Pain,Ginger,0.03700840777956523
+Vulvar Pain,anti-nausea pills,-0.15845382841196207
+difficulty waking up,Ginger,0.44503992744443177
+difficulty waking up,anti-nausea pills,0.35621606335619665
+dissociation,Ginger,0.1566631848451326
+dissociation,anti-nausea pills,-0.001257103781208536
+dumb stomach ache,Ginger,0.04304826459385587
+dumb stomach ache,anti-nausea pills,-0.23758304459901186
+intrusive thoughts,Ginger,0.12614818045706475
+intrusive thoughts,anti-nausea pills,-0.024872759646844357
+irritated skin,Ginger,0.17701664727212996
+irritated skin,anti-nausea pills,-0.030360251299309624
+stutter,Ginger,0.47604642414722265
+stutter,anti-nausea pills,0.2982150137131055
+Dry nose,Hydromorphone,-0.35561837259108103
+Dry throat,Hydromorphone,-0.4520219136017213
+Foot pain,Hydromorphone,-0.3614288390112517
+Hand pain,Hydromorphone,-0.35262729294149897
+Joint paint,Hydromorphone,-0.1128021908708797
+Muscle ache,Hydromorphone,-0.3758207065955612
+Pelvic pain,Hydromorphone,-0.16272565389966936
+Stiff neck,Hydromorphone,-0.31471483547907714
+Stiffness,Hydromorphone,-0.08978163907914234
+Thirst,Hydromorphone,0.15434421552835664
+sore ribs,Hydromorphone,-0.2601930447969933
+Meningioma,Black Elderberry Tincture,0.6985568896310803
+Meningioma,Keppra 250 mg,0.4755033941947153
+"Sleep apnea,
+  central",Black Elderberry Tincture,0.4834326488159269
+"Sleep apnea,
+  central",Keppra 250 mg,0.16398219637369016
+Autoimmune (undefined),Chiropractic,0.034475500781988674
+Allergies,Multivitamin,-0.06714692373568301
+Allergies,creative writing,0.09083207346527732
+Allergies,playing music,0.4482097249410145
+Anemia,creative writing,0.3958467060914726
+Anemia,playing music,0.876986595244711
+Body aching,creative writing,0.09095555616229928
+Body aching,playing music,0.6840507687566703
+Chronic fatigue syndrome,creative writing,-0.008006238958113567
+Chronic fatigue syndrome,playing music,0.5880068364758861
+Deep vein thrombosis,creative writing,0.27908421461536714
+Deep vein thrombosis,playing music,0.8608126975149328
+Discomfort breathing,creative writing,-0.20900242664316004
+Discomfort breathing,playing music,0.4213397972120575
+Dysthymia,creative writing,-0.014169556008011425
+Dysthymia,playing music,0.6002358799632612
+Fibromyalgia,creative writing,0.1051955764545014
+Fibromyalgia,playing music,0.5703859504643173
+GERD,creative writing,0.040364460927385104
+GERD,playing music,0.7143557221652062
+IBS,creative writing,0.30840940926241167
+IBS,playing music,0.6112509529056127
+Left wrist pain,creative writing,0.35805663313993763
+Left wrist pain,playing music,0.5520180714786721
+Lung Pain,creative writing,0.034913342328063965
+Lung Pain,playing music,0.5275795101679637
+Mitral valve prolapse,creative writing,0.6319870444309519
+Mitral valve prolapse,playing music,1.101444385861256
+Multiple Trigger Points,creative writing,0.3226966579708288
+Multiple Trigger Points,playing music,0.6644952130582596
+Nausea,creative writing,0.086939971585141
+Nausea,playing music,0.8179261262766997
+Numb Hand,creative writing,-0.015533976866050597
+Numb Hand,playing music,0.40572438919070036
+Obsessive-compulsive disorder,creative writing,0.3192330001810646
+Obsessive-compulsive disorder,playing music,0.7990194715859958
+POTS,creative writing,0.2207011514731994
+POTS,playing music,0.8935981381402881
+Painful Breathing,creative writing,0.2311929160566984
+Painful Breathing,playing music,0.7492489605780014
+Panic attacks,creative writing,0.3496965519826389
+Panic attacks,playing music,0.792743236787294
+Raynaud's disease,creative writing,0.2389594869805
+Raynaud's disease,playing music,0.5910329374533175
+Rib Dysfunction,creative writing,0.7718287064787404
+Rib Dysfunction,playing music,1.1474714017570495
+Shrunken Ulna Nerve,creative writing,0.20473240371939808
+Shrunken Ulna Nerve,playing music,0.7091249587018195
+Stomach Pain,creative writing,0.11944048224617797
+Stomach Pain,playing music,0.7262516774143768
+Whole body pain,creative writing,0.5758229450078238
+Whole body pain,playing music,0.9156712825061032
+ovarian pain,creative writing,0.889486521559423
+ovarian pain,playing music,1.5171880987649748
+sleepiness,creative writing,0.4065947085884996
+sleepiness,playing music,0.8051122073187688
+Depression,Questran,0.04865287202851445
+Tachycardia,iv saline,-0.24230425564790348
+Headache,codeine and iboprufen,-0.6775988958330526
+light bleeding,codeine and iboprufen,-0.5455667874437
+pain after sex,codeine and iboprufen,-0.9890117325728236
+Tingling hands,Biomedic,0.1563887071732944
+Tingling hands,CBD Capsule,0.2589140948495733
+ADHD,Gas X,-0.36778827423839466
+Chest pain,Levothyroxine,-0.06557201407605551
+Ehlers-Danlos syndrome,Levothyroxine,-0.10959515978126069
+Fatigue,Levothyroxine,-0.26856115818829507
+Itchy Nose,Gas X,-0.1928414067454752
+Mast Cell Activation Syndrome,Levothyroxine,-0.05814835287542176
+POTS,Levothyroxine,0.21962032508173146
+Arthritis,Oxycodone,0.022528585957191954
+Cushing's,Oxycodone,-0.004308166477889147
+Kidney cancer,Oxycodone,-0.004308166477889147
+Knee pain,Oxycodone,-0.18525858316443447
+myalgia,Tylenol,0.3936435454865544
+Insomnia,Deep Tissue Massage,0.30769635949050445
+Insomnia,Glutathione,0.03556409277979655
+Insomnia,IR SAUNA,0.9537162743479997
+Insomnia,calm magnesium,0.30378238094158483
+Insomnia,massage,0.38064894755773243
+Insomnia,zrytec,0.5716512763551133
+Headache,eye drops,-0.24817973831707613
+Overactive bladder,eye drops,-0.10279350841372353
+Sharp Pain,eye drops,-0.003178245310912327
+bowel frequency,eye drops,-0.1327474670489905
+loose stool,eye drops,-0.15406423125608298
+right quadrant,eye drops,-0.1327474670489905
+Dysautonomia,Alcohol,0.05979797176872975
+Dysautonomia,Fish oil,0.32816191117990545
+Dysautonomia,Migraine Diet,-0.11510010010729774
+Dysautonomia,Pristiq,0.1103196368086824
+Dysautonomia,Ubiquinol,0.2565987908397946
+Dysautonomia,Vitamin C,0.27204626030471485
+Dysautonomia,anti-diarrhea med,-0.10595648099514676
+Dysautonomia,stool softener,0.22447168411590984
+Fatigue,Alcohol,0.07688515950297253
+Fatigue,Fish oil,0.11505340925924529
+Fatigue,Migraine Diet,-0.07279733512443498
+Fatigue,Pristiq,-0.3677603437054154
+Fatigue,Ubiquinol,-0.053935596195980914
+Fatigue,Vitamin C,-0.11680876401383589
+Fatigue,anti-diarrhea med,-0.17108825109559359
+Fatigue,stool softener,-0.12649023783269642
+Irritable bowel syndrome,Alcohol,-0.23603566994879505
+Irritable bowel syndrome,Fish oil,-0.05138730795622644
+Irritable bowel syndrome,Migraine Diet,-0.4103983421375672
+Irritable bowel syndrome,Pristiq,-0.30753859399166067
+Irritable bowel syndrome,Ubiquinol,-0.06251065373685522
+Irritable bowel syndrome,Vitamin C,-0.11585552651542122
+Irritable bowel syndrome,anti-diarrhea med,-0.4328078162654521
+Irritable bowel syndrome,stool softener,-0.17035143920359763
+Joint pain,Alcohol,-0.11101830014716743
+Joint pain,Fish oil,0.10996663340338637
+Joint pain,Migraine Diet,-0.3891210913499823
+Joint pain,Pristiq,-0.3026838798841398
+Joint pain,Ubiquinol,-0.04577043708463168
+Joint pain,Vitamin C,-0.07993486564453986
+Joint pain,anti-diarrhea med,-0.40953880688091826
+Joint pain,stool softener,-0.32761281583559054
+Muscle pain,Alcohol,-0.19846714540968477
+Muscle pain,Fish oil,0.06310995437723485
+Muscle pain,Migraine Diet,-0.28509363083731376
+Muscle pain,Pristiq,-0.13502849136172107
+Muscle pain,Ubiquinol,0.006706318432847511
+Muscle pain,Vitamin C,-0.05488656774943432
+Muscle pain,anti-diarrhea med,-0.4023177173348711
+Muscle pain,stool softener,-0.4496612916138204
+Reflux,Alcohol,-0.1710550619149433
+Reflux,Fish oil,0.06984524626724899
+Reflux,Migraine Diet,-0.1465089487384994
+Reflux,Pristiq,-0.15171035642863748
+Reflux,Ubiquinol,-0.054185120617694274
+Reflux,Vitamin C,-0.09012050246254177
+Reflux,anti-diarrhea med,-0.37516700694318333
+Reflux,stool softener,-0.2644106138117592
+joint pain,Alcohol,-0.06025514606216589
+joint pain,Fish oil,0.00449072041236568
+joint pain,Migraine Diet,-0.09995209609361022
+joint pain,Pristiq,-0.07036813647025274
+joint pain,Ubiquinol,-0.0023471174359708455
+joint pain,Vitamin C,-0.13668625826344266
+joint pain,anti-diarrhea med,-0.20760481259859637
+joint pain,stool softener,-0.08677696734060326
+Depression,Skullcap,-0.017073624199113846
+Headache,Skullcap,-0.11372002214689389
+Joint ache,Skullcap,-0.007874941983450262
+Knee pain,Skullcap,-0.3701882398942139
+Muscle ache,Skullcap,-0.18368767118739418
+Uterine fibroids,Skullcap,-0.1692598939326252
+exhaustion,Skullcap,0.10537229078053587
+nerve pain,Skullcap,-0.2010874359234784
+pelvic cramps,Skullcap,-0.10863771130747385
+Breast tenderness,Fluoxetine,0.17570941011896682
+Temperature Disregulation,Fluoxetine,0.1339302176305057
+Brain fog,Cane to get down stairs,-0.382578042576304
+Brain fog,Ibuprofen,0.05312467653759187
+Brain fog,Maxalt,-0.16219123815221695
+Brain fog,Prednisone,-0.043315800205895226
+Brain fog,Seasonique,0.21511068076792583
+Brain fog,Vicodin,-0.02355875033094612
+Brain fog,Yoga,-0.14666637040928834
+Brain fog,hot water bottle,-0.12350511800715928
+Brain fog,massage,-0.18473654462830255
+Fatigue,Cane to get down stairs,-0.22265452471328104
+Fatigue,Ibuprofen,-0.04529362040823863
+Fatigue,Maxalt,-0.04368873908395432
+Fatigue,Prednisone,-0.13898277678452695
+Fatigue,Seasonique,0.17152335867984522
+Fatigue,Vicodin,0.1875111289668417
+Fatigue,Yoga,0.09138035396827283
+Fatigue,hot water bottle,-0.10188346362131445
+Fatigue,massage,0.07238861095167741
+Hypermobility,Cane to get down stairs,-0.1757483896204327
+Hypermobility,Ibuprofen,-0.3366853428252218
+Hypermobility,Maxalt,0.16010918723944811
+Hypermobility,Prednisone,-0.04118118253445478
+Hypermobility,Seasonique,0.19925314851754844
+Hypermobility,Vicodin,0.10393338120645049
+Hypermobility,Yoga,0.09264828387652788
+Hypermobility,hot water bottle,-0.04914342015627397
+Hypermobility,massage,-0.1772562389962789
+Pain,Cane to get down stairs,-0.3178953369075147
+Pain,Ibuprofen,-0.05370982541241699
+Pain,Maxalt,-0.1511475121989057
+Pain,Prednisone,-0.012552005933185461
+Pain,Seasonique,0.15685797842744742
+Pain,Vicodin,0.030514762086171585
+Pain,Yoga,-0.18046409908905564
+Pain,hot water bottle,-0.1646179933209161
+Pain,massage,0.004649856701741367
+Rheumatoid arthritis,Cane to get down stairs,-0.02205758957672521
+Rheumatoid arthritis,Ibuprofen,-0.16524066634277712
+Rheumatoid arthritis,Maxalt,0.018921354064184104
+Rheumatoid arthritis,Prednisone,0.33428507955043557
+Rheumatoid arthritis,Seasonique,0.3036320570363829
+Rheumatoid arthritis,Vicodin,0.14553445084435587
+Rheumatoid arthritis,Yoga,-0.055158891074989044
+Rheumatoid arthritis,hot water bottle,-0.023456611747351516
+Rheumatoid arthritis,massage,-0.0460143454623399
+aches,Cane to get down stairs,0.65584736080966
+aches,Ibuprofen,0.6343343159887761
+aches,Maxalt,0.7820797532261096
+aches,Prednisone,0.8763962140184212
+aches,Seasonique,1.1334268319261913
+aches,Vicodin,0.9271864259515568
+aches,Yoga,0.5760151735134708
+aches,hot water bottle,0.7460375130816086
+aches,massage,0.7068836274907176
+Depression,Cefaly Unit,0.3195407844720329
+Depression,Fentanyl,-0.22887877742025475
+Depression,Oxycodone,0.009874959075907103
+Fatigue,Cefaly Unit,0.25137753761852294
+Fatigue,Fentanyl,-0.33118386921989873
+Fatigue,Oxycodone,0.1748914324186649
+Gas,Cefaly Unit,0.2823014219208879
+Gas,Fentanyl,-0.17303507657036354
+Gas,Oxycodone,-0.003807363199380802
+Hypermobility,Cefaly Unit,0.2836261986795503
+Hypermobility,Fentanyl,-0.34475955082457066
+Hypermobility,Oxycodone,0.093002901463279
+Irritable bowel syndrome,Cefaly Unit,0.06921734080811934
+Irritable bowel syndrome,Fentanyl,-0.3238756552304825
+Irritable bowel syndrome,Oxycodone,-0.1076122893103019
+Pain,Cefaly Unit,0.1617243836193973
+Pain,Fentanyl,-0.2916763942881213
+Pain,Oxycodone,-0.14301810761461656
+Sjogren's syndrome,Cefaly Unit,0.293350706856102
+Sjogren's syndrome,Fentanyl,-0.12541897211671107
+Sjogren's syndrome,Oxycodone,0.07220709630632537
+Stomach cramps,Cefaly Unit,0.21807861521134986
+Stomach cramps,Fentanyl,-0.1191874547104107
+Stomach cramps,Oxycodone,0.17155103838730315
+Shortness of breath,Nuvigil,0.10881269001905088
+Stress,Glutathione,0.15342218856538287
+Stress,Repairvite,-0.019106089507533227
+Stress,Turmero Active,-0.1122482172745986
+Upset stomach,Glutathione,0.16155567791296455
+Upset stomach,Repairvite,0.08974413674426562
+Upset stomach,Turmero Active,-0.02988928627482862
+irritated skin,ABX + Catnip,-0.14877768960282334
+irritated skin,NAC,-0.1064581233973283
+irritated skin,SAM-E,-0.36345030030597636
+irritated skin,Vitamin a,-0.12315914447524803
+Adult ADHD,Achy breaky rub,-0.177472731213415
+Adult ADHD,Medication,0.2643292136529471
+Adult ADHD,Metformin,0.09233931207574415
+Adult ADHD,Pantoprazole,0.20790551251403389
+Adult ADHD,Phyical Therapy - stretches,0.09474488683837923
+Adult ADHD,Progesterone,0.21124619825167726
+Adult ADHD,Relaxing,-0.17669081198347844
+Adult ADHD,Tranexamic acid,0.052803870452824815
+Adult ADHD,Valerian,-0.07814527836771099
+Adult ADHD,Vitamin B,-0.11975942585481623
+Adult ADHD,Zomig,0.006329269186907738
+Adult ADHD,excedrin migraine,0.019722728062015353
+Asthma,Achy breaky rub,-0.26796197748914935
+Asthma,Medication,0.20446183543782914
+Asthma,Metformin,-0.3253742728671688
+Asthma,Pantoprazole,0.1476093189087495
+Asthma,Phyical Therapy - stretches,-0.0473663951417664
+Asthma,Progesterone,0.18877958556529484
+Asthma,Relaxing,-0.12445397541841643
+Asthma,Tranexamic acid,-0.20881105798227823
+Asthma,Valerian,-0.2363828506353299
+Asthma,Vitamin B,-0.17269815749217854
+Asthma,Zomig,-0.1554635497026343
+Asthma,excedrin migraine,0.04791790286823473
+Atypical depression,Achy breaky rub,-0.3230898277391958
+Atypical depression,Medication,-0.02059771991266367
+Atypical depression,Metformin,-0.419507230172229
+Atypical depression,Pantoprazole,0.0414936953687658
+Atypical depression,Phyical Therapy - stretches,-0.1882932363530242
+Atypical depression,Progesterone,-0.10147029002896818
+Atypical depression,Relaxing,-0.4839203370143904
+Atypical depression,Tranexamic acid,-0.2940146248594742
+Atypical depression,Valerian,-0.2660555869358273
+Atypical depression,Vitamin B,-0.3065862668304854
+Atypical depression,Zomig,-0.22909972433857112
+Atypical depression,excedrin migraine,-0.33637459546998283
+Borderline personality disorder,Achy breaky rub,-0.049472097699363796
+Borderline personality disorder,Medication,0.28788610488010347
+Borderline personality disorder,Metformin,0.13613911656523348
+Borderline personality disorder,Pantoprazole,0.30087858523503397
+Borderline personality disorder,Phyical Therapy - stretches,0.14833184082870945
+Borderline personality disorder,Progesterone,0.39798220495729525
+Borderline personality disorder,Relaxing,-0.0983934150749573
+Borderline personality disorder,Tranexamic acid,0.016315347994448535
+Borderline personality disorder,Valerian,-0.2124650234344878
+Borderline personality disorder,Vitamin B,0.029515987152447774
+Borderline personality disorder,Zomig,0.10072614795442045
+Borderline personality disorder,excedrin migraine,0.18763274949294367
+Depression,Achy breaky rub,-0.35570224737245193
+Depression,Medication,-0.010908557623433825
+Depression,Metformin,0.11609814355103587
+Depression,Pantoprazole,0.15351360396592023
+Depression,Phyical Therapy - stretches,-0.029571749720253254
+Depression,Progesterone,-0.03781552802571014
+Depression,Relaxing,-0.410490863275878
+Depression,Tranexamic acid,-0.14506839376667094
+Depression,Valerian,-0.5006787194447635
+Depression,Vitamin B,-0.3960429271045796
+Depression,Zomig,-0.11002162339969931
+Depression,excedrin migraine,-0.21994298411295662
+Dry skin,Achy breaky rub,0.00548050213856939
+Dry skin,Medication,0.2920885104073396
+Dry skin,Metformin,0.1260979680964508
+Dry skin,Pantoprazole,0.39560903212184545
+Dry skin,Phyical Therapy - stretches,-0.015873448731825918
+Dry skin,Progesterone,0.5707108352240227
+Dry skin,Relaxing,-0.06730017332330991
+Dry skin,Tranexamic acid,-0.07875538550223632
+Dry skin,Valerian,-0.1511313161947267
+Dry skin,Vitamin B,0.0750812175143163
+Dry skin,Zomig,0.12226515000708692
+Dry skin,excedrin migraine,0.22977899343505787
+Fatigue,Achy breaky rub,-0.296098943065405
+Fatigue,Medication,0.14529677530374935
+Fatigue,Metformin,0.22903058461265796
+Fatigue,Pantoprazole,0.17590838361865066
+Fatigue,Phyical Therapy - stretches,-0.05618245796785366
+Fatigue,Progesterone,0.2321749698113449
+Fatigue,Relaxing,-0.33496822541370747
+Fatigue,Tranexamic acid,0.04741059391277655
+Fatigue,Valerian,-0.5210201473663342
+Fatigue,Vitamin B,-0.14543268620172028
+Fatigue,Zomig,-0.08211043380309484
+Fatigue,excedrin migraine,-0.2928020412018756
+Guilt,Achy breaky rub,-1.068568859283386
+Guilt,Medication,-0.6661545342854954
+Guilt,Metformin,-0.8904847039539884
+Guilt,Pantoprazole,-0.6321534745362147
+Guilt,Phyical Therapy - stretches,-0.8167015708463766
+Guilt,Progesterone,-0.7385809080819556
+Guilt,Relaxing,-1.1744400652795068
+Guilt,Tranexamic acid,-0.9769093349751894
+Guilt,Valerian,-1.022943758078938
+Guilt,Vitamin B,-0.9882072593719065
+Guilt,Zomig,-0.8591086361696508
+Guilt,excedrin migraine,-0.8831799722701642
+Irritability,Achy breaky rub,-0.188348476618175
+Irritability,Medication,0.2562667973437484
+Irritability,Metformin,0.05543342077712963
+Irritability,Pantoprazole,0.3021528191812898
+Irritability,Phyical Therapy - stretches,0.13879343468251668
+Irritability,Progesterone,0.06834602815438329
+Irritability,Relaxing,-0.2312694424502406
+Irritability,Tranexamic acid,-0.030064610711361052
+Irritability,Valerian,-0.21530621376911455
+Irritability,Vitamin B,-0.10443501669838412
+Irritability,Zomig,-0.014219453006974761
+Irritability,excedrin migraine,-0.06499315146298641
+Leaden Paralysis,Achy breaky rub,-0.7224655878759866
+Leaden Paralysis,Medication,-0.36655057990355244
+Leaden Paralysis,Metformin,-0.32062156487054705
+Leaden Paralysis,Pantoprazole,-0.17897115474042524
+Leaden Paralysis,Phyical Therapy - stretches,-0.3749336260847923
+Leaden Paralysis,Progesterone,-0.30479035415608713
+Leaden Paralysis,Relaxing,-0.8193028546922536
+Leaden Paralysis,Tranexamic acid,-0.47728504907080843
+Leaden Paralysis,Valerian,-0.7038929889013044
+Leaden Paralysis,Vitamin B,-0.5347172106719332
+Leaden Paralysis,Zomig,-0.5373575461464417
+Leaden Paralysis,excedrin migraine,-0.4834393184458131
+Lupus,Achy breaky rub,0.08131459239726166
+Lupus,Medication,0.4042592627031397
+Lupus,Metformin,0.25576013940008113
+Lupus,Pantoprazole,0.4924860088996674
+Lupus,Phyical Therapy - stretches,0.2691481949873427
+Lupus,Progesterone,0.4535173181111819
+Lupus,Relaxing,-0.04352411785743057
+Lupus,Tranexamic acid,0.21118827674182528
+Lupus,Valerian,0.16938485988011648
+Lupus,Vitamin B,0.12032439194057089
+Lupus,Zomig,0.1410583933705131
+Lupus,excedrin migraine,0.2645902188274027
+Migraine,Valerian,-0.3769913035033985
+Mood swings,Achy breaky rub,-0.12828201887256424
+Mood swings,Medication,0.4152980157931683
+Mood swings,Metformin,0.44364927607159144
+Mood swings,Pantoprazole,0.6655668153375984
+Mood swings,Phyical Therapy - stretches,0.382297450555599
+Mood swings,Progesterone,0.46975947673178775
+Mood swings,Relaxing,-0.1552030358550146
+Mood swings,Tranexamic acid,0.11299716089275272
+Mood swings,Valerian,0.029653561761485876
+Mood swings,Vitamin B,0.19135191594831102
+Mood swings,excedrin migraine,0.4249089229738327
+PTSD,Achy breaky rub,-0.18453338223077753
+PTSD,Medication,0.1698103731329239
+PTSD,Metformin,-0.0187721148278031
+PTSD,Pantoprazole,0.2759529748224774
+PTSD,Phyical Therapy - stretches,0.13623914370387158
+PTSD,Progesterone,0.3098043012479795
+PTSD,Relaxing,-0.3377184545267627
+PTSD,Tranexamic acid,-0.0826399461020485
+PTSD,Valerian,-0.2954047759488509
+PTSD,Vitamin B,0.021278989955827443
+PTSD,Zomig,0.04724102881564855
+PTSD,excedrin migraine,-0.13539504272458938
+Pain,Achy breaky rub,-0.373077620227706
+Pain,Medication,0.002299210119877732
+Pain,Metformin,-0.13007392932046108
+Pain,Pantoprazole,0.004051916079673298
+Pain,Phyical Therapy - stretches,-0.07223646844248977
+Pain,Progesterone,0.008296695754198197
+Pain,Relaxing,-0.4455992619838101
+Pain,Tranexamic acid,-0.18994636641721996
+Pain,Valerian,-0.31921413207889004
+Pain,Vitamin B,-0.35123535435840403
+Pain,Zomig,-0.1858642378100038
+Pain,excedrin migraine,-0.21320503922043366
+Pelvic pain,Valerian,-0.05731496831346457
+Plantar fasciitis,Valerian,-0.2250766532257315
+Poor mobility,Achy breaky rub,0.6913641826587809
+Poor mobility,Medication,1.011914944387985
+Poor mobility,Metformin,0.8475996911531665
+Poor mobility,Pantoprazole,0.9387084582911478
+Poor mobility,Phyical Therapy - stretches,0.8038380577709118
+Poor mobility,Progesterone,1.0742961095128072
+Poor mobility,Relaxing,0.6523899302381158
+Poor mobility,Tranexamic acid,0.7295861936080279
+Poor mobility,Valerian,0.6978304450961297
+Poor mobility,Vitamin B,0.5882686658740491
+Poor mobility,Zomig,0.8010220436282202
+Poor mobility,excedrin migraine,0.8972459775104896
+Self Harm,Valerian,-0.13339070250533458
+Self-Loathing,Achy breaky rub,-0.1275945026686373
+Self-Loathing,Medication,0.386603083878572
+Self-Loathing,Metformin,0.2787515776790549
+Self-Loathing,Pantoprazole,0.4091512057296588
+Self-Loathing,Phyical Therapy - stretches,0.13299068728590818
+Self-Loathing,Progesterone,0.38614090979296156
+Self-Loathing,Relaxing,-0.13149810927591038
+Self-Loathing,Tranexamic acid,-0.019205358904624034
+Self-Loathing,Valerian,-0.37874015396349675
+Self-Loathing,Vitamin B,0.10081346246801576
+Self-Loathing,Zomig,0.014634519125108408
+Self-Loathing,excedrin migraine,0.03420675227564929
+Self-neglect,Achy breaky rub,0.07426522662618973
+Self-neglect,Medication,0.43912586210965654
+Self-neglect,Metformin,0.28791734231458993
+Self-neglect,Pantoprazole,0.46884558042852365
+Self-neglect,Phyical Therapy - stretches,0.36361061127052297
+Self-neglect,Progesterone,0.5160091933903546
+Self-neglect,Relaxing,-0.056819338993388355
+Self-neglect,Tranexamic acid,0.12656403181092624
+Self-neglect,Valerian,-0.1914325180837435
+Self-neglect,Vitamin B,0.07377196521263091
+Self-neglect,Zomig,0.27311416077893547
+Self-neglect,excedrin migraine,0.12080195889123158
+Stiff neck,Achy breaky rub,-0.32132043058339443
+Stiff neck,Medication,0.18173487644964953
+Stiff neck,Metformin,0.1151864051752673
+Stiff neck,Pantoprazole,0.19505741155059117
+Stiff neck,Phyical Therapy - stretches,0.024983988267323853
+Stiff neck,Progesterone,0.27844223959776204
+Stiff neck,Relaxing,-0.3352443375024956
+Stiff neck,Tranexamic acid,-0.007926601350643062
+Stiff neck,Valerian,-0.234526824280925
+Stiff neck,Vitamin B,-0.025291126310998946
+Stiff neck,Zomig,-0.270435785371318
+Stiff neck,excedrin migraine,-0.009465614979943124
+Unwanted Thoughts,Achy breaky rub,-0.8691219561064331
+Unwanted Thoughts,Medication,-0.393686270406107
+Unwanted Thoughts,Metformin,-0.6876269278373108
+Unwanted Thoughts,Pantoprazole,-0.4462868955804583
+Unwanted Thoughts,Phyical Therapy - stretches,-0.6635646688261405
+Unwanted Thoughts,Progesterone,-0.5062164594436701
+Unwanted Thoughts,Relaxing,-0.9314293868378724
+Unwanted Thoughts,Tranexamic acid,-0.7324314805893083
+Unwanted Thoughts,Valerian,-0.8484656139934134
+Unwanted Thoughts,Vitamin B,-0.7710502987283337
+Unwanted Thoughts,Zomig,-0.6160487003554945
+Unwanted Thoughts,excedrin migraine,-0.8018756136385254
+Vocal outbursts,Achy breaky rub,-0.06993620492062334
+Vocal outbursts,Medication,0.36769279417228656
+Vocal outbursts,Metformin,0.07295176594768857
+Vocal outbursts,Pantoprazole,0.5379944160275631
+Vocal outbursts,Phyical Therapy - stretches,0.25096505212597026
+Vocal outbursts,Progesterone,0.36696437528959236
+Vocal outbursts,Relaxing,-0.1856044150697917
+Vocal outbursts,Tranexamic acid,-0.009538011853489181
+Vocal outbursts,Valerian,-0.1745448243360192
+Vocal outbursts,Vitamin B,0.07612620348862592
+Vocal outbursts,Zomig,0.10935882743992188
+Vocal outbursts,excedrin migraine,0.05166793263301114
+acne,Achy breaky rub,-0.4128295739331351
+acne,Medication,0.12689833194707767
+acne,Metformin,-0.31033222137633604
+acne,Pantoprazole,0.04609973929829323
+acne,Phyical Therapy - stretches,-0.1591288550948043
+acne,Progesterone,0.061886979080488354
+acne,Relaxing,-0.3216113834282285
+acne,Tranexamic acid,-0.18026024477917063
+acne,Vitamin B,-0.4704744447341377
+acne,Zomig,-0.24131535495490403
+acne,excedrin migraine,-0.25398715323742216
+excess daytime sleepiness,Achy breaky rub,-0.10406900693268306
+excess daytime sleepiness,Medication,0.30190779647353794
+excess daytime sleepiness,Metformin,0.0689449451472142
+excess daytime sleepiness,Pantoprazole,0.33311540409244533
+excess daytime sleepiness,Phyical Therapy - stretches,0.1273317316636649
+excess daytime sleepiness,Progesterone,0.3717142234462141
+excess daytime sleepiness,Relaxing,-0.18488320501563738
+excess daytime sleepiness,Tranexamic acid,0.06665814661612016
+excess daytime sleepiness,Valerian,-0.20430067743009872
+excess daytime sleepiness,Vitamin B,-0.02092212617960479
+excess daytime sleepiness,Zomig,0.12773910521008014
+excess daytime sleepiness,excedrin migraine,-0.04516414158753709
+Altered mental status,Anti Lyme,-0.31450070150266196
+Confusion,Physical therapy exercises,0.13717030455441084
+Confusion,elliptigo,0.40477616058889215
+Earache,breath work ,0.5963132853016528
+Hand pain,Anti Lyme,-0.3201821400446715
+Joint cracking,Anti Lyme,-0.2515449431937862
+Unrefreshing Sleep,Physical therapy exercises,0.2469359883025935
+Unrefreshing Sleep,elliptigo,0.5441798646992888
+dissociation,Anti Lyme,-0.3388798088961529
+Bleed,Allopurinol,0.43581275647855744
+Bleed,Vicodin,0.25532119890531313
+Fatigue,Allopurinol,0.2578646300014351
+Fatigue,Vicodin,0.1875111289668417
+Hemophilia,Allopurinol,0.3020493892373932
+Hemophilia,Vicodin,-0.007981559889213174
+Hepatitis C,Allopurinol,0.3938836885866466
+Hepatitis C,Vicodin,0.0299183483664303
+IBS,Allopurinol,0.38557814379356015
+IBS,Vicodin,0.14263277571827493
+Pain,Allopurinol,0.21769655908471036
+Pain,Vicodin,0.030514762086171585
+Rectal bleeding,Allopurinol,0.26165188516059046
+Rectal bleeding,Vicodin,-0.12650508688491247
+Acid Reflux,Imodium,0.17926330704264878
+Acid Reflux,Methotrexate,0.15885258369546212
+Acid Reflux,Prednisone,0.05607531598813645
+Anxiety,Imodium,0.26142611893901013
+Anxiety,Methotrexate,0.20025562673176997
+Anxiety,Prednisone,0.35496019957452973
+Brain fog,Imodium,0.015566751014963725
+Brain fog,Methotrexate,0.00030051259605374386
+Brain fog,Prednisone,-0.043315800205895226
+Degenerative Disc Disease,Imodium,-0.1606450193749977
+Degenerative Disc Disease,Methotrexate,0.17304910792045416
+Degenerative Disc Disease,Prednisone,-0.1530887718907675
+Derealization,Citalopram,0.8623069297107897
+Derealization,Imodium,1.0676986232945986
+Derealization,Methotrexate,1.0506189179644347
+Derealization,Prednisone,1.1349301085335084
+Derealization,Prilosec,0.887767476788328
+Derealization,Ranitidine,1.0149100678075946
+Dizziness,Imodium,-0.30149177197493165
+Dizziness,Methotrexate,0.13809470142784747
+Dizziness,Prednisone,-0.08940855604791707
+Fatigue,Imodium,0.0558674761601919
+Fatigue,Methotrexate,0.03246209936679249
+Fatigue,Prednisone,-0.13898277678452695
+Feeling overly excited & stimulated ,Citalopram,1.6386047305201292
+Feeling overly excited & stimulated ,Imodium,1.8377066133490918
+Feeling overly excited & stimulated ,Methotrexate,1.7987876358590085
+Feeling overly excited & stimulated ,Prednisone,1.689911613421238
+Feeling overly excited & stimulated ,Prilosec,1.671291188202686
+Feeling overly excited & stimulated ,Ranitidine,1.7380241388473978
+Fibromyalgia,Imodium,0.01353137896545585
+Fibromyalgia,Methotrexate,-0.14649082433930094
+Fibromyalgia,Prednisone,-0.07146625945023773
+Gas,Imodium,0.05017348120761937
+Gas,Methotrexate,-0.036457727519849964
+Gas,Prednisone,0.26404118733064724
+General Pain,Imodium,-0.05312844426552875
+General Pain,Methotrexate,-0.019496557939500454
+General Pain,Prednisone,-0.14033701491125938
+Headaches,Imodium,-0.038005906540613046
+Headaches,Methotrexate,0.011525205322629573
+Headaches,Prednisone,0.12364214735070352
+Herniated disk,Imodium,-0.011707404515178668
+Herniated disk,Methotrexate,0.05493303471636292
+Herniated disk,Prednisone,0.052223068578789285
+Hip pain,Citalopram,0.01755485351939396
+Hip pain,Imodium,0.24236018548650434
+Hip pain,Methotrexate,0.31584851369452427
+Hip pain,Prednisone,-0.007824832098800472
+Hip pain,Prilosec,0.10559032635082775
+Hip pain,Ranitidine,0.021565131906679608
+Joint pain,Imodium,0.08722247071999022
+Joint pain,Methotrexate,-0.15997183237795182
+Joint pain,Prednisone,0.08623522057860573
+Low mood,Imodium,0.44481778246727377
+Low mood,Methotrexate,0.32993885717658444
+Low mood,Prednisone,0.4285365640553692
+Lower Back Pain,Imodium,0.027201885828920976
+Lower Back Pain,Methotrexate,0.19133204299925088
+Lower Back Pain,Prednisone,0.12348767774893159
+Lower abdomen pain,Citalopram,-0.22244283935978887
+Lower abdomen pain,Imodium,0.00042326946318736736
+Lower abdomen pain,Methotrexate,-0.011930000455575088
+Lower abdomen pain,Prednisone,-0.005170891216718945
+Lower abdomen pain,Prilosec,0.001938936300823691
+Lower abdomen pain,Ranitidine,0.030832146781455804
+Menstrual cramps,Citalopram,-0.009713194170698256
+Menstrual cramps,Imodium,0.3685180002967377
+Menstrual cramps,Methotrexate,0.34169711686599935
+Menstrual cramps,Prednisone,0.579580290714993
+Menstrual cramps,Prilosec,0.12369452496517654
+Menstrual cramps,Ranitidine,0.2526344268913509
+Mood swings,Citalopram,0.2026792655314742
+Mood swings,Imodium,0.48401118878357785
+Mood swings,Methotrexate,0.25816174563861716
+Mood swings,Prednisone,0.3206892975655671
+Mood swings,Prilosec,0.2662315653476452
+Mood swings,Ranitidine,0.4711070006699215
+Muscle cramps,Imodium,0.09047840428802713
+Muscle cramps,Methotrexate,-0.10847788121105838
+Muscle cramps,Prednisone,-0.0020167742986144793
+Nausea,Imodium,-0.000993528546377631
+Nausea,Methotrexate,-0.04008144589791729
+Nausea,Prednisone,0.2471371775000149
+Neck pain,Imodium,0.07933314376223757
+Neck pain,Methotrexate,0.16610085007322006
+Neck pain,Prednisone,0.1854425659369211
+Pelvic pain,Imodium,0.2961140195473176
+Pelvic pain,Methotrexate,0.20585003393737966
+Pelvic pain,Prednisone,0.47146900439245354
+Periods,Imodium,0.4087525180448831
+Periods,Methotrexate,0.37422488045549174
+Periods,Prednisone,0.6457730398706454
+Polycystic ovary syndrome,Imodium,0.0027444320563393583
+Polycystic ovary syndrome,Methotrexate,0.0502947998757002
+Polycystic ovary syndrome,Prednisone,-0.04998919015491164
+Rectal bleeding,Methotrexate,0.046094134367199814
+Rectal bleeding,Prednisone,0.15161307052840406
+Rib pain,Imodium,0.21326329121154036
+Rib pain,Methotrexate,0.1971198465217926
+Rib pain,Prednisone,0.1695187718347565
+Sensory overload,Citalopram,0.021895722787665606
+Sensory overload,Imodium,0.26528818942769905
+Sensory overload,Methotrexate,0.4456421945907253
+Sensory overload,Prednisone,0.4054788106285111
+Sensory overload,Prilosec,0.15996821243267811
+Sensory overload,Ranitidine,0.2968511804978859
+Shortness of breath,Citalopram,-0.01388277138816521
+Shortness of breath,Imodium,0.24660811318954098
+Shortness of breath,Methotrexate,0.15839612387131424
+Shortness of breath,Prednisone,0.06322938913960063
+Shortness of breath,Prilosec,0.06192740382458879
+Shortness of breath,Ranitidine,0.182488166678166
+Shoulder pain,Citalopram,-0.3538468372677974
+Shoulder pain,Imodium,0.0967079761238248
+Shoulder pain,Methotrexate,0.03343869088973793
+Shoulder pain,Prednisone,0.48683184572484933
+Shoulder pain,Prilosec,-0.05468918785527406
+Shoulder pain,Ranitidine,-0.01667715269541091
+Stomach Pain,Imodium,0.031615599193934966
+Stomach Pain,Methotrexate,-0.1204518157057283
+Stomach Pain,Prednisone,0.31594648056839875
+Tingling in hands and feet,Imodium,0.07236142032155274
+Tingling in hands and feet,Methotrexate,-0.04478719647471776
+Tingling in hands and feet,Prednisone,-0.0027745416942335007
+dissociation,Imodium,0.16058383791725106
+dissociation,Methotrexate,-0.010817724959002448
+dissociation,Prednisone,0.016238237961292923
+Anxiety,Trazodone,-0.18994409099991033
+Back pain,Trazodone,-0.30732779989266873
+Brain fog,Trazodone,-0.21747326581204363
+Difficulty concentrating,Trazodone,-0.48994754187460543
+Dizziness,Trazodone,-0.11465971108792636
+Neck pain,Trazodone,-0.01720848701426614
+Vasovagal syncope,Trazodone,-0.17217174192811047
+hand pain,Trazodone,-0.11384198977274206
+Back pain,Tolterodine,-0.5445482002750464
+Bloating,Tolterodine,-0.561359372798652
+Brain fog,Tolterodine,-0.6708856654837824
+Chest pain,Tolterodine,-0.4767899924269743
+Diarrhea,Tolterodine,-0.506955903677442
+Ehlers-Danlos syndrome,Tolterodine,-0.6846691610182314
+Fatigue,Tolterodine,-0.5362792261348664
+IBS,Tolterodine,-0.635287556433737
+Joint pain,Tolterodine,-0.7494436285376918
+Muscle pain,Tolterodine,-0.737792977845292
+Subluxation,Tolterodine,-0.5430434275260146
+Sleeplessness,lil critters gummy vites,-0.00642539831596645
+joint pain,lil critters gummy vites,-0.054735194906224895
+Night sweats,Acupuncture,-0.4151909732147476
+Night sweats,Sudafed,-0.2222198266635854
+Night sweats,Vitamin d,0.17970571005757818
+Night sweats,diluted bleach bath,0.08153503710965705
+Headache,Amitriptyline,0.1580861380948217
+Abdominal pain,Quell Unit,-0.07670879783187155
+Abdominal pain,Thyroid-Pro,-0.0055760946694289465
+Adult ADD,Quell Unit,-0.1695785149139742
+Adult ADD,Thyroid-Pro,-0.2035472260734233
+Back pain,Quell Unit,-0.10641673632173967
+Back pain,Thyroid-Pro,0.04937892020379141
+Celiac disease,Quell Unit,-0.09986276420675433
+Celiac disease,Thyroid-Pro,-0.09955656493105165
+Chronic kidney disease,Quell Unit,0.09332269631060618
+Chronic kidney disease,Thyroid-Pro,0.2177724949321932
+Eczema,Quell Unit,0.2704056080954372
+Eczema,Thyroid-Pro,0.2596322787804322
+Fatigue,Quell Unit,0.11617040779608036
+Fatigue,Thyroid-Pro,-0.042058020286480466
+Fibromyalgia,Quell Unit,-0.1325617604439317
+Fibromyalgia,Thyroid-Pro,-0.0540500351656969
+Generalized anxiety disorder,Quell Unit,0.026515266786842392
+Generalized anxiety disorder,Thyroid-Pro,0.009445650613072502
+Hip pain,Quell Unit,-0.020404709384362785
+Hip pain,Thyroid-Pro,0.13929442002294654
+Jaw pain,Quell Unit,0.18631200544076157
+Jaw pain,Thyroid-Pro,0.2978619099991654
+Migraine,Quell Unit,-0.015581588024291326
+Migraine,Thyroid-Pro,-0.11498870338811537
+Morning Stiffness,Quell Unit,-0.030399453744045457
+Morning Stiffness,Thyroid-Pro,-0.008499175078001799
+Muscle spasms,Quell Unit,-0.18806594012714167
+Muscle spasms,Thyroid-Pro,-0.10726936527690786
+Neuropathy ,Quell Unit,0.07025435432889204
+Neuropathy ,Thyroid-Pro,0.21984872899924246
+Orthostatic hypotension,Quell Unit,0.12356238416841844
+Orthostatic hypotension,Thyroid-Pro,-0.002506164948281389
+PTSD,Quell Unit,0.012001111733432504
+PTSD,Thyroid-Pro,0.15424145871765468
+Pernicious Anemia,Quell Unit,-7.683168714339543e-05
+Pernicious Anemia,Thyroid-Pro,-0.0039006299781853618
+Restless legs,Quell Unit,0.30404849669801515
+Restless legs,Thyroid-Pro,0.23399723084660862
+Rheumatoid arthritis,Quell Unit,0.045984340832571094
+Rheumatoid arthritis,Thyroid-Pro,0.023876255468782713
+Shoulder pain,Quell Unit,-0.2994482025888576
+Shoulder pain,Thyroid-Pro,-0.07090836898298597
+Sjogren's syndrome,Quell Unit,0.0908332999596623
+Sjogren's syndrome,Thyroid-Pro,0.023892364101082933
+Swollen glands,Quell Unit,0.3724902351726982
+Swollen glands,Thyroid-Pro,0.523617925661954
+Vomiting,Quell Unit,0.3069712849491016
+Vomiting,Thyroid-Pro,0.3279320989914957
+fatique,Dolphin neurostim,0.14115130544058785
+major depressive disorder,Quell Unit,-0.050999214509238514
+major depressive disorder,Thyroid-Pro,-0.015256321004792864
+muscle weakness,Quell Unit,-0.17234469190905727
+muscle weakness,Thyroid-Pro,-0.09806945579277443
+sleep disturbance,Quell Unit,0.5036000889522936
+sleep disturbance,Thyroid-Pro,0.6270405850335178
+Ankylosing spondylitis,Turmeric,-0.280093792552091
+Crohn's disease,Turmeric,-0.19364002855633333
+Postural Orthostatic Tachycardia Syndrome,Turmeric,-0.05314726065580341
+right shoulder pain,Dicyclomine,-0.021451333196284318
+right shoulder pain,Levothyroxine,-0.008426628745429411
+Itchy skin,Cyclobenzaprine,0.08817125792411645
+Sensivity-Skin,Cyclobenzaprine,-0.3321981928875852
+Multiple sclerosis,Hydroxyzine,-0.16507129169556528
+Multiple sclerosis,Ondansetron,-0.16377819442052144
+Lyme disease,Naratriptan,-0.5111551117655486
+Headache,Antihistamine,-0.10487047358603976
+Headache,Electrolytes,0.029262810666304262
+hand cramps,Antihistamine,-0.2615965707570513
+hand cramps,Electrolytes,-0.2094522440580859
+Bloating,Lactoferrin,0.6742977130796483
+Bloating,Lauricidin,0.2372941248455026
+Pressure in head,Lactoferrin,0.9370500585589288
+Pressure in head,Lauricidin,0.33105901945651484
+type one diabetes,Pantoprazole,0.17911920537440643
+type one diabetes,Vitamin D3,0.1110787103360962
+Arthritis,Coffee,-0.08519270900283449
+Costochondritis,Coffee,0.15740432494109907
+Knee pain,Coffee,0.30830058399294125
+Pain,Coffee,-0.059933490495929415
+Abdominal pain,THC,-0.15116539408106383
+Abdominal pain,nsaid,-0.35063431688092866
+Constipation,THC,-0.4104750270205557
+Constipation,nsaid,-0.30747773719916843
+Diarrhea,THC,0.13865415377640886
+Diarrhea,nsaid,-0.2827688295098961
+Fatigue,THC,0.160891236240444
+Fatigue,nsaid,-0.4982265340455922
+Ulcerative colitis,THC,0.21847234217799663
+Ulcerative colitis,nsaid,-0.12258760339817548
+Brain fog,Vitamin b12,0.13728916916378608
+Joint pain,Vitamin b12,0.09073635757959367
+Muscle pain,Vitamin b12,-0.07210068342069795
+lethargy,Vitamin b12,0.22732533983442257
+ outer right torso pain,Vimovo,0.020570886125670852
+Bowel Urgency,Vimovo,-0.25345395266434395
+Fatigue,Vimovo,0.00916704928843631
+"Incontinence,
+  urine",Vimovo,-0.0035276594110095734
+Insomnia,Vimovo,0.10747426935317043
+Neck pain,Vimovo,-0.050406008457462
+Right Lower Back Pain,Vimovo,0.020570886125670852
+Stiff neck,Vimovo,0.09888840592135842
+left arm pain,Vimovo,-0.48324309167119756
+left shoulder pain,Vimovo,0.11964906647187509
+left shoulder pain -night,Vimovo,0.020570886125670852
+right leg pain inner thight,Vimovo,0.020570886125670852
+right leg pain through foot,Vimovo,0.020570886125670852
+right shoulder pain - night,Vimovo,0.020570886125670852
+sciatica,Vimovo,0.18557020774321153
+stiffness neck and arm,Vimovo,0.020570886125670852
+Adult ADHD,Adderall,0.04179877364639059
+Adult ADHD,Codeine,-0.08916855894974278
+Adult ADHD,Dexedrine,-0.6122474602477925
+Allergies,Adderall,-0.23315382566669568
+Allergies,Codeine,-0.2949144779176699
+Allergies,Dexedrine,-0.7025983585515465
+Brain fog,Adderall,-0.24716336284794768
+Brain fog,Codeine,-0.300796744376467
+Brain fog,Dexedrine,-0.9260022315928406
+Catastrophizing,Adderall,-0.0726174456899791
+Catastrophizing,Codeine,-0.046192009254941435
+Catastrophizing,Dexedrine,-0.6949251735284967
+Crying,Adderall,-0.3365999860556549
+Crying,Codeine,-0.21609515239085636
+Crying,Dexedrine,-0.8346960553750116
+Depression,Adderall,-0.04276519956821659
+Depression,Codeine,-0.2394579102355588
+Depression,Dexedrine,-0.769878183007688
+Diarrhea,Adderall,0.11384405701410882
+Diarrhea,Codeine,-0.10183625413306858
+Diarrhea,Dexedrine,-0.7795392452989764
+Disorganized Speech,Adderall,-0.11758142731140989
+Disorganized Speech,Codeine,-0.149501220689875
+Disorganized Speech,Dexedrine,-0.757107874951191
+Dry skin,Adderall,0.017334334617351614
+Dry skin,Codeine,0.11700410272019436
+Dry skin,Dexedrine,-0.5641018391665169
+Excessive sweating,Adderall,-0.4857781494569622
+Excessive sweating,Codeine,-0.5023790453951961
+Excessive sweating,Dexedrine,-1.15798923247876
+Eye twitch,Adderall,-0.24234380251351773
+Eye twitch,Codeine,-0.23503896563734164
+Eye twitch,Dexedrine,-0.8556450762714966
+Fatigue,Adderall,-0.03776375387817331
+Fatigue,Codeine,-0.44302249939082583
+Fatigue,Dexedrine,-0.84426145925298
+Flushing,Adderall,-0.09001926820578673
+Flushing,Codeine,-0.21552187966370312
+Flushing,Dexedrine,-1.0063384422399577
+Focus,Adderall,-0.11758142731140989
+Focus,Codeine,-0.149501220689875
+Focus,Dexedrine,-0.757107874951191
+Headache,Adderall,0.11778161634000239
+Headache,Codeine,-0.2915284341002696
+Headache,Dexedrine,-1.287580868787137
+Hemorrhoid,Adderall,0.16845953996470073
+Hemorrhoid,Codeine,0.21053147539065958
+Hemorrhoid,Dexedrine,-0.3131411930204826
+Hyperactivity,Adderall,-0.03253800405671009
+Hyperactivity,Codeine,-0.0017226642384059743
+Hyperactivity,Dexedrine,-0.5790834161323736
+Hypothyroidism,Adderall,-0.18388561420691968
+Hypothyroidism,Codeine,-0.051225687946860055
+Hypothyroidism,Dexedrine,-0.7853092488472232
+IBS,Adderall,-0.08756265563065042
+IBS,Codeine,-0.07302889179588587
+IBS,Dexedrine,-0.7328561072664591
+Joint pain,Adderall,-0.6632472309129376
+Joint pain,Codeine,-0.5092196378338241
+Joint pain,Dexedrine,-0.9668598329621858
+Memory loss,Adderall,-0.354688020439526
+Memory loss,Codeine,-0.3957537018275002
+Memory loss,Dexedrine,-1.0007804634237896
+Obesity,Adderall,-0.1492647120866836
+Obesity,Codeine,-0.08107236775021158
+Obesity,Dexedrine,-0.576419260482288
+Obsessive-compulsive disorder,Adderall,0.06930084671519496
+Obsessive-compulsive disorder,Codeine,-0.01445382926658066
+Obsessive-compulsive disorder,Dexedrine,-0.6150828560888796
+Rosacea,Adderall,0.13462451558023558
+Rosacea,Codeine,0.2039009042408631
+Rosacea,Dexedrine,-0.41102039949983227
+Sleep apnea,Adderall,-0.1788940416599867
+Sleep apnea,Codeine,-0.11017660422720141
+Sleep apnea,Dexedrine,-0.5182792750268106
+Tinnitus,Adderall,-0.21565935174557516
+Tinnitus,Codeine,-0.06506736702411285
+Tinnitus,Dexedrine,-0.7592615111515542
+Weight gain,Adderall,0.25832353159117705
+Weight gain,Codeine,0.07726202503475707
+Weight gain,Dexedrine,-0.4071322626413678
+Word confusion,Adderall,0.01554215012524851
+Word confusion,Codeine,0.009661414485299363
+Word confusion,Dexedrine,-0.42235620773048804
+Worry,Adderall,0.010239433918034474
+Worry,Codeine,-0.017458776202893538
+Worry,Dexedrine,-0.7128903493688037
+high blood pressure,Adderall,-0.40304672070220215
+high blood pressure,Codeine,-0.5839509032014621
+high blood pressure,Dexedrine,-1.2875903504160267
+Anxiety,Fungus treatment,-0.08818402810008766
+Anxiety,Teas,-0.022540860042520747
+Depression,Teas,-0.06856168097958439
+Fatigue,L-Lysine,0.12090771499178637
+Hairloss,Biotin,-0.4287684264720836
+Hairloss,Iron,-0.012062875831432306
+Hairloss,L-Lysine,0.08090757952681601
+Hairloss,Meloxicam,-0.05553723189445427
+Hairloss,Plaquenil,-0.0847852152383745
+Hairloss,Tart Cherry,-0.021084603022761314
+Mouth sores,Biotin,-0.2941437858902963
+Mouth sores,Iron,-0.050890259693222764
+Mouth sores,L-Lysine,0.1225328469864066
+Mouth sores,Meloxicam,-0.09601360487521512
+Mouth sores,Plaquenil,-0.2627720570824466
+Mouth sores,Tart Cherry,0.0017673845994250759
+Wrist pain,L-Lysine,0.008218918334957429
+Hand pain,Alleve,0.025877988212380063
+Depression,Pamprin multi-symptom,0.22975621459057413
+Irritable bowel syndrome,Azo urinary pain relief,-0.5719358847213081
+Irritable bowel syndrome,Bactrim,-0.2485209466266817
+Nausea,TENS Unit,0.035486027846181975
+Chronic fatigue syndrome,Iron,-0.043442674016941685
+Fatigue,Iron,0.034437864848026245
+Hashimoto's disease,Iron,0.23523333241866345
+Lower Back Pain,Iron,-0.09019002181610454
+Stiffness,Iron,0.24632963296007743
+Acid Reflux,Solifenacin,-0.0388786878309936
+Anxiety,Solifenacin,0.0023980093845273054
+Autism spectrum disorder,Solifenacin,-0.11189256487667774
+Back pain,Solifenacin,-0.09076187682576274
+Bipolar disorder,Solifenacin,0.42999366713457376
+Bloating,Solifenacin,-0.121475610387012
+Blurred vision,Solifenacin,-0.08796823522642588
+Brain fog,Solifenacin,-0.015317781642760542
+Chronic daily headaches,Solifenacin,0.12381183396738563
+Chronic fatigue syndrome,Solifenacin,-0.26823069544269784
+Cold hands,Solifenacin,0.21128621784584337
+Depression,Solifenacin,-0.15951249407127904
+Diarrhea,Solifenacin,0.04755596744573169
+Dry eye,Solifenacin,0.18140252524605655
+Dry skin,Solifenacin,0.21526768290939285
+Fluctuating mood,Solifenacin,-0.08924755300711627
+Frequent urination,Solifenacin,-0.025513722357414947
+Hay fever,Solifenacin,-0.5489231637336323
+Irritable bowel syndrome,Solifenacin,-0.2180257198241785
+Joint weakness,Solifenacin,0.255271917087546
+Menstrual pain,Solifenacin,-1.5829525085112233
+Migraine,Solifenacin,-0.31130449010495287
+Muscle pain,Solifenacin,0.04030086189728488
+Nausea,Solifenacin,0.008829230177237628
+Phobias,Solifenacin,0.24365482964793053
+Runny nose,Solifenacin,0.5611752108755479
+Shaking,Solifenacin,0.3248864027422864
+Sore throat,Solifenacin,0.14361339560202951
+Stiff neck,Solifenacin,-0.21093375868664005
+Stomach Pain,Solifenacin,-0.2991981504354688
+Urinary incontinence,Solifenacin,-0.1185084994316911
+acne,Solifenacin,-0.05532968824877371
+easy to anger,Solifenacin,0.4859588887250899
+hot flush,Solifenacin,-0.40601749753202376
+hyperfocus,Solifenacin,-0.7621009414918861
+itchy privates,Solifenacin,2.186366842969683
+Knee pain,Allegra,-0.2536126632241187
+Knee pain,Ibuprofen,-0.3652404331687005
+Knee pain,Modafinil,-0.09341363541425207
+Knee pain,Prilosec,0.046941064577724206
+Fibromyalgia,Montelukast,-0.3704993637940249
+Hypothyroidism,Montelukast,-0.18270257822144909
+Irritable bowel syndrome,Montelukast,-0.21997220828799038
+Rheumatoid arthritis,Montelukast,-0.15237501022595945
+Anxiety,CBD,0.1834570635164445
+Anxiety,Ibuprofen,-0.039535223368294035
+hopelessness,Cymbalta,0.6196884794118613
+hopelessness,Flexeril,0.569983279343483
+hopelessness,Gabapentin,0.8278769017311435
+hopelessness,Tramadol,0.6996922357290356
+Anxiety,penetrex,0.1279790100260503
+Burning muscles,penetrex,-0.1915597289586507
+Confusion,penetrex,-0.09436964483265338
+Depression,penetrex,-0.044525278696437215
+Fatigue,penetrex,-0.06481409488269028
+Feeling hopeless,penetrex,-0.0954246702552093
+Insomnia,penetrex,0.08264249561039938
+Leg swelling,penetrex,0.025973355630527162
+Menstrual cramps,penetrex,0.24446977999758843
+Mood swings,penetrex,0.2540123323750826
+Muscle spasms,penetrex,-0.02447884090169563
+Neck pain,penetrex,0.09716757917657612
+Painsomnia,penetrex,0.7248786956030038
+Self harm urges,penetrex,-0.24716138200427962
+Subluxation,penetrex,0.007419049639459465
+Suicidal ideation,penetrex,0.0024581653237904406
+Vertigo,penetrex,0.2898255688127886
+nerve pain,penetrex,-0.007144093062504221
+self destructive behaviour,penetrex,-0.2188053094428019
+self hate,penetrex,-0.3571401208866732
+Headaches,Melatonin,-0.04696153245456962
+Chronic fatigue syndrome,Vitamin D3,-0.28812646465026004
+Acid Reflux,Buspirone,0.16273035837219765
+Acid Reflux,Codeine,-0.0501647133153498
+Acid Reflux,DLPA,-0.38252037364783703
+Acid Reflux,Eyebright Complex,-0.1352560653143598
+Acid Reflux,Migraine Diet,0.019605012914461983
+Acid Reflux,Nasonex,0.034922468465340764
+Acid Reflux,Pain management,-0.1563253458489567
+Acid Reflux,Panamax,-0.01630992053386212
+Acid Reflux,Soluble Aspirin,0.23723025837695405
+Acid Reflux,Spironolactone,-0.029605189225996892
+Acid Reflux,Valium,-0.007220932265602435
+Acid Reflux,Ventolin,-0.009864672501731977
+Acid Reflux,Vitamin B,0.07946538563118744
+Acid Reflux,Vitamin a,0.013759270078286173
+Acid Reflux,Voltaren,0.06553740089876536
+Acid Reflux,Vyvanse,0.05489200790130177
+Acid Reflux,Zoladex,-0.040451666083640925
+Acid Reflux,pur-absorb iron,-0.05565876777600691
+Adrenaline effects,Prednisone,-0.08139384672290582
+Anger,Prednisone,0.1663534786870281
+Anhedonia,Prednisone,0.024214883326804493
+Anxiety,Prednisone,0.35496019957452973
+Apathy,Prednisone,0.2488787303551085
+Bloating,Buspirone,-0.08053959620097643
+Bloating,Codeine,-0.2602743925086187
+Bloating,DLPA,-0.5963942611295024
+Bloating,Eyebright Complex,-0.3940662355844432
+Bloating,Migraine Diet,-0.24908556316097152
+Bloating,Nasonex,-0.15066585339575916
+Bloating,Pain management,-0.25674145947976434
+Bloating,Panamax,-0.13096709905522924
+Bloating,Soluble Aspirin,0.14872905130863828
+Bloating,Spironolactone,-0.19003586468438588
+Bloating,Valium,-0.21575144977709731
+Bloating,Ventolin,-0.2235633318366597
+Bloating,Vitamin B,-0.20218284847511095
+Bloating,Vitamin a,-0.045863520070497044
+Bloating,Voltaren,-0.10510230114525337
+Bloating,Vyvanse,-0.06498719819961643
+Bloating,Zoladex,-0.237978727606057
+Bloating,pur-absorb iron,-0.24419400974415856
+Diarrhea,Buspirone,0.2825567256090667
+Diarrhea,Codeine,-0.10183625413306858
+Diarrhea,DLPA,-0.4841033655211832
+Diarrhea,Eyebright Complex,-0.23822704225968225
+Diarrhea,Migraine Diet,-0.09165077335478261
+Diarrhea,Nasonex,-0.121550826777836
+Diarrhea,Pain management,0.08048029844259999
+Diarrhea,Panamax,0.055794578829937325
+Diarrhea,Soluble Aspirin,-0.0850202671623105
+Diarrhea,Spironolactone,-0.06334895018691328
+Diarrhea,Valium,-0.16199203808846785
+Diarrhea,Ventolin,-0.11571229840525595
+Diarrhea,Vitamin B,-0.20694527915970073
+Diarrhea,Vitamin a,-0.06814388383698598
+Diarrhea,Voltaren,0.11020635116829679
+Diarrhea,Vyvanse,-0.42307670082570303
+Diarrhea,Zoladex,-0.17616438247908572
+Diarrhea,pur-absorb iron,0.040241046488118964
+Dizziness,Prednisone,-0.08940855604791707
+Dizziness,Soluble Aspirin,0.10519069367839602
+Dizziness,Voltaren,-0.1806851845052532
+Fatigue,Buspirone,-0.040277280775129196
+Fatigue,Codeine,-0.44302249939082583
+Fatigue,DLPA,-0.45205432481679975
+Fatigue,Eyebright Complex,-0.2901381453900051
+Fatigue,Migraine Diet,-0.07279733512443498
+Fatigue,Nasonex,0.05218315921863685
+Fatigue,Pain management,-0.29082663617930016
+Fatigue,Panamax,-0.23711951247746052
+Fatigue,Soluble Aspirin,-0.01886473911453997
+Fatigue,Spironolactone,-0.3339972676070278
+Fatigue,Valium,-0.1273630560231075
+Fatigue,Ventolin,-0.3360084888072515
+Fatigue,Vitamin B,-0.14543268620172028
+Fatigue,Vitamin a,-0.22123836293104407
+Fatigue,Voltaren,-0.0061059633847319605
+Fatigue,Vyvanse,0.12066581304086235
+Fatigue,Zoladex,-0.3095620270570078
+Fatigue,pur-absorb iron,-0.1203564144200868
+Headache,Buspirone,-0.1108824250426323
+Headache,Codeine,-0.2915284341002696
+Headache,Cranberry,0.04556925081505134
+Headache,DLPA,-0.42232017036613095
+Headache,Eyebright Complex,-0.3350108278247977
+Headache,Fish oil,0.04124154611654427
+Headache,Iron,-0.021269104869026834
+Headache,Migraine Diet,-0.18917202736049601
+Headache,Nasonex,-0.19598786473667776
+Headache,Nutrasea Fish Oil,0.023449303948295957
+Headache,Pain management,-0.2231719829643792
+Headache,Panamax,-0.3631878028782844
+Headache,Progesterone,-0.12183385872217348
+Headache,Slippery elm,0.2789351992565252
+Headache,Soluble Aspirin,-0.10637661199928594
+Headache,Spironolactone,-0.5877648665667667
+Headache,Turmeric tea,0.1675071578726825
+Headache,Valdoxan,-0.5511463843849236
+Headache,Valium,-0.30358703591244923
+Headache,Ventolin,-0.29812751376311875
+Headache,Vitamin B,-0.3107567311134314
+Headache,Vitamin B complex - 50,-0.5847072029002882
+Headache,Vitamin C,-0.1360048739784229
+Headache,Vitamin a,-0.19947419735103628
+Headache,Voltaren,-0.10541768935228046
+Headache,Vyvanse,-0.01198971370355742
+Headache,Yin Chiao,-0.18305249450662253
+Headache,Zoladex,-0.3530382570905203
+Headache,pur-absorb iron,-0.05573269123477537
+Hypomania,Prednisone,0.4179899894119321
+Hypothyroidism,Buspirone,-0.06001114115518904
+Hypothyroidism,Codeine,-0.051225687946860055
+Hypothyroidism,DLPA,-0.5805857485065663
+Hypothyroidism,Eyebright Complex,-0.3790415290798291
+Hypothyroidism,Migraine Diet,-0.27971512986259905
+Hypothyroidism,Nasonex,0.011053420714873155
+Hypothyroidism,Pain management,-0.1311333364114432
+Hypothyroidism,Panamax,-0.20017712599588253
+Hypothyroidism,Soluble Aspirin,-0.08697006031101776
+Hypothyroidism,Spironolactone,0.016461262314972497
+Hypothyroidism,Valium,-0.1164826884941275
+Hypothyroidism,Ventolin,0.0718168896005168
+Hypothyroidism,Vitamin B,-0.24475452574168974
+Hypothyroidism,Vitamin a,-0.1486198684199711
+Hypothyroidism,Voltaren,-0.10799215264520437
+Hypothyroidism,Vyvanse,-0.13874931997813522
+Hypothyroidism,Zoladex,-0.2601289656199932
+Hypothyroidism,pur-absorb iron,-0.25288928282727635
+Lower abdomen pain,Buspirone,0.08018731261293621
+Lower abdomen pain,Codeine,-0.06420099729085603
+Lower abdomen pain,DLPA,-0.4939304438653011
+Lower abdomen pain,Eyebright Complex,-0.2551122731111602
+Lower abdomen pain,Migraine Diet,-0.16154427863776522
+Lower abdomen pain,Nasonex,0.11512654845104651
+Lower abdomen pain,Pain management,-0.13488930012072908
+Lower abdomen pain,Panamax,-0.07435246831257519
+Lower abdomen pain,Soluble Aspirin,-0.02276137547061348
+Lower abdomen pain,Spironolactone,-0.14948525717433692
+Lower abdomen pain,Valium,0.03811886827703348
+Lower abdomen pain,Ventolin,0.030483072050925708
+Lower abdomen pain,Vitamin B,-0.12118333821852717
+Lower abdomen pain,Vitamin a,-0.08817425478551463
+Lower abdomen pain,Voltaren,-0.14237398542428276
+Lower abdomen pain,Vyvanse,-0.21793555033276146
+Lower abdomen pain,Zoladex,-0.11837301240120943
+Lower abdomen pain,pur-absorb iron,-0.18627003696627548
+Nausea,Nutrasea Fish Oil,0.10593969828583825
+Operative-left-shoulder pain,Prednisone,0.49249793748676257
+Ovulation,Prednisone,-1.196276366757127
+Panic Attack,Prednisone,-0.02608187809882232
+Paresthesia,Buspirone,-0.01235357429336563
+Paresthesia,Codeine,-0.2703661867665077
+Paresthesia,DLPA,-0.7208286916999277
+Paresthesia,Eyebright Complex,-0.42692306043180445
+Paresthesia,Migraine Diet,-0.2842108276401741
+Paresthesia,Nasonex,-0.12060968143968356
+Paresthesia,Pain management,-0.19883528712862092
+Paresthesia,Panamax,-0.24894648643721154
+Paresthesia,Soluble Aspirin,-0.20815803981610276
+Paresthesia,Spironolactone,-0.23604501349210952
+Paresthesia,Valium,-0.11572042863087537
+Paresthesia,Ventolin,-0.10588194736564868
+Paresthesia,Vitamin B,-0.3924807361033719
+Paresthesia,Vitamin a,-0.11727678841643
+Paresthesia,Voltaren,-0.0955938852498291
+Paresthesia,Vyvanse,-0.4060408144034265
+Paresthesia,Zoladex,-0.3155741845289023
+Paresthesia,pur-absorb iron,-0.21580628106252503
+Periods,Prednisone,0.6457730398706454
+Periods,Soluble Aspirin,0.38639692506618606
+Periods,Voltaren,0.25249017642846827
+Periods,Zoladex,-0.07072306001829909
+Random isolated pain,Prednisone,0.30317803180882275
+Stiffness,Buspirone,0.2712100955639812
+Stiffness,Codeine,-0.05011288515994813
+Stiffness,DLPA,-0.38035604054939276
+Stiffness,Eyebright Complex,-0.1507267611017386
+Stiffness,Migraine Diet,0.05999933299119091
+Stiffness,Nasonex,0.07851815178697072
+Stiffness,Pain management,0.03816433150495946
+Stiffness,Panamax,0.006458797066976808
+Stiffness,Soluble Aspirin,0.2125032038031932
+Stiffness,Spironolactone,0.21104798965648536
+Stiffness,Valium,0.11662772956011619
+Stiffness,Ventolin,0.08611147782279882
+Stiffness,Vitamin B,0.03697321290594997
+Stiffness,Vitamin a,0.04726204633530903
+Stiffness,Voltaren,0.12776164125340378
+Stiffness,Vyvanse,0.15103036274640608
+Stiffness,Zoladex,-0.10285939004501879
+Stiffness,pur-absorb iron,0.01062261600464481
+Stomach Pain,Prednisone,0.31594648056839875
+Ulcerative colitis,Buspirone,0.2879415281917505
+Ulcerative colitis,Codeine,-0.004919343361081123
+Ulcerative colitis,DLPA,-0.2702380027193302
+Ulcerative colitis,Eyebright Complex,-0.0741183156531238
+Ulcerative colitis,Migraine Diet,0.023833907111348734
+Ulcerative colitis,Nasonex,0.13927023132262284
+Ulcerative colitis,Pain management,0.004717015219536387
+Ulcerative colitis,Panamax,0.10302485081685928
+Ulcerative colitis,Soluble Aspirin,0.2164754253578075
+Ulcerative colitis,Spironolactone,0.2133783056650203
+Ulcerative colitis,Valium,-0.14361249597953918
+Ulcerative colitis,Ventolin,0.20604355037409228
+Ulcerative colitis,Vitamin B,0.004164160048812787
+Ulcerative colitis,Vitamin a,0.05026655457180555
+Ulcerative colitis,Voltaren,0.09992204298623011
+Ulcerative colitis,Vyvanse,0.17652132306698698
+Ulcerative colitis,Zoladex,-0.0899316178404701
+Ulcerative colitis,pur-absorb iron,0.05023726209632881
+Unable to follow a storyline,Prednisone,0.4085011332714312
+Widespread Pain,Prednisone,-0.11236273038806252
+asthma attacks,Prednisone,-0.06482348942999432
+face burning,Prednisone,0.23449428970146766
+intrusive thoughts,Prednisone,-0.05222436303822509
+itchy,Prednisone,-0.34896681858042766
+itchy,Soluble Aspirin,-0.48653192512771326
+itchy,Voltaren,-0.6009154139631374
+nerve pain,Buspirone,0.011969921720150753
+nerve pain,Codeine,-0.09812103704089814
+nerve pain,DLPA,-0.39769351877657844
+nerve pain,Eyebright Complex,-0.27892051115724115
+nerve pain,Migraine Diet,-0.17780099852305303
+nerve pain,Nasonex,0.14474256422553777
+nerve pain,Pain management,-0.0694976536207483
+nerve pain,Panamax,-0.24401625892163953
+nerve pain,Soluble Aspirin,0.012115687210539641
+nerve pain,Spironolactone,-0.025950771154933563
+nerve pain,Valium,-0.16269348773712877
+nerve pain,Ventolin,0.08493881956225802
+nerve pain,Vitamin B,-0.17304489070941453
+nerve pain,Vitamin a,-0.15078310057337158
+nerve pain,Voltaren,-0.02692414825937443
+nerve pain,Vyvanse,0.06443569538081018
+nerve pain,Zoladex,-0.16989244159345585
+nerve pain,pur-absorb iron,-0.09439919512060364
+Bloating,Heating Pad,-0.07584484829568014
+Adult ADHD,Fentanyl,-0.10291085524685782
+Adult ADHD,Morphine,0.18690172517096615
+Bipolar Type 1,Fentanyl,-0.2039419278935278
+Bipolar Type 1,Morphine,0.05874959236903684
+Eye pain,Fentanyl,0.06923822770261355
+Eye pain,Morphine,0.21360970729684828
+Fatigue,Fentanyl,-0.33118386921989873
+Fatigue,Morphine,0.23042992305622031
+Fibromyalgia,Fentanyl,-0.5674472363055398
+Fibromyalgia,Morphine,-0.14151067605382084
+Head Pain,Fentanyl,0.05882018912194048
+Head Pain,Morphine,0.1362368855760825
+Hypothyroidism,Fentanyl,-0.26462167586954793
+Hypothyroidism,Morphine,-0.21773162741958604
+Muscle pain,Fentanyl,-0.5984642128504296
+Muscle pain,Morphine,-0.09697974011109906
+Nausea,Fentanyl,-0.06707736048119864
+Nausea,Morphine,0.026897424475428672
+Crohn's disease,Zofran,0.20075570614958013
+ Low White Blood Count Disorders,Coenzyme q-10,0.21762706283828265
+ Low White Blood Count Disorders,Vitamin d,0.11624998723818088
+Anxiety,Coenzyme q-10,0.17095532570585154
+Anxiety,Vitamin d,0.16571589061604197
+Candida Overgrowth,Coenzyme q-10,0.2783059185652897
+Candida Overgrowth,Vitamin d,0.16493043212046216
+Chronic Migraines,Coenzyme q-10,0.4186820651396639
+Chronic Migraines,Vitamin d,0.33216283219888776
+Cold Extremities ,Coenzyme q-10,0.392174338564007
+Cold Extremities ,Vitamin d,0.3880824959084127
+Depression,Coenzyme q-10,0.37878696139818047
+Depression,Vitamin d,0.3142581491892704
+Epstein-Barr Virus,Coenzyme q-10,0.30741548644471983
+Epstein-Barr Virus,Vitamin d,0.3500525287705357
+Exercise Intolerance,Coenzyme q-10,0.01796703658240799
+Exercise Intolerance,Vitamin d,-0.13475263948857213
+Falling asleep,Coenzyme q-10,0.2968257484239201
+Falling asleep,Vitamin d,0.2886030188845813
+Fatigue,Coenzyme q-10,0.06474040155513727
+Fatigue,Vitamin d,0.3436060573988479
+Feeling unable to cope,Coenzyme q-10,0.2978459467274811
+Feeling unable to cope,Vitamin d,0.16496910463115944
+Fibromyalgia,Coenzyme q-10,-0.05450842730580316
+Fibromyalgia,Vitamin d,-0.05271962585563433
+Foot pain,Coenzyme q-10,0.14105590731667716
+Foot pain,Vitamin d,0.04567767198350686
+Hand pain,Coenzyme q-10,0.22892829987056118
+Hand pain,Vitamin d,0.22276061056237068
+Icthyosis,Coenzyme q-10,0.5088495479956976
+Icthyosis,Vitamin d,0.48902848830684476
+Lower Back Pain,Coenzyme q-10,0.048510503016195444
+Lower Back Pain,Vitamin d,0.16064927430686915
+Memory loss,Walking,-0.20002106910853368
+Memory loss,neuro,0.12751758860555462
+Migraine,Coenzyme q-10,0.29857334121887985
+Migraine,Vitamin d,0.4097898979990422
+Nausea,Coenzyme q-10,0.36487340767121446
+Nausea,Vitamin d,0.44611655953706153
+Neck pain,Coenzyme q-10,0.07817638825588624
+Neck pain,Vitamin d,0.04087048338010971
+Pain,Coenzyme q-10,0.10977107570419654
+Pain,Vitamin d,-0.03839381270178217
+Post-Exertional Malaise,Coenzyme q-10,0.7582110484158144
+Post-Exertional Malaise,Vitamin d,0.840390142456181
+Restless legs syndrome,Coenzyme q-10,0.14252789418870576
+Restless legs syndrome,Vitamin d,0.029506502181179922
+Sleep Length,Coenzyme q-10,0.26778891249760023
+Sleep Length,Vitamin d,0.13946691120736193
+Unable to Communicate,Coenzyme q-10,0.12679295393141857
+Unable to Communicate,Vitamin d,0.2083628329833887
+Unable to make decisions,Coenzyme q-10,0.2942816360135938
+Unable to make decisions,Vitamin d,0.3053480593466843
+Unrefreshing Sleep,Coenzyme q-10,0.3858206849563312
+Unrefreshing Sleep,Vitamin d,0.44011624943471667
+Unsteadiness,Coenzyme q-10,0.21935378255530816
+Unsteadiness,Vitamin d,0.1742191257513636
+adrenal fatigue,Coenzyme q-10,0.28736990573945864
+adrenal fatigue,Vitamin d,0.20571511910450918
+mood,Coenzyme q-10,-0.2422878464575269
+mood,Vitamin d,-0.2252370011893327
+panic attacks,Coenzyme q-10,0.13479243572668329
+panic attacks,Vitamin d,0.17634464923501092
+vitamin D deficiency,Coenzyme q-10,0.5454195622868241
+vitamin D deficiency,Vitamin d,0.6575111647304559
+Lack of Motivation,Melatonin,-0.08185566594107546
+Light sensitivity,Melatonin,-0.13273009132554003
+Menstrual Cycle,Melatonin,0.24810357550457807
+Shooting pain,Melatonin,0.2743771062082412
+forehead headache,Melatonin,0.024099252615719793
+headache back of head,Melatonin,0.024099252615719793
+left ovary pain,Melatonin,0.024099252615719793
+listless ,Melatonin,0.024099252615719793
+Energy,Candesartan,0.040149885835871035
+Lyme disease,Candesartan,0.05437089984879584
+Chest pain,Azathioprine,0.524965695626734
+Chest pain,Citalopram,-0.13348503939536657
+Chest pain,Pentasa,0.039532260758270044
+Chest pain,Subling B12,0.06522911518336585
+Dizziness,Azathioprine,0.26423010868097185
+Dizziness,Citalopram,-0.2155380094299104
+Dizziness,Pentasa,0.08550020477410475
+Dizziness,Subling B12,-0.09357164790249622
+Fatigue,Azathioprine,-0.07808064131441315
+Fatigue,Citalopram,-0.09336773538210973
+Fatigue,Pentasa,0.0401836030941099
+Fatigue,Subling B12,-0.014029903787836761
+Nauseau,Azathioprine,0.21317177487986408
+Nauseau,Citalopram,-0.010547832797322292
+Nauseau,Pentasa,0.19309898128561068
+Nauseau,Subling B12,0.14783960177702896
+Postural Orthostatic Tachycardia Syndrome,Azathioprine,0.13489232441236787
+Postural Orthostatic Tachycardia Syndrome,Citalopram,-0.07984508845775072
+Postural Orthostatic Tachycardia Syndrome,Pentasa,0.17864246573892278
+Postural Orthostatic Tachycardia Syndrome,Subling B12,0.0476546762474444
+Shortness of breath,Azathioprine,0.4288004116082965
+Shortness of breath,Citalopram,-0.01388277138816521
+Shortness of breath,Pentasa,0.11817988780267026
+Shortness of breath,Subling B12,0.09954305176083555
+Tachycardia,Azathioprine,0.279656398025865
+Tachycardia,Citalopram,-0.10984281993831038
+Tachycardia,Pentasa,0.36816329075748583
+Tachycardia,Subling B12,0.15349739222801223
+Tremoring,Azathioprine,0.1610918246935999
+Tremoring,Citalopram,-0.06049269862075614
+Tremoring,Pentasa,0.1667214636941844
+Tremoring,Subling B12,0.07082367504109935
+Vertigo,Azathioprine,0.6100643883308434
+Vertigo,Citalopram,0.12103425417867666
+Vertigo,Pentasa,0.19369323617041773
+Vertigo,Subling B12,0.28811030791930775
+adrenal surges,Azathioprine,0.2455284555263747
+adrenal surges,Citalopram,-0.13335850012357608
+adrenal surges,Pentasa,0.03539196774324828
+adrenal surges,Subling B12,0.041892188993782685
+TMJ disorders,Caffeine,0.1594265979826708
+Bloody Stools,Ginger,0.5102317861572362
+Bloody Stools,MitoQ ,0.4276638084958131
+Diarrhea,Ginger,0.20075693310029796
+Diarrhea,MitoQ ,0.2832017538893329
+Painful evacuation,Ginger,0.11254169926894515
+Painful evacuation,MitoQ ,0.14027539504755146
+Frequent urination,powderlax,-0.0040329370122727665
+Frequent urination,prescription medications,0.20597855475319674
+Middle Back Pain,powderlax,-0.11443189967053286
+Middle Back Pain,prescription medications,0.06960986994663089
+Back pain,Melatonin,-0.0195046568445432
+Depression,Melatonin,-0.04059331536281088
+Diarrhea,Melatonin,0.06532637039087685
+Gas,Melatonin,-0.03712960619711016
+Yeast infection (vaginal),Melatonin,0.5566760594912378
+Bursitis,Adcal-D3,0.3786430340842894
+loose stool,Dexedrine,-0.8596987724543594
+ADHD,Xifaxin,-0.3784612311824611
+Carpal tunnel syndrome,Xifaxin,-0.14454389072321944
+Chronic Migraines,Xifaxin,-0.3426667924222393
+Chronic Pain-Full Body,Xifaxin,-0.17125716196163054
+Chronic headaches,Xifaxin,-0.5377970899113472
+Chronic hives (urticaria),Xifaxin,-0.3250374391166554
+Difficulty concentrating,Valium,-0.1042786245673627
+Fibro fog,Xifaxin,-0.3149466082054204
+Fibromyalgia,Xifaxin,-0.4922679169483942
+GERD,Xifaxin,-0.1474299705184828
+Gastroparesis,Valium,-0.7358856937188593
+Gastroparesis,Xifaxin,-0.8136873832510402
+Pancreatic issue (cat scan sighted),Xifaxin,-0.25168412297575976
+SIBO,Xifaxin,-0.609664542378058
+Sjogren's syndrome,PROPRANOLOL HCL 10 MG TABS,-0.18591036039745779
+Sjogren's syndrome,Xifaxin,-0.36206114122032795
+Sjogren's syndrome,sucrelefate,-0.10620697766340556
+"Sleep apnea,
+  central",Xifaxin,-0.5652241461638305
+Sore throat,Exercise--walking,0.09925079594348307
+Sore throat,sucrelefate,0.1354545889537246
+Sudden onset cramps in belly,sucrelefate,0.08001490287315012
+TMJ disorders,Xifaxin,-0.2559256623175647
+house bound,sucrelefate,-0.43272863482488183
+lung nodules (,Xifaxin,-0.25168412297575976
+major depressive disorder,Xifaxin,-0.2476339462139526
+near-syncope,Xifaxin,-0.3953327032975392
+postural orthostatic tachycardia syndrome (POTS),Xifaxin,-0.20735306701608158
+Altered Sleep Schedule,Immodium,0.15241133896036443
+Altered Sleep Schedule,Pamprin max formula,0.5094340022707297
+Altered Sleep Schedule,massage,0.11303012261992913
+Altered Sleep Schedule,pamprin,0.18462912184969787
+Anxiety,Pamprin max formula,0.4608110816723
+Anxiety,massage,-0.32411754135187243
+Anxiety,pamprin,-0.11052913583364485
+Chronic Depression,pamprin,-0.04562777168129556
+Chronic Migraines,pamprin,0.028062285493819436
+Chronic anxiety,pamprin,0.07616953946795806
+Chronic fatigue syndrome,pamprin,-0.19293627453029177
+Chronic inflammation,pamprin,0.021834330097614246
+Endometriosis,pamprin,0.015565533335402386
+Fybromyalgia,pamprin,-0.17529164464246097
+Hypermobility,pamprin,-0.015573121560521333
+IBS,Pamprin max formula,0.19791404152637818
+IBS,massage,0.2836414973987296
+Joint pain,Pamprin max formula,0.23763206135551107
+Joint pain,massage,-0.3221490852834965
+Joint pain,pamprin,-0.07280580640911591
+Migraines,Immodium,-0.2718561432981391
+Roseacea,Immodium,-0.2056133441093325
+Roseacea,massage,0.05256459831358645
+Roseacea,pamprin,0.0735112461679292
+dislocated shoulder,pamprin,0.44945979489939
+heat exhaustion,Immodium,-0.384105887634442
+hives,Pamprin max formula,0.45060592640222064
+hives,massage,0.19666924400682353
+hives,pamprin,0.13024979745379317
+sensitive to sound,Immodium,-0.29256398317503507
+sinus pain,Immodium,0.1122144167183601
+Fever,Flexeril,0.20682372656592482
+Fever,Vitamin,-0.07457636012161382
+Muscle ache,Flexeril,-0.2004479103746175
+Muscle ache,Vitamin,-0.41338257533497075
+drain blockage,Esopram,0.16085779596727284
