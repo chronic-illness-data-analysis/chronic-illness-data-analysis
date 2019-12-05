@@ -18,3 +18,4 @@ of these diseases and better help the patients managing the symptoms.
 
 * Detailed explnation can be found at https://chronic-illness-data-analysis.github.io/chronic-healers/
 * Check Poster_DM_Final.pdf for a brief summary.
+* UI code can be found at https://github.com/chronic-illness-data-analysis/chronic-healers
